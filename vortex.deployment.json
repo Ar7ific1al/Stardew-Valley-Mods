@@ -2,7 +2,7 @@
   "instance": "7aaa8d1c-13ce-4017-a4fe-8665babe9eba",
   "version": 1,
   "deploymentMethod": "hardlink_activator",
-  "deploymentTime": 1605360092108,
+  "deploymentTime": 1605361741150,
   "stagingPath": "L:\\Vortex Mods\\stardewvalley",
   "targetPath": "L:\\SteamLibrary\\steamapps\\common\\Stardew Valley\\Mods",
   "files": [
@@ -31811,6 +31811,144 @@
       "source": "Seasonal Buildings-1993-1-2-1-1576365654",
       "target": "",
       "time": 1572529484000
+    },
+    {
+      "relPath": "DeepWoodsMod\\manifest.json",
+      "source": "DeepWoodsMod-1.8.3-beta.zip-2571-1-8-3-beta-1596275903",
+      "target": "",
+      "time": 1596304488000
+    },
+    {
+      "relPath": "DeepWoodsMod\\README.txt",
+      "source": "DeepWoodsMod-1.8.3-beta.zip-2571-1-8-3-beta-1596275903",
+      "target": "",
+      "time": 1596304488000
+    },
+    {
+      "relPath": "DeepWoodsMod\\MaxVollmer.StardewValley.DeepWoodsMod.API.dll",
+      "source": "DeepWoodsMod-1.8.3-beta.zip-2571-1-8-3-beta-1596275903",
+      "target": "",
+      "time": 1596304488000
+    },
+    {
+      "relPath": "DeepWoodsMod\\DeepWoodsMod.dll",
+      "source": "DeepWoodsMod-1.8.3-beta.zip-2571-1-8-3-beta-1596275903",
+      "target": "",
+      "time": 1596304488000
+    },
+    {
+      "relPath": "DeepWoodsMod\\assets\\Credits.txt",
+      "source": "DeepWoodsMod-1.8.3-beta.zip-2571-1-8-3-beta-1596275903",
+      "target": "",
+      "time": 1596304488000
+    },
+    {
+      "relPath": "DeepWoodsMod\\assets\\excalibur_stone.png",
+      "source": "DeepWoodsMod-1.8.3-beta.zip-2571-1-8-3-beta-1596275903",
+      "target": "",
+      "time": 1596304488000
+    },
+    {
+      "relPath": "DeepWoodsMod\\assets\\gingerbread_house_mostlyreal.png",
+      "source": "DeepWoodsMod-1.8.3-beta.zip-2571-1-8-3-beta-1596275903",
+      "target": "",
+      "time": 1596304488000
+    },
+    {
+      "relPath": "DeepWoodsMod\\assets\\gingerbread_house_technopoptart98.png",
+      "source": "DeepWoodsMod-1.8.3-beta.zip-2571-1-8-3-beta-1596275903",
+      "target": "",
+      "time": 1596304488000
+    },
+    {
+      "relPath": "DeepWoodsMod\\assets\\lake_tilesheet.png",
+      "source": "DeepWoodsMod-1.8.3-beta.zip-2571-1-8-3-beta-1596275903",
+      "target": "",
+      "time": 1596304488000
+    },
+    {
+      "relPath": "DeepWoodsMod\\assets\\sinceriouslyyy_fountain.png",
+      "source": "DeepWoodsMod-1.8.3-beta.zip-2571-1-8-3-beta-1596275903",
+      "target": "",
+      "time": 1596304488000
+    },
+    {
+      "relPath": "DeepWoodsMod\\assets\\iridium_tree.png",
+      "source": "DeepWoodsMod-1.8.3-beta.zip-2571-1-8-3-beta-1596275903",
+      "target": "",
+      "time": 1596304488000
+    },
+    {
+      "relPath": "DeepWoodsMod\\assets\\unicorn_zhuria.png",
+      "source": "DeepWoodsMod-1.8.3-beta.zip-2571-1-8-3-beta-1596275903",
+      "target": "",
+      "time": 1596304488000
+    },
+    {
+      "relPath": "DeepWoodsMod\\assets\\woods_obelisk_mostlyreal.png",
+      "source": "DeepWoodsMod-1.8.3-beta.zip-2571-1-8-3-beta-1596275903",
+      "target": "",
+      "time": 1596304488000
+    },
+    {
+      "relPath": "DeepWoodsMod\\i18n\\fr.json",
+      "source": "DeepWoodsMod-1.8.3-beta.zip-2571-1-8-3-beta-1596275903",
+      "target": "",
+      "time": 1596304488000
+    },
+    {
+      "relPath": "DeepWoodsMod\\i18n\\default.json",
+      "source": "DeepWoodsMod-1.8.3-beta.zip-2571-1-8-3-beta-1596275903",
+      "target": "",
+      "time": 1596304488000
+    },
+    {
+      "relPath": "DeepWoodsMod\\i18n\\es.json",
+      "source": "DeepWoodsMod-1.8.3-beta.zip-2571-1-8-3-beta-1596275903",
+      "target": "",
+      "time": 1596304488000
+    },
+    {
+      "relPath": "DeepWoodsMod\\i18n\\pt.json",
+      "source": "DeepWoodsMod-1.8.3-beta.zip-2571-1-8-3-beta-1596275903",
+      "target": "",
+      "time": 1596304488000
+    },
+    {
+      "relPath": "DeepWoodsMod\\i18n\\ko.json",
+      "source": "DeepWoodsMod-1.8.3-beta.zip-2571-1-8-3-beta-1596275903",
+      "target": "",
+      "time": 1596304488000
+    },
+    {
+      "relPath": "DeepWoodsMod\\i18n\\zh.json",
+      "source": "DeepWoodsMod-1.8.3-beta.zip-2571-1-8-3-beta-1596275903",
+      "target": "",
+      "time": 1596304488000
+    },
+    {
+      "relPath": "DeepWoodsMod\\i18n\\ru.json",
+      "source": "DeepWoodsMod-1.8.3-beta.zip-2571-1-8-3-beta-1596275903",
+      "target": "",
+      "time": 1596304488000
+    },
+    {
+      "relPath": "DeepWoodsMod\\DeepWoodsMod.pdb",
+      "source": "DeepWoodsMod-1.8.3-beta.zip-2571-1-8-3-beta-1596275903",
+      "target": "",
+      "time": 1596304488000
+    },
+    {
+      "relPath": "DeepWoodsMod\\assets\\bush_thorns.png",
+      "source": "DeepWoodsMod-1.8.3-beta.zip-2571-1-8-3-beta-1596275903",
+      "target": "",
+      "time": 1596304488000
+    },
+    {
+      "relPath": "DeepWoodsMod\\i18n\\Credits.txt",
+      "source": "DeepWoodsMod-1.8.3-beta.zip-2571-1-8-3-beta-1596275903",
+      "target": "",
+      "time": 1596304488000
     }
   ]
 }
