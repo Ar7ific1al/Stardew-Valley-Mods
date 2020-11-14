@@ -2,7 +2,7 @@
   "instance": "7aaa8d1c-13ce-4017-a4fe-8665babe9eba",
   "version": 1,
   "deploymentMethod": "hardlink_activator",
-  "deploymentTime": 1605361963356,
+  "deploymentTime": 1605362410257,
   "stagingPath": "L:\\Vortex Mods\\stardewvalley",
   "targetPath": "L:\\SteamLibrary\\steamapps\\common\\Stardew Valley\\Mods",
   "files": [
@@ -31979,6 +31979,390 @@
       "source": "Summit Reborn (1.5)-2073-1-5-1-1583027382",
       "target": "",
       "time": 1582906612000
+    },
+    {
+      "relPath": "Swim\\Swim.dll",
+      "source": "Swim Mod-6326-1-4-0-1601253908",
+      "target": "",
+      "time": 1601261062000
+    },
+    {
+      "relPath": "Swim\\Swim.pdb",
+      "source": "Swim Mod-6326-1-4-0-1601253908",
+      "target": "",
+      "time": 1601261062000
+    },
+    {
+      "relPath": "Swim\\assets\\swim-map-content.json",
+      "source": "Swim Mod-6326-1-4-0-1601253908",
+      "target": "",
+      "time": 1601261062000
+    },
+    {
+      "relPath": "Swim\\assets\\seamonster.png",
+      "source": "Swim Mod-6326-1-4-0-1601253908",
+      "target": "",
+      "time": 1601261062000
+    },
+    {
+      "relPath": "Swim\\assets\\wavebank.json",
+      "source": "Swim Mod-6326-1-4-0-1601253908",
+      "target": "",
+      "time": 1601261062000
+    },
+    {
+      "relPath": "Swim\\assets\\Fishies\\BigFishGold.png",
+      "source": "Swim Mod-6326-1-4-0-1601253908",
+      "target": "",
+      "time": 1601261062000
+    },
+    {
+      "relPath": "Swim\\assets\\Fishies\\BigFishGreen.png",
+      "source": "Swim Mod-6326-1-4-0-1601253908",
+      "target": "",
+      "time": 1601261062000
+    },
+    {
+      "relPath": "Swim\\assets\\Fishies\\BigFishBlue.png",
+      "source": "Swim Mod-6326-1-4-0-1601253908",
+      "target": "",
+      "time": 1601261062000
+    },
+    {
+      "relPath": "Swim\\assets\\Fishies\\BigFishGrey.png",
+      "source": "Swim Mod-6326-1-4-0-1601253908",
+      "target": "",
+      "time": 1601261062000
+    },
+    {
+      "relPath": "Swim\\assets\\Fishies\\BigFishGreenWhite.png",
+      "source": "Swim Mod-6326-1-4-0-1601253908",
+      "target": "",
+      "time": 1601261062000
+    },
+    {
+      "relPath": "Swim\\assets\\Fishies\\BigFishRed.png",
+      "source": "Swim Mod-6326-1-4-0-1601253908",
+      "target": "",
+      "time": 1601261062000
+    },
+    {
+      "relPath": "Swim\\assets\\Fishies\\BigFishWhite.png",
+      "source": "Swim Mod-6326-1-4-0-1601253908",
+      "target": "",
+      "time": 1601261062000
+    },
+    {
+      "relPath": "Swim\\assets\\Fishies\\ChestCrab.png",
+      "source": "Swim Mod-6326-1-4-0-1601253908",
+      "target": "",
+      "time": 1601261062000
+    },
+    {
+      "relPath": "Swim\\assets\\Fishies\\BlueFish.png",
+      "source": "Swim Mod-6326-1-4-0-1601253908",
+      "target": "",
+      "time": 1601261062000
+    },
+    {
+      "relPath": "Swim\\assets\\Fishies\\HermitCrab.png",
+      "source": "Swim Mod-6326-1-4-0-1601253908",
+      "target": "",
+      "time": 1601261062000
+    },
+    {
+      "relPath": "Swim\\assets\\Fishies\\GreenFish.png",
+      "source": "Swim Mod-6326-1-4-0-1601253908",
+      "target": "",
+      "time": 1601261062000
+    },
+    {
+      "relPath": "Swim\\assets\\Fishies\\PinkFish.png",
+      "source": "Swim Mod-6326-1-4-0-1601253908",
+      "target": "",
+      "time": 1601261062000
+    },
+    {
+      "relPath": "Swim\\assets\\Fishies\\HermitCrab.xcf",
+      "source": "Swim Mod-6326-1-4-0-1601253908",
+      "target": "",
+      "time": 1601261062000
+    },
+    {
+      "relPath": "Swim\\assets\\tmx-pack\\manifest.json",
+      "source": "Swim Mod-6326-1-4-0-1601253908",
+      "target": "",
+      "time": 1601261062000
+    },
+    {
+      "relPath": "Swim\\assets\\tmx-pack\\assets\\27.tbin",
+      "source": "Swim Mod-6326-1-4-0-1601253908",
+      "target": "",
+      "time": 1601261062000
+    },
+    {
+      "relPath": "Swim\\assets\\tmx-pack\\assets\\CrystalCaveDark.tbin",
+      "source": "Swim Mod-6326-1-4-0-1601253908",
+      "target": "",
+      "time": 1601261062000
+    },
+    {
+      "relPath": "Swim\\assets\\tmx-pack\\assets\\Cave.tbin",
+      "source": "Swim Mod-6326-1-4-0-1601253908",
+      "target": "",
+      "time": 1601261062000
+    },
+    {
+      "relPath": "Swim\\assets\\tmx-pack\\assets\\CrystalCave.tbin",
+      "source": "Swim Mod-6326-1-4-0-1601253908",
+      "target": "",
+      "time": 1601261062000
+    },
+    {
+      "relPath": "Swim\\assets\\tmx-pack\\assets\\DesertTiles.png",
+      "source": "Swim Mod-6326-1-4-0-1601253908",
+      "target": "",
+      "time": 1601261062000
+    },
+    {
+      "relPath": "Swim\\assets\\tmx-pack\\assets\\mine.png",
+      "source": "Swim Mod-6326-1-4-0-1601253908",
+      "target": "",
+      "time": 1601261062000
+    },
+    {
+      "relPath": "Swim\\assets\\tmx-pack\\assets\\Forest.tbin",
+      "source": "Swim Mod-6326-1-4-0-1601253908",
+      "target": "",
+      "time": 1601261062000
+    },
+    {
+      "relPath": "Swim\\assets\\tmx-pack\\assets\\ElliottHouseTiles.png",
+      "source": "Swim Mod-6326-1-4-0-1601253908",
+      "target": "",
+      "time": 1601261062000
+    },
+    {
+      "relPath": "Swim\\assets\\tmx-pack\\assets\\spring_beach.png",
+      "source": "Swim Mod-6326-1-4-0-1601253908",
+      "target": "",
+      "time": 1601261062000
+    },
+    {
+      "relPath": "Swim\\assets\\tmx-pack\\assets\\mine_frost.png",
+      "source": "Swim Mod-6326-1-4-0-1601253908",
+      "target": "",
+      "time": 1601261062000
+    },
+    {
+      "relPath": "Swim\\assets\\tmx-pack\\assets\\mine_dark.png",
+      "source": "Swim Mod-6326-1-4-0-1601253908",
+      "target": "",
+      "time": 1601261062000
+    },
+    {
+      "relPath": "Swim\\assets\\tmx-pack\\assets\\spring_outdoorsTileSheet.png",
+      "source": "Swim Mod-6326-1-4-0-1601253908",
+      "target": "",
+      "time": 1601261062000
+    },
+    {
+      "relPath": "Swim\\i18n\\ko.json",
+      "source": "Swim Mod-6326-1-4-0-1601253908",
+      "target": "",
+      "time": 1601261062000
+    },
+    {
+      "relPath": "Swim\\assets\\tmx-pack\\assets\\UnderwaterBeach.tbin",
+      "source": "Swim Mod-6326-1-4-0-1601253908",
+      "target": "",
+      "time": 1601261062000
+    },
+    {
+      "relPath": "Swim\\assets\\tmx-pack\\assets\\UnderwaterTown.tbin",
+      "source": "Swim Mod-6326-1-4-0-1601253908",
+      "target": "",
+      "time": 1601261062000
+    },
+    {
+      "relPath": "Swim\\assets\\tmx-pack\\assets\\UnderwaterMountain.tbin",
+      "source": "Swim Mod-6326-1-4-0-1601253908",
+      "target": "",
+      "time": 1601261062000
+    },
+    {
+      "relPath": "Swim\\assets\\breathe.wav",
+      "source": "Swim Mod-6326-1-4-0-1601253908",
+      "target": "",
+      "time": 1601261062000
+    },
+    {
+      "relPath": "Swim\\assets\\notes.txt",
+      "source": "Swim Mod-6326-1-4-0-1601253908",
+      "target": "",
+      "time": 1601261062000
+    },
+    {
+      "relPath": "Swim\\assets\\json-assets\\Boots\\Scuba Fins\\boots.png",
+      "source": "Swim Mod-6326-1-4-0-1601253908",
+      "target": "",
+      "time": 1601261062000
+    },
+    {
+      "relPath": "Swim\\assets\\json-assets\\Hats\\Scuba Mask\\hat.xcf",
+      "source": "Swim Mod-6326-1-4-0-1601253908",
+      "target": "",
+      "time": 1601261062000
+    },
+    {
+      "relPath": "Swim\\assets\\json-assets\\Shirts\\Scuba Tank\\male.png",
+      "source": "Swim Mod-6326-1-4-0-1601253908",
+      "target": "",
+      "time": 1601261062000
+    },
+    {
+      "relPath": "Swim\\assets\\json-assets\\Shirts\\Scuba Tank\\shirt.json",
+      "source": "Swim Mod-6326-1-4-0-1601253908",
+      "target": "",
+      "time": 1601261062000
+    },
+    {
+      "relPath": "Swim\\assets\\json-assets\\Shirts\\Scuba Tank\\male-color.png",
+      "source": "Swim Mod-6326-1-4-0-1601253908",
+      "target": "",
+      "time": 1601261062000
+    },
+    {
+      "relPath": "Swim\\assets\\json-assets\\content-pack.json",
+      "source": "Swim Mod-6326-1-4-0-1601253908",
+      "target": "",
+      "time": 1601261062000
+    },
+    {
+      "relPath": "Swim\\manifest.json",
+      "source": "Swim Mod-6326-1-4-0-1601253908",
+      "target": "",
+      "time": 1601261062000
+    },
+    {
+      "relPath": "Swim\\assets\\json-assets\\Shirts\\Scuba Tank\\shirt.xcf",
+      "source": "Swim Mod-6326-1-4-0-1601253908",
+      "target": "",
+      "time": 1601261062000
+    },
+    {
+      "relPath": "Swim\\assets\\Fishies\\BigFishBlack.png",
+      "source": "Swim Mod-6326-1-4-0-1601253908",
+      "target": "",
+      "time": 1601261062000
+    },
+    {
+      "relPath": "Swim\\assets\\scuba.png",
+      "source": "Swim Mod-6326-1-4-0-1601253908",
+      "target": "",
+      "time": 1601261062000
+    },
+    {
+      "relPath": "Swim\\assets\\tmx-pack\\content.json",
+      "source": "Swim Mod-6326-1-4-0-1601253908",
+      "target": "",
+      "time": 1601261062000
+    },
+    {
+      "relPath": "Swim\\i18n\\default.json",
+      "source": "Swim Mod-6326-1-4-0-1601253908",
+      "target": "",
+      "time": 1601261062000
+    },
+    {
+      "relPath": "Swim\\assets\\tmx-pack\\assets\\Abigail.tbin",
+      "source": "Swim Mod-6326-1-4-0-1601253908",
+      "target": "",
+      "time": 1601261062000
+    },
+    {
+      "relPath": "Swim\\assets\\json-assets\\Boots\\Scuba Fins\\color.png",
+      "source": "Swim Mod-6326-1-4-0-1601253908",
+      "target": "",
+      "time": 1601261062000
+    },
+    {
+      "relPath": "Swim\\assets\\json-assets\\Hats\\Scuba Mask\\hat.png",
+      "source": "Swim Mod-6326-1-4-0-1601253908",
+      "target": "",
+      "time": 1601261062000
+    },
+    {
+      "relPath": "Swim\\assets\\json-assets\\Shirts\\Scuba Tank\\female-color.png",
+      "source": "Swim Mod-6326-1-4-0-1601253908",
+      "target": "",
+      "time": 1601261062000
+    },
+    {
+      "relPath": "Swim\\assets\\json-assets\\Shirts\\Scuba Tank\\female.png",
+      "source": "Swim Mod-6326-1-4-0-1601253908",
+      "target": "",
+      "time": 1601261062000
+    },
+    {
+      "relPath": "Swim\\assets\\json-assets\\Hats\\Scuba Mask\\hat.json",
+      "source": "Swim Mod-6326-1-4-0-1601253908",
+      "target": "",
+      "time": 1601261062000
+    },
+    {
+      "relPath": "Swim\\assets\\json-assets\\Boots\\Scuba Fins\\boots.json",
+      "source": "Swim Mod-6326-1-4-0-1601253908",
+      "target": "",
+      "time": 1601261062000
+    },
+    {
+      "relPath": "GemIsles\\GemIsles.pdb",
+      "source": "Gem Isles-6692-0-2-5-1598903435",
+      "target": "",
+      "time": 1598910362000
+    },
+    {
+      "relPath": "GemIsles\\manifest.json",
+      "source": "Gem Isles-6692-0-2-5-1598903435",
+      "target": "",
+      "time": 1598910362000
+    },
+    {
+      "relPath": "GemIsles\\assets\\isles.tbin",
+      "source": "Gem Isles-6692-0-2-5-1598903435",
+      "target": "",
+      "time": 1598910362000
+    },
+    {
+      "relPath": "GemIsles\\assets\\spring_beach.png",
+      "source": "Gem Isles-6692-0-2-5-1598903435",
+      "target": "",
+      "time": 1598910362000
+    },
+    {
+      "relPath": "GemIsles\\assets\\winter_beach.png",
+      "source": "Gem Isles-6692-0-2-5-1598903435",
+      "target": "",
+      "time": 1598910362000
+    },
+    {
+      "relPath": "GemIsles\\assets\\summer_beach.png",
+      "source": "Gem Isles-6692-0-2-5-1598903435",
+      "target": "",
+      "time": 1598910362000
+    },
+    {
+      "relPath": "GemIsles\\GemIsles.dll",
+      "source": "Gem Isles-6692-0-2-5-1598903435",
+      "target": "",
+      "time": 1598910362000
+    },
+    {
+      "relPath": "GemIsles\\assets\\fall_beach.png",
+      "source": "Gem Isles-6692-0-2-5-1598903435",
+      "target": "",
+      "time": 1598910362000
     }
   ]
 }
