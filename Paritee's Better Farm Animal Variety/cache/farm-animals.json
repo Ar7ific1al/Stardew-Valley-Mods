@@ -1,0 +1,528 @@
+{
+  "Categories": [
+    {
+      "Category": "Chicken",
+      "Types": [
+        {
+          "Type": "White Chicken",
+          "Data": null,
+          "DeluxeProduceLuck": 0.0,
+          "Sprites": {
+            "Baby": null,
+            "Adult": null,
+            "ReadyForHarvest": null
+          },
+          "Localization": {}
+        },
+        {
+          "Type": "Brown Chicken",
+          "Data": null,
+          "DeluxeProduceLuck": 0.0,
+          "Sprites": {
+            "Baby": null,
+            "Adult": null,
+            "ReadyForHarvest": null
+          },
+          "Localization": {}
+        },
+        {
+          "Type": "Blue Chicken",
+          "Data": null,
+          "DeluxeProduceLuck": 0.0,
+          "Sprites": {
+            "Baby": null,
+            "Adult": null,
+            "ReadyForHarvest": null
+          },
+          "Localization": {}
+        },
+        {
+          "Type": "Void Chicken",
+          "Data": null,
+          "DeluxeProduceLuck": 0.0,
+          "Sprites": {
+            "Baby": null,
+            "Adult": null,
+            "ReadyForHarvest": null
+          },
+          "Localization": {}
+        }
+      ],
+      "Buildings": [
+        "Coop",
+        "Big Coop",
+        "Deluxe Coop"
+      ],
+      "AnimalShop": {
+        "Name": "Chicken",
+        "Description": "Well cared-for adult chickens lay eggs every day.",
+        "Icon": "L:\\SteamLibrary\\steamapps\\common\\Stardew Valley\\Mods\\Paritee's Better Farm Animal Variety\\assets\\AnimalShop\\Chicken.png",
+        "Exclude": [
+          "Void Chicken"
+        ]
+      }
+    },
+    {
+      "Category": "Dairy Cow",
+      "Types": [
+        {
+          "Type": "White Cow",
+          "Data": null,
+          "DeluxeProduceLuck": 0.0,
+          "Sprites": {
+            "Baby": null,
+            "Adult": null,
+            "ReadyForHarvest": null
+          },
+          "Localization": {}
+        },
+        {
+          "Type": "Brown Cow",
+          "Data": null,
+          "DeluxeProduceLuck": 0.0,
+          "Sprites": {
+            "Baby": null,
+            "Adult": null,
+            "ReadyForHarvest": null
+          },
+          "Localization": {}
+        }
+      ],
+      "Buildings": [
+        "Barn",
+        "Big Barn",
+        "Deluxe Barn"
+      ],
+      "AnimalShop": {
+        "Name": "Dairy Cow",
+        "Description": "Adults can be milked daily. A milk pail is required to harvest the milk.",
+        "Icon": "L:\\SteamLibrary\\steamapps\\common\\Stardew Valley\\Mods\\Paritee's Better Farm Animal Variety\\assets\\AnimalShop\\DairyCow.png",
+        "Exclude": []
+      }
+    },
+    {
+      "Category": "Goat",
+      "Types": [
+        {
+          "Type": "Goat",
+          "Data": null,
+          "DeluxeProduceLuck": 0.0,
+          "Sprites": {
+            "Baby": null,
+            "Adult": null,
+            "ReadyForHarvest": null
+          },
+          "Localization": {}
+        }
+      ],
+      "Buildings": [
+        "Big Barn",
+        "Deluxe Barn"
+      ],
+      "AnimalShop": {
+        "Name": "Goat",
+        "Description": "Happy adults provide goat milk every other day. A milk pail is required to harvest the milk.",
+        "Icon": "L:\\SteamLibrary\\steamapps\\common\\Stardew Valley\\Mods\\Paritee's Better Farm Animal Variety\\assets\\AnimalShop\\Goat.png",
+        "Exclude": []
+      }
+    },
+    {
+      "Category": "Duck",
+      "Types": [
+        {
+          "Type": "Duck",
+          "Data": null,
+          "DeluxeProduceLuck": 0.01,
+          "Sprites": {
+            "Baby": null,
+            "Adult": null,
+            "ReadyForHarvest": null
+          },
+          "Localization": {}
+        }
+      ],
+      "Buildings": [
+        "Big Coop",
+        "Deluxe Coop"
+      ],
+      "AnimalShop": {
+        "Name": "Duck",
+        "Description": "Happy adults lay duck eggs every other day.",
+        "Icon": "L:\\SteamLibrary\\steamapps\\common\\Stardew Valley\\Mods\\Paritee's Better Farm Animal Variety\\assets\\AnimalShop\\Duck.png",
+        "Exclude": []
+      }
+    },
+    {
+      "Category": "Sheep",
+      "Types": [
+        {
+          "Type": "Sheep",
+          "Data": null,
+          "DeluxeProduceLuck": 0.0,
+          "Sprites": {
+            "Baby": null,
+            "Adult": null,
+            "ReadyForHarvest": null
+          },
+          "Localization": {}
+        },
+        {
+          "Type": "Black Sheep",
+          "Data": "2/4/Black Wool/-1/sheep/24/64/84/64/24/64/84/64/1/true/Barn/32/32/32/32/15/5/Shears/644/8000/Black Sheep/Barn",
+          "DeluxeProduceLuck": 0.0,
+          "Sprites": {
+            "Baby": "L:\\SteamLibrary\\steamapps\\common\\Stardew Valley\\Mods\\[BFAV] Trent's New Animals\\assets/BabyBlack_Sheep.png",
+            "Adult": "L:\\SteamLibrary\\steamapps\\common\\Stardew Valley\\Mods\\[BFAV] Trent's New Animals\\assets/ShearedBlack_Sheep.png",
+            "ReadyForHarvest": "L:\\SteamLibrary\\steamapps\\common\\Stardew Valley\\Mods\\[BFAV] Trent's New Animals\\assets/Black_Sheep.png"
+          },
+          "Localization": {}
+        }
+      ],
+      "Buildings": [
+        "Deluxe Barn"
+      ],
+      "AnimalShop": {
+        "Name": "Sheep",
+        "Description": "Adults can be shorn for wool. Sheep who form a close bond with their owners can grow wool faster. A pair of shears is required to harvest the wool.",
+        "Icon": "L:\\SteamLibrary\\steamapps\\common\\Stardew Valley\\Mods\\Paritee's Better Farm Animal Variety\\assets\\AnimalShop\\Sheep.png",
+        "Exclude": []
+      }
+    },
+    {
+      "Category": "Rabbit",
+      "Types": [
+        {
+          "Type": "Rabbit",
+          "Data": null,
+          "DeluxeProduceLuck": 0.02,
+          "Sprites": {
+            "Baby": null,
+            "Adult": null,
+            "ReadyForHarvest": null
+          },
+          "Localization": {}
+        }
+      ],
+      "Buildings": [
+        "Deluxe Coop"
+      ],
+      "AnimalShop": {
+        "Name": "Rabbit",
+        "Description": "These are wooly rabbits! They shed precious wool every few days.",
+        "Icon": "L:\\SteamLibrary\\steamapps\\common\\Stardew Valley\\Mods\\Paritee's Better Farm Animal Variety\\assets\\AnimalShop\\Rabbit.png",
+        "Exclude": []
+      }
+    },
+    {
+      "Category": "Pig",
+      "Types": [
+        {
+          "Type": "Pig",
+          "Data": null,
+          "DeluxeProduceLuck": 0.0,
+          "Sprites": {
+            "Baby": null,
+            "Adult": null,
+            "ReadyForHarvest": null
+          },
+          "Localization": {}
+        }
+      ],
+      "Buildings": [
+        "Deluxe Barn"
+      ],
+      "AnimalShop": {
+        "Name": "Pig",
+        "Description": "These pigs are trained to find truffles!",
+        "Icon": "L:\\SteamLibrary\\steamapps\\common\\Stardew Valley\\Mods\\Paritee's Better Farm Animal Variety\\assets\\AnimalShop\\Pig.png",
+        "Exclude": []
+      }
+    },
+    {
+      "Category": "Dinosaur",
+      "Types": [
+        {
+          "Type": "Dinosaur",
+          "Data": null,
+          "DeluxeProduceLuck": 0.0,
+          "Sprites": {
+            "Baby": null,
+            "Adult": null,
+            "ReadyForHarvest": null
+          },
+          "Localization": {}
+        }
+      ],
+      "Buildings": [
+        "Big Coop",
+        "Deluxe Coop"
+      ],
+      "AnimalShop": null
+    },
+    {
+      "Category": "Squirrel",
+      "Types": [
+        {
+          "Type": "Black Squirrel",
+          "Data": "1/6/408/114/rabbit/8/32/48/32/8/32/48/32/0/false/Coop/16/16/16/16/4/7/null/641/1200/Black Squirrel/Coop",
+          "DeluxeProduceLuck": 0.2,
+          "Sprites": {
+            "Baby": "L:\\SteamLibrary\\steamapps\\common\\Stardew Valley\\Mods\\[BFAV] Squirrels\\assets/BabyBlack Squirrel.png",
+            "Adult": "L:\\SteamLibrary\\steamapps\\common\\Stardew Valley\\Mods\\[BFAV] Squirrels\\assets/Black Squirrel",
+            "ReadyForHarvest": null
+          },
+          "Localization": {}
+        },
+        {
+          "Type": "Brown Squirrel",
+          "Data": "1/6/408/114/rabbit/8/32/48/32/8/32/48/32/0/false/Coop/16/16/16/16/4/7/null/641/1200/Brown Squirrel/Coop",
+          "DeluxeProduceLuck": 0.0,
+          "Sprites": {
+            "Baby": "L:\\SteamLibrary\\steamapps\\common\\Stardew Valley\\Mods\\[BFAV] Squirrels\\assets/BabyBrown Squirrel.png",
+            "Adult": "L:\\SteamLibrary\\steamapps\\common\\Stardew Valley\\Mods\\[BFAV] Squirrels\\assets/Brown Squirrel.png",
+            "ReadyForHarvest": null
+          },
+          "Localization": {}
+        },
+        {
+          "Type": "Light Brown Squirrel",
+          "Data": "1/6/408/114/rabbit/8/32/48/32/8/32/48/32/0/false/Coop/16/16/16/16/4/7/null/641/1200/Light Brown Squirrel/Coop",
+          "DeluxeProduceLuck": 0.0,
+          "Sprites": {
+            "Baby": "L:\\SteamLibrary\\steamapps\\common\\Stardew Valley\\Mods\\[BFAV] Squirrels\\assets/BabyLight Brown Squirrel.png",
+            "Adult": "L:\\SteamLibrary\\steamapps\\common\\Stardew Valley\\Mods\\[BFAV] Squirrels\\assets/Light Brown Squirrel.png",
+            "ReadyForHarvest": null
+          },
+          "Localization": {}
+        },
+        {
+          "Type": "Grey Brown Squirrel",
+          "Data": "1/6/408/114/rabbit/8/32/48/32/8/32/48/32/0/false/Coop/16/16/16/16/4/7/null/641/1200/Grey Brown Squirrel/Coop",
+          "DeluxeProduceLuck": 0.0,
+          "Sprites": {
+            "Baby": "L:\\SteamLibrary\\steamapps\\common\\Stardew Valley\\Mods\\[BFAV] Squirrels\\assets/BabyGrey Brown Squirrel.png",
+            "Adult": "L:\\SteamLibrary\\steamapps\\common\\Stardew Valley\\Mods\\[BFAV] Squirrels\\assets/Grey Brown Squirrel.png",
+            "ReadyForHarvest": null
+          },
+          "Localization": {}
+        },
+        {
+          "Type": "Tan Squirrel",
+          "Data": "1/6/408/114/rabbit/8/32/48/32/8/32/48/32/0/false/Coop/16/16/16/16/4/7/null/641/1200/Tan Squirrel/Coop",
+          "DeluxeProduceLuck": 0.0,
+          "Sprites": {
+            "Baby": "L:\\SteamLibrary\\steamapps\\common\\Stardew Valley\\Mods\\[BFAV] Squirrels\\assets/BabyTan Squirrel.png",
+            "Adult": "L:\\SteamLibrary\\steamapps\\common\\Stardew Valley\\Mods\\[BFAV] Squirrels\\assets/Tan Squirrel.png",
+            "ReadyForHarvest": null
+          },
+          "Localization": {}
+        },
+        {
+          "Type": "Grey Squirrel",
+          "Data": "1/6/408/114/rabbit/8/32/48/32/8/32/48/32/0/false/Coop/16/16/16/16/4/7/null/641/1200/Grey Squirrel/Coop",
+          "DeluxeProduceLuck": 0.0,
+          "Sprites": {
+            "Baby": "L:\\SteamLibrary\\steamapps\\common\\Stardew Valley\\Mods\\[BFAV] Squirrels\\assets/BabyGrey Squirrel.png",
+            "Adult": "L:\\SteamLibrary\\steamapps\\common\\Stardew Valley\\Mods\\[BFAV] Squirrels\\assets/Grey Squirrel.png",
+            "ReadyForHarvest": null
+          },
+          "Localization": {}
+        },
+        {
+          "Type": "Red Squirrel",
+          "Data": "1/6/408/114/rabbit/8/32/48/32/8/32/48/32/0/false/Coop/16/16/16/16/4/7/null/641/1200/Red Squirrel/Coop",
+          "DeluxeProduceLuck": 0.0,
+          "Sprites": {
+            "Baby": "L:\\SteamLibrary\\steamapps\\common\\Stardew Valley\\Mods\\[BFAV] Squirrels\\assets/BabyRed Squirrel.png",
+            "Adult": "L:\\SteamLibrary\\steamapps\\common\\Stardew Valley\\Mods\\[BFAV] Squirrels\\assets/Red Squirrel.png",
+            "ReadyForHarvest": null
+          },
+          "Localization": {}
+        },
+        {
+          "Type": "White Squirrel",
+          "Data": "1/6/408/114/rabbit/8/32/48/32/8/32/48/32/0/false/Coop/16/16/16/16/4/7/null/641/1200/White Squirrel/Coop",
+          "DeluxeProduceLuck": 0.2,
+          "Sprites": {
+            "Baby": "L:\\SteamLibrary\\steamapps\\common\\Stardew Valley\\Mods\\[BFAV] Squirrels\\assets/BabyWhite Squirrel.png",
+            "Adult": "L:\\SteamLibrary\\steamapps\\common\\Stardew Valley\\Mods\\[BFAV] Squirrels\\assets/White Squirrel.png",
+            "ReadyForHarvest": null
+          },
+          "Localization": {}
+        }
+      ],
+      "Buildings": [
+        "Big Coop",
+        "Deluxe Coop"
+      ],
+      "AnimalShop": {
+        "Name": "Squirrel",
+        "Description": "These squirrels loves to hunt around for nuts no matter what time of year it is. Sometimes, they even drop a little wool.",
+        "Icon": "L:\\SteamLibrary\\steamapps\\common\\Stardew Valley\\Mods\\[BFAV] Squirrels\\assets\\animal_shop_squirrel.png",
+        "Exclude": [
+          "Void Chicken"
+        ]
+      }
+    },
+    {
+      "Category": "Silkworm",
+      "Types": [
+        {
+          "Type": "Silkworm",
+          "Data": "2/8/-1/Silk Cocoon/none/8/32/48/32/8/32/48/32/0/false/Coop/16/16/16/16/5/1/null/684/15000/Silkworm/Coop",
+          "DeluxeProduceLuck": 0.02,
+          "Sprites": {
+            "Baby": "L:\\SteamLibrary\\steamapps\\common\\Stardew Valley\\Mods\\[BFAV] Trent's New Animals\\assets/Silkworm_Baby.png",
+            "Adult": "L:\\SteamLibrary\\steamapps\\common\\Stardew Valley\\Mods\\[BFAV] Trent's New Animals\\assets/Silkworm.png",
+            "ReadyForHarvest": null
+          },
+          "Localization": {}
+        }
+      ],
+      "Buildings": [
+        "Deluxe Coop"
+      ],
+      "AnimalShop": {
+        "Name": "Silkworm",
+        "Description": "Happy adults have a chance of producing silk cocoons that can be used to make silk cloth, as very valuable type of cloth.",
+        "Icon": "L:\\SteamLibrary\\steamapps\\common\\Stardew Valley\\Mods\\[BFAV] Trent's New Animals\\assets\\animal_shop_silkworm.png",
+        "Exclude": [
+          "Void Chicken"
+        ]
+      }
+    },
+    {
+      "Category": "Armadillos",
+      "Types": [
+        {
+          "Type": "Armadillo",
+          "Data": "1/4/535/749/rabbit/8/32/48/32/8/32/48/32/1/false/Coop/16/16/16/16/1/8/null/644/2500/Armadillo/Coop",
+          "DeluxeProduceLuck": 0.0,
+          "Sprites": {
+            "Baby": "L:\\SteamLibrary\\steamapps\\common\\Stardew Valley\\Mods\\[BFAV] Trent's New Animals\\assets/babyarmadillo.png",
+            "Adult": "L:\\SteamLibrary\\steamapps\\common\\Stardew Valley\\Mods\\[BFAV] Trent's New Animals\\assets/armadillo.png",
+            "ReadyForHarvest": null
+          },
+          "Localization": {}
+        }
+      ],
+      "Buildings": [
+        "Big Coop",
+        "Deluxe Coop"
+      ],
+      "AnimalShop": {
+        "Name": "Armadillo",
+        "Description": "These armadillos knows how to find good geodes.",
+        "Icon": "L:\\SteamLibrary\\steamapps\\common\\Stardew Valley\\Mods\\[BFAV] Trent's New Animals\\assets/animal_shop_dillo.png",
+        "Exclude": null
+      }
+    },
+    {
+      "Category": "Buffalo",
+      "Types": [
+        {
+          "Type": "Buffalo",
+          "Data": "1/6/Buffalo Milk/L. Buffalo Milk/cow/24/64/84/64/24/64/84/64/1/false/Barn/32/32/32/32/15/5/Milk Pail/639/2500/Buffalo/Barn",
+          "DeluxeProduceLuck": 0.0,
+          "Sprites": {
+            "Baby": "L:\\SteamLibrary\\steamapps\\common\\Stardew Valley\\Mods\\[BFAV] Trent's New Animals\\assets/babyBuffalo.png",
+            "Adult": "L:\\SteamLibrary\\steamapps\\common\\Stardew Valley\\Mods\\[BFAV] Trent's New Animals\\assets/Buffalo.png",
+            "ReadyForHarvest": null
+          },
+          "Localization": {}
+        }
+      ],
+      "Buildings": [
+        "Big Barn",
+        "Deluxe Barn"
+      ],
+      "AnimalShop": {
+        "Name": "Buffalo",
+        "Description": "A domesticated buffalo that produces milk once adult.",
+        "Icon": "L:\\SteamLibrary\\steamapps\\common\\Stardew Valley\\Mods\\[BFAV] Trent's New Animals\\assets\\animal_shop_buffalo.png",
+        "Exclude": [
+          "Void Chicken"
+        ]
+      }
+    },
+    {
+      "Category": "Mole",
+      "Types": [
+        {
+          "Type": "Mole",
+          "Data": "1/4/770/114/rabbit/8/32/48/32/8/32/48/32/1/false/Coop/16/16/16/16/1/8/null/644/500/Mole/Coop",
+          "DeluxeProduceLuck": 0.005,
+          "Sprites": {
+            "Baby": "L:\\SteamLibrary\\steamapps\\common\\Stardew Valley\\Mods\\[BFAV] Trent's New Animals\\assets/babymole.png",
+            "Adult": "L:\\SteamLibrary\\steamapps\\common\\Stardew Valley\\Mods\\[BFAV] Trent's New Animals\\assets/mole.png",
+            "ReadyForHarvest": null
+          },
+          "Localization": {}
+        }
+      ],
+      "Buildings": [
+        "Coop",
+        "Big Coop",
+        "Deluxe Coop"
+      ],
+      "AnimalShop": {
+        "Name": "Mole",
+        "Description": "A mole that can dig out seeds from the ground.",
+        "Icon": "L:\\SteamLibrary\\steamapps\\common\\Stardew Valley\\Mods\\[BFAV] Trent's New Animals\\assets\\animal_shop_mole.png",
+        "Exclude": [
+          "Void Chicken"
+        ]
+      }
+    },
+    {
+      "Category": "Peacock",
+      "Types": [
+        {
+          "Type": "Peacock",
+          "Data": "2/10/Peacock Feather/-1/parrot/24/64/84/64/24/64/84/64/0/false/Barn/32/32/32/32/15/5/null/641/12000/Peacock/Barn",
+          "DeluxeProduceLuck": 0.0,
+          "Sprites": {
+            "Baby": "L:\\SteamLibrary\\steamapps\\common\\Stardew Valley\\Mods\\[BFAV] Trent's New Animals\\assets/babypeacock.png",
+            "Adult": "L:\\SteamLibrary\\steamapps\\common\\Stardew Valley\\Mods\\[BFAV] Trent's New Animals\\assets/peacock.png",
+            "ReadyForHarvest": null
+          },
+          "Localization": {}
+        }
+      ],
+      "Buildings": [
+        "Deluxe Barn"
+      ],
+      "AnimalShop": {
+        "Name": "Peacock",
+        "Description": "Peacocks lay one of the most beautiful feathers among all birds.",
+        "Icon": "L:\\SteamLibrary\\steamapps\\common\\Stardew Valley\\Mods\\[BFAV] Trent's New Animals\\assets\\animal_shop_peacock.png",
+        "Exclude": null
+      }
+    },
+    {
+      "Category": "Deer",
+      "Types": [
+        {
+          "Type": "Deer",
+          "Data": "3/12/Deer Milk/L. Deer Milk/none/24/64/84/64/24/64/84/64/1/false/Barn/32/32/32/32/15/5/Milk Pail/644/10000/Deer/Barn",
+          "DeluxeProduceLuck": 0.0,
+          "Sprites": {
+            "Baby": "L:\\SteamLibrary\\steamapps\\common\\Stardew Valley\\Mods\\[BFAV] Trent's New Animals\\assets/BabyDeer.png",
+            "Adult": "L:\\SteamLibrary\\steamapps\\common\\Stardew Valley\\Mods\\[BFAV] Trent's New Animals\\assets/Deer.png",
+            "ReadyForHarvest": null
+          },
+          "Localization": {}
+        }
+      ],
+      "Buildings": [
+        "Deluxe Barn"
+      ],
+      "AnimalShop": {
+        "Name": "Deer",
+        "Description": "Domesticated deer that produces milk.",
+        "Icon": "L:\\SteamLibrary\\steamapps\\common\\Stardew Valley\\Mods\\[BFAV] Trent's New Animals\\assets\\animal_shop_deer.png",
+        "Exclude": null
+      }
+    }
+  ]
+}

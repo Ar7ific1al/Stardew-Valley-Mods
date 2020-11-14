@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Harvest Flowers with Scythe",
+  "Author": "br93",
+  "Version": "1.0.0",
+  "Description": "",
+  "UniqueID": "br93.HarvestFlowersScythe",
+  "MinimumApiVersion": "",
+  "UpdateKeys": ["Nexus:7127"],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher", 
+    "MinimumVersion": "1.11.0"
+  }
+}

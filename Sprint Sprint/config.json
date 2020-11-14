@@ -1,0 +1,14 @@
+{
+  "SprintKey": "LeftShift",
+  "HoldToSprint": true,
+  "SprintSpeed": 6,
+  "HorseSpeed": 5,
+  "StaminaDrain": {
+    "Enabled": true,
+    "StaminaCost": 0.01
+  },
+  "NoSprintIfTooTired": {
+    "Enabled": true,
+    "TiredStamina": 20.0
+  }
+}

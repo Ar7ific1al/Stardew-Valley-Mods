@@ -1,0 +1,10 @@
+{
+  "Name": "Ace Farms Expanded MTN TheNewBeet",
+  "Author": "Acerbicon",
+  "Version": "1.2.9",
+  "UniqueID": "Acerbicon.AFEMTNthenewbeet",
+  "UpdateKeys": ["Nexus:2711"],
+  "ContentPackFor": {
+    "UniqueID": "SgtPickles.MTN"
+  }
+}

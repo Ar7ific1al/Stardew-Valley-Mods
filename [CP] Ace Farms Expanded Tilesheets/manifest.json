@@ -1,0 +1,12 @@
+{
+    "Name": "Ace Farms Expanded Tilesheets",
+    "Author": "Acerbicon",
+    "Version": "1.2.9",
+    "UniqueID": "Acerbicon.AFETilesheets",
+    "MinimumApiVersion": "2.7",
+    "UpdateKeys": [ "Nexus:2711" ],
+    "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher",
+    "MinimumVersion": "1.0.0"
+    }
+}

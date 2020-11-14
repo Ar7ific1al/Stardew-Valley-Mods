@@ -1,0 +1,13 @@
+{
+   "Name": "Ghibli Scarecrows",
+   "Author": "Crazy_Leen,AceLeangle,Eleila",
+   "Version": "1.4.1",
+   "Description": "Makes all scarecrows Ghibli themed.",
+   "UniqueID": "Crazy_Leen.GhibliScarecrows",
+   "MinimumApiVersion": "2.0",
+   "UpdateKeys": [ "Nexus:6253" ],
+   "ContentPackFor": {
+    	"UniqueID": "Pathoschild.ContentPatcher", // the ID of required mod
+    	"MinimumVersion": "1.4.0" // optional
+  }
+}

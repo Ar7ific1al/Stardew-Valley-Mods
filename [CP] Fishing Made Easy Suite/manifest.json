@@ -1,0 +1,13 @@
+{
+  "Name": "Fishing Made Easy Suite",
+  "Author": "Ericlegacy",
+  "Version": "2.0.7",
+  "Description": "Enable a setting under the config.json file in Mods/[CP] Fishing Made Easy Suite. Enable a setting by replacing 'false' with 'true'. You can only enable ONE setting at a time!!",
+  "UniqueID": "Ericlegacy.FishingMadeEasy",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": [ "Nexus:3623" ],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher", // the ID of required mod
+    "MinimumVersion": "1.12.0" // optional
+  }
+}

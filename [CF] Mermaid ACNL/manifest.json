@@ -1,0 +1,11 @@
+﻿{
+  "Name": "Mermaid Furniture ACNL x Stardew",
+  "Author": "Tanilon",
+  "Version": "1.2.0",
+  "Description": "Mermaid series for Stardew Valley",
+  "UniqueID": "Tanilon.CustomFurniture.Mermaid",
+  "ContentPackFor": {
+    "UniqueID": "Platonymous.CustomFurniture",
+    "MinimumVersion": "0.8.6"
+  }
+}

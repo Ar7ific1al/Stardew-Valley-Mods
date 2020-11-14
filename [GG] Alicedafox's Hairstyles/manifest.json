@@ -1,0 +1,12 @@
+{
+	"Name": "Alicedafox's  Recolored Hairstyles for Get Glam",
+	"Author": "Alicedafox",
+	"Version": "1.0.1",
+	"Description": "Add new hairstyles",
+	"UniqueID": "Alicedafox.GG.Hairstyles",
+	"MinimumApiVersion": "3.0.0",
+	"UpdateKeys": ["Nexus:5195"],
+	"ContentPackFor": {
+		"UniqueID": "MartyrPher.GetGlam", // the ID of required mod
+	}
+}

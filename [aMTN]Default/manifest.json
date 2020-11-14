@@ -1,0 +1,11 @@
+{
+  "Name": "Ace Farms Expanded MTN Default",
+  "Author": "Acerbicon",
+  "Version": "1.2.9",
+  "UniqueID": "Acerbicon.AFEMTNdefault",
+  "MinimumApiVersion": "2.5",
+  "UpdateKeys": ["Nexus:2711"],
+  "ContentPackFor": {
+    "UniqueID": "SgtPickles.MTN"
+  }
+}

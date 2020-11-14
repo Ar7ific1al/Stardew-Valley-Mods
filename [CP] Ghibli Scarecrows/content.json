@@ -1,0 +1,11 @@
+{
+  "Format": "1.4",
+  "Changes": [
+       // CustomCraftables
+       {
+          "Action": "Load",
+          "Target": "TileSheets/Craftables",
+          "FromFile": "assets/GhibliScarecrows.png"
+       }
+    ]
+}

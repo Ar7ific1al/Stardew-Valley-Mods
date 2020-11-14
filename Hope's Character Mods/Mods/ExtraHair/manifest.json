@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Extra Hair",
+   "Author": "Demiacle",
+   "Version": {
+      "MajorVersion": 0,
+      "MinorVersion": 1,
+      "PatchVersion": 1,
+      "Build": 1
+   },
+   "Description": "Adds extra hair to customization menus",
+   "UniqueID": "Demiacle.ExtraHair",
+   "EntryDll": "ExtraHair.dll"
+}

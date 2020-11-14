@@ -1,0 +1,167 @@
+{
+    "Description": "xGamAram Farm_A Riverlands farm edit.",
+    "Folder": "[aMTN]xGamAram",
+    "ID": 182,
+    "Name": "xGamAram's Riverlands Farm",
+    "AllowClose": true,
+    "AllowSeperate": true,
+    "CabinCapacity": 6,
+    "FarmCave": {
+        "PointOfInteraction": {
+            "x": 34,
+            "y": 6
+        }
+    },
+    "FarmHouse": {
+        "Coordinates": {
+            "x": 58,
+            "y": 8.1875
+        },
+        "PointOfInteraction": {
+            "x": 64,
+            "y": 15
+        }
+    },
+    "FarmMap": {
+        FileName: "xGamAram",
+    },
+    "FurnitureLayoutFromCanon": 1,
+    "GrandpaShrine": {
+        "PointOfInteraction": {
+            "x": 8,
+            "y": 7
+        }
+    },
+    "GreenHouse": {
+        "Coordinates": {
+            "x": 25.0,
+            "y": 6.0
+        },
+        "PointOfInteraction": {
+            "x": 28,
+            "y": 16
+        }
+    },
+    "Icon": "icon.png",
+    "MailBox": {
+        "PointOfInteraction": {
+            "x": 68,
+            "y": 16
+        }
+    },
+  "Neighbors": [
+    {
+      "MapName": "Backwoods",
+      "WarpPoints": [
+        {
+          "FromX": 13,
+          "FromY": 40,
+          "ToX": 40,
+          "ToY": 0
+        },
+        {
+          "FromX": 14,
+          "FromY": 40,
+          "ToX": 40,
+          "ToY": 0
+        },
+        {
+          "FromX": 15,
+          "FromY": 40,
+          "ToX": 40,
+          "ToY": 0
+        }
+      ]
+    },
+    {
+      "MapName": "BusStop",
+      "WarpPoints": [
+        {
+          "FromX": -1,
+          "FromY": 22,
+          "ToX": 103,
+          "ToY": 17
+        },
+        {
+          "FromX": -1,
+          "FromY": 23,
+          "ToX": 103,
+          "ToY": 17
+        },
+        {
+          "FromX": -1,
+          "FromY": 24,
+          "ToX": 103,
+          "ToY": 17
+        },
+        {
+          "FromX": -1,
+          "FromY": 25,
+          "ToX": 103,
+          "ToY": 17
+        }
+      ]
+    },
+    {
+      "MapName": "Forest",
+      "WarpPoints": [
+        {
+          "FromX": 67,
+          "FromY": -1,
+          "ToX": 41,
+          "ToY": 66
+        },
+        {
+          "FromX": 68,
+          "FromY": -1,
+          "ToX": 41,
+          "ToY": 66
+        },
+        {
+          "FromX": 69,
+          "FromY": -1,
+          "ToX": 41,
+          "ToY": 66
+        },
+        {
+          "FromX": 70,
+          "FromY": -1,
+          "ToX": 41,
+          "ToY": 66
+        },
+        {
+          "FromX": 71,
+          "FromY": -1,
+          "ToX": 41,
+          "ToY": 66
+        },
+        {
+          "FromX": 72,
+          "FromY": -1,
+          "ToX": 41,
+          "ToY": 66
+        }
+      ]
+    }
+  ],
+  "PetWaterBowl": {
+    "PointOfInteraction": {
+      "x": 54,
+      "y": 7
+    }
+  },
+  "RabbitShrine": {
+    "PointOfInteraction": {
+      "x": 48,
+      "y": 7
+    }
+  },
+    "ShippingBin": {
+        "PointOfInteraction": {
+            "x": 71,
+            "y": 13
+        }
+    },
+  "SpawnMonstersAtNight": false,
+  "Version": 2.0
+}

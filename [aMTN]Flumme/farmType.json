@@ -1,0 +1,773 @@
+{
+    "Description": "Flumme Farm_A Forest farm edit.",
+    "Folder": "[aMTN]Flumme",
+    "ID": 159,
+    "Name": "Flumme's Forest Farm",
+    "AllowClose": true,
+    "AllowSeperate": true,
+    "CabinCapacity": 6,
+    "FarmCave": {
+        "PointOfInteraction": {
+            "x": 34,
+            "y": 6
+        }
+    },
+    "FarmHouse": {
+        "Coordinates": {
+            "x": 58,
+            "y": 8.1875
+        },
+        "PointOfInteraction": {
+            "x": 64,
+            "y": 15
+        }
+    },
+    "FarmMap": {
+        FileName: "Flumme",
+    },
+    "FurnitureLayoutFromCanon": 2,
+    "grandpaShrine": {
+        "PointOfInteraction": {
+            "x": 8,
+            "y": 7
+        }
+    },
+    "greenHouse": {
+        "Coordinates": {
+            "x": 25.0,
+            "y": 6.0
+        },
+        "PointOfInteraction": {
+            "x": 28,
+            "y": 16
+        }
+    },
+    "Icon": "icon.png",
+    "mailBox": {
+        "PointOfInteraction": {
+            "x": 68,
+            "y": 16
+        }
+    },
+  "Neighbors": [
+    {
+      "MapName": "Backwoods",
+      "warpPoints": [
+        {
+          "FromX": 13,
+          "FromY": 40,
+          "ToX": 40,
+          "ToY": 0
+        },
+        {
+          "FromX": 14,
+          "FromY": 40,
+          "ToX": 40,
+          "ToY": 0
+        },
+        {
+          "FromX": 15,
+          "FromY": 40,
+          "ToX": 40,
+          "ToY": 0
+        }
+      ]
+    },
+    {
+      "MapName": "BusStop",
+      "warpPoints": [
+        {
+          "FromX": -1,
+          "FromY": 22,
+          "ToX": 114,
+          "ToY": 11
+        },
+        {
+          "FromX": -1,
+          "FromY": 23,
+          "ToX": 114,
+          "ToY": 11
+        },
+        {
+          "FromX": -1,
+          "FromY": 24,
+          "ToX": 114,
+          "ToY": 11
+        },
+        {
+          "FromX": -1,
+          "FromY": 25,
+          "ToX": 114,
+          "ToY": 11
+        }
+      ]
+    },
+    {
+      "MapName": "Forest",
+      "warpPoints": [
+        {
+          "FromX": 67,
+          "FromY": -1,
+          "ToX": 40,
+          "ToY": 78
+        },
+        {
+          "FromX": 68,
+          "FromY": -1,
+          "ToX": 40,
+          "ToY": 78
+        },
+        {
+          "FromX": 69,
+          "FromY": -1,
+          "ToX": 40,
+          "ToY": 78
+        },
+        {
+          "FromX": 70,
+          "FromY": -1,
+          "ToX": 40,
+          "ToY": 78
+        },
+        {
+          "FromX": 71,
+          "FromY": -1,
+          "ToX": 40,
+          "ToY": 78
+        },
+        {
+          "FromX": 72,
+          "FromY": -1,
+          "ToX": 40,
+          "ToY": 78
+        }
+      ]
+    }
+  ],
+  "PetWaterBowl": {
+    "PointOfInteraction": {
+      "x": 54,
+      "y": 7
+    }
+  },
+  "RabbitShrine": {
+    "PointOfInteraction": {
+      "x": 48,
+      "y": 7
+    }
+  },
+    "shippingBin": {
+        "PointOfInteraction": {
+            "x": 71,
+            "y": 13
+        }
+    },
+  "spawnMonstersAtNight": false,
+    "Foraging": {
+        "ResourceList": [
+            {
+                "ItemId": 16,
+                "Seasons": "SpringOnly",
+                "Boundary": "areaBound",
+                "MapWide": true,
+                "Chance": 0.15,
+                "AmountMin": 5,
+                "AmountMax": 10,
+            "CooldownMin": 0,
+            "CooldownMax": 1,
+            "SkillLevel": 0
+            },
+            {
+                "ItemId": 18,
+                "Seasons": "SpringOnly",
+                "Boundary": "areaBound",
+                "MapWide": true,
+                "Chance": 0.15,
+                "AmountMin": 5,
+                "AmountMax": 10,
+            "CooldownMin": 0,
+            "CooldownMax": 1,
+            "SkillLevel": 0
+            },
+            {
+                "ItemId": 20,
+                "Seasons": "SpringOnly",
+                "Boundary": "areaBound",
+                "MapWide": true,
+                "Chance": 0.15,
+                "AmountMin": 5,
+                "AmountMax": 10,
+            "CooldownMin": 0,
+            "CooldownMax": 1,
+            "SkillLevel": 0
+            },
+            {
+                "ItemId": 22,
+                "Seasons": "SpringOnly",
+                "Boundary": "areaBound",
+                "MapWide": true,
+                "Chance": 0.15,
+                "AmountMin": 5,
+                "AmountMax": 10,
+            "CooldownMin": 0,
+            "CooldownMax": 1,
+            "SkillLevel": 0
+            },
+            {
+                "ItemId": 257,
+                "Seasons": "SpringOnly",
+                "Boundary": "areaBound",
+                "MapWide": true,
+                "Chance": 0.15,
+                "AmountMin": 5,
+                "AmountMax": 10,
+            "CooldownMin": 0,
+            "CooldownMax": 1,
+            "SkillLevel": 0
+            },
+            {
+                "ItemId": 404,
+                "Seasons": "notWinter",
+                "Boundary": "areaBound",
+                "MapWide": true,
+                "Chance": 0.15,
+                "AmountMin": 5,
+                "AmountMax": 10,
+            "CooldownMin": 0,
+            "CooldownMax": 1,
+            "SkillLevel": 0
+            },
+            {
+                "ItemId": 396,
+                "Seasons": "SummerOnly",
+                "Boundary": "areaBound",
+                "MapWide": true,
+                "Chance": 0.15,
+                "AmountMin": 5,
+                "AmountMax": 10,
+            "CooldownMin": 0,
+            "CooldownMax": 1,
+            "SkillLevel": 0
+            },
+            {
+                "ItemId": 398,
+                "Seasons": "SummerOnly",
+                "Boundary": "areaBound",
+                "MapWide": true,
+                "Chance": 0.15,
+                "AmountMin": 5,
+                "AmountMax": 10,
+            "CooldownMin": 0,
+            "CooldownMax": 1,
+            "SkillLevel": 0
+            },
+            {
+                "ItemId": 259,
+                "Seasons": "SummerOnly",
+                "Boundary": "areaBound",
+                "MapWide": true,
+                "Chance": 0.15,
+                "AmountMin": 5,
+                "AmountMax": 10,
+            "CooldownMin": 0,
+            "CooldownMax": 1,
+            "SkillLevel": 0
+            },
+            {
+                "ItemId": 402,
+                "Seasons": "SummerOnly",
+                "Boundary": "areaBound",
+                "MapWide": true,
+                "Chance": 0.15,
+                "AmountMin": 5,
+                "AmountMax": 10,
+            "CooldownMin": 0,
+            "CooldownMax": 1,
+            "SkillLevel": 0
+            },
+            {
+                "ItemId": 420,
+                "Seasons": "SummerFall",
+                "Boundary": "areaBound",
+                "MapWide": true,
+                "Chance": 0.15,
+                "AmountMin": 5,
+                "AmountMax": 10,
+            "CooldownMin": 0,
+            "CooldownMax": 1,
+            "SkillLevel": 0
+            },
+            {
+                "ItemId": 406,
+                "Seasons": "FallOnly",
+                "Boundary": "areaBound",
+                "MapWide": true,
+                "Chance": 0.15,
+                "AmountMin": 5,
+                "AmountMax": 10,
+            "CooldownMin": 0,
+            "CooldownMax": 1,
+            "SkillLevel": 0
+            },
+            {
+                "ItemId": 408,
+                "Seasons": "FallOnly",
+                "Boundary": "areaBound",
+                "MapWide": true,
+                "Chance": 0.15,
+                "AmountMin": 5,
+                "AmountMax": 10,
+            "CooldownMin": 0,
+            "CooldownMax": 1,
+            "SkillLevel": 0
+            },
+            {
+                "ItemId": 410,
+                "Seasons": "FallOnly",
+                "Boundary": "areaBound",
+                "MapWide": true,
+                "Chance": 0.15,
+                "AmountMin": 5,
+                "AmountMax": 10,
+            "CooldownMin": 0,
+            "CooldownMax": 1,
+            "SkillLevel": 0
+            },
+            {
+                "ItemId": 281,
+                "Seasons": "FallOnly",
+                "Boundary": "areaBound",
+                "MapWide": true,
+                "Chance": 0.15,
+                "AmountMin": 5,
+                "AmountMax": 10,
+            "CooldownMin": 0,
+            "CooldownMax": 1,
+            "SkillLevel": 0
+            },
+            {
+                "ItemId": 283,
+                "Seasons": "WinterOnly",
+                "Boundary": "areaBound",
+                "MapWide": true,
+                "Chance": 0.15,
+                "AmountMin": 5,
+                "AmountMax": 10,
+            "CooldownMin": 0,
+            "CooldownMax": 1,
+            "SkillLevel": 0
+            },
+            {
+                "ItemId": 412,
+                "Seasons": "WinterOnly",
+                "Boundary": "areaBound",
+                "MapWide": true,
+                "Chance": 0.15,
+                "AmountMin": 5,
+                "AmountMax": 10,
+            "CooldownMin": 0,
+            "CooldownMax": 1,
+            "SkillLevel": 0
+            },
+            {
+                "ItemId": 414,
+                "Seasons": "WinterOnly",
+                "Boundary": "areaBound",
+                "MapWide": true,
+                "Chance": 0.15,
+                "AmountMin": 5,
+                "AmountMax": 10,
+            "CooldownMin": 0,
+            "CooldownMax": 1,
+            "SkillLevel": 0
+            },
+            {
+                "ItemId": 416,
+                "Seasons": "WinterOnly",
+                "Boundary": "areaBound",
+                "MapWide": true,
+                "Chance": 0.15,
+                "AmountMin": 5,
+                "AmountMax": 10,
+            "CooldownMin": 0,
+            "CooldownMax": 1,
+            "SkillLevel": 0
+            },
+            {
+                "ItemId": 418,
+                "Seasons": "WinterOnly",
+                "Boundary": "areaBound",
+                "MapWide": true,
+                "Chance": 0.15,
+                "AmountMin": 5,
+                "AmountMax": 10,
+            "CooldownMin": 0,
+            "CooldownMax": 1,
+            "SkillLevel": 0
+            }
+      ]
+  },
+    "ResourceClumps": {
+        "ResourceList": [
+        {
+            "ItemId": 600,
+            "Seasons": "allYear",
+            "Boundary": "areaBound",
+            "AreaBinding": {
+                "X": 0,
+                "Y": 34,
+                "Width": 25,
+                "Height": 30
+            },
+            "Chance": 0.6,
+            "AmountMin": 6,
+            "AmountMax": 0,
+            "NewMonthAmount": {
+                "Additive": 4.0,
+                "Multipler": 0.0
+            },
+            "NewYearAmount": {
+               "Additive": 0.0,
+                "Multipler": 4.0
+            },
+            "CooldownMin": 2,
+            "CooldownMax": 4,
+            "SkillLevel": 3
+        },
+        {
+            "ItemId": 602,
+            "Seasons": "allYear",
+            "Boundary": "areaBound",
+            "AreaBinding": {
+                "X": 0,
+                "Y": 34,
+                "Width": 25,
+                "Height": 30
+            },
+            "Chance": 0.6,
+            "AmountMin": 6,
+            "AmountMax": 0,
+            "NewMonthAmount": {
+                "Additive": 4.0,
+                "Multipler": 0.0
+            },
+            "NewYearAmount": {
+               "Additive": 0.0,
+                "Multipler": 4.0
+            },
+            "CooldownMin": 2,
+            "CooldownMax": 4,
+            "SkillLevel": 5
+        }
+    ]
+  },
+    "Ores": {
+        "ResourceList": [
+            {
+                "ItemId": 751,
+                "Seasons": "allYear",
+                "Boundary": "areaBound",
+                "AreaBinding": {
+                    "X": 132,
+                    "Y": 28,
+                    "Width": 16,
+                    "Height": 10
+                 },
+                "Chance": 0.75,
+                "NewMonthModifier": {
+                    "Additive": 0.2,
+                    "Multipler": 1.0
+                },
+                "CooldownMin": 2,
+                "CooldownMax": 1,
+                "SkillLevel": 1
+            },
+            {
+                "ItemId": 290,
+                "Seasons": "allYear",
+                "Boundary": "areaBound",
+                "AreaBinding": {
+                    "X": 132,
+                    "Y": 28,
+                    "Width": 16,
+                    "Height": 10
+                 },
+                "Chance": 0.50,
+                "NewMonthModifier": {
+                    "Additive": 0.2,
+                    "Multipler": 1.0
+                },
+                "CooldownMin": 3,
+                "CooldownMax": 1,
+                "SkillLevel": 3
+            },
+            {
+                "ItemId": 764,
+                "Seasons": "allYear",
+                "Boundary": "areaBound",
+                "AreaBinding": {
+                    "X": 132,
+                    "Y": 28,
+                    "Width": 16,
+                    "Height": 10
+                 },
+                "Chance": 0.50,
+                "NewMonthModifier": {
+                    "Additive": 0.2,
+                    "Multipler": 1.0
+                },
+                "CooldownMin": 5,
+                "CooldownMax": 1,
+                "SkillLevel": 5
+            },
+            {
+                "ItemId": 765,
+                "Seasons": "allYear",
+                "Boundary": "areaBound",
+                "AreaBinding": {
+                    "X": 132,
+                    "Y": 28,
+                    "Width": 16,
+                    "Height": 10
+                 },
+                "Chance": 0.25,
+                "NewMonthModifier": {
+                    "Additive": 0.2,
+                    "Multipler": 1.0
+                },
+                "CooldownMin": 5,
+                "CooldownMax": 1,
+                "SkillLevel": 10
+            },
+            {
+                "ItemId": 46,
+                "Seasons": "allYear",
+                "Boundary": "areaBound",
+                "AreaBinding": {
+                    "X": 132,
+                    "Y": 28,
+                    "Width": 16,
+                    "Height": 10
+                 },
+                "Chance": 0.25,
+                "NewMonthModifier": {
+                    "Additive": 0.2,
+                    "Multipler": 1.0
+                },
+                "CooldownMin": 5,
+                "CooldownMax": 1,
+                "SkillLevel": 10
+            },
+            {
+                "ItemId": 77,
+                "Seasons": "allYear",
+                "Boundary": "areaBound",
+                "AreaBinding": {
+                    "X": 132,
+                    "Y": 28,
+                    "Width": 16,
+                    "Height": 10
+                 },
+                "Chance": 0.35,
+                "NewMonthModifier": {
+                    "Additive": 0.2,
+                    "Multipler": 1.0
+                },
+                "CooldownMin": 5,
+                "CooldownMax": 1,
+                "SkillLevel": 8
+            },
+            {
+                "ItemId": 76,
+                "Seasons": "allYear",
+                "Boundary": "areaBound",
+                "AreaBinding": {
+                    "X": 132,
+                    "Y": 28,
+                    "Width": 16,
+                    "Height": 10
+                 },
+                "Chance": 0.45,
+                "NewMonthModifier": {
+                    "Additive": 0.2,
+                    "Multipler": 1.0
+                },
+                "CooldownMin": 5,
+                "CooldownMax": 1,
+                "SkillLevel": 6
+            },
+            {
+                "ItemId": 75,
+                "Seasons": "allYear",
+                "Boundary": "areaBound",
+                "AreaBinding": {
+                    "X": 132,
+                    "Y": 28,
+                    "Width": 16,
+                    "Height": 10
+                 },
+                "Chance": 0.55,
+                "NewMonthModifier": {
+                    "Additive": 0.2,
+                    "Multipler": 1.0
+                },
+                "CooldownMin": 5,
+                "CooldownMax": 1,
+                "SkillLevel": 4
+            },
+            {
+                "ItemId": 44,
+                "Seasons": "allYear",
+                "Boundary": "areaBound",
+                "AreaBinding": {
+                    "X": 132,
+                    "Y": 28,
+                    "Width": 16,
+                    "Height": 10
+                 },
+                "Chance": 0.75,
+                "NewMonthModifier": {
+                    "Additive": 0.2,
+                    "Multipler": 1.0
+                },
+                "CooldownMin": 5,
+                "CooldownMax": 1,
+                "SkillLevel": 4
+            },
+            {
+                "ItemId": 14,
+                "Seasons": "allYear",
+                "Boundary": "areaBound",
+                "AreaBinding": {
+                    "X": 132,
+                    "Y": 28,
+                    "Width": 16,
+                    "Height": 10
+                 },
+                "Chance": 0.75,
+                "NewMonthModifier": {
+                    "Additive": 0.2,
+                    "Multipler": 1.0
+                },
+                "CooldownMin": 5,
+                "CooldownMax": 1,
+                "SkillLevel": 4
+            },
+            {
+                "ItemId": 12,
+                "Seasons": "allYear",
+                "Boundary": "areaBound",
+                "AreaBinding": {
+                    "X": 132,
+                    "Y": 28,
+                    "Width": 16,
+                    "Height": 10
+                 },
+                "Chance": 0.75,
+                "NewMonthModifier": {
+                    "Additive": 0.2,
+                    "Multipler": 1.0
+                },
+                "CooldownMin": 5,
+                "CooldownMax": 1,
+                "SkillLevel": 4
+            },
+            {
+                "ItemId": 10,
+                "Seasons": "allYear",
+                "Boundary": "areaBound",
+                "AreaBinding": {
+                    "X": 132,
+                    "Y": 28,
+                    "Width": 16,
+                    "Height": 10
+                 },
+                "Chance": 0.75,
+                "NewMonthModifier": {
+                    "Additive": 0.2,
+                    "Multipler": 1.0
+                },
+                "CooldownMin": 5,
+                "CooldownMax": 1,
+                "SkillLevel": 4
+            },
+            {
+                "ItemId": 8,
+                "Seasons": "allYear",
+                "Boundary": "areaBound",
+                "AreaBinding": {
+                    "X": 132,
+                    "Y": 28,
+                    "Width": 16,
+                    "Height": 10
+                 },
+                "Chance": 0.75,
+                "NewMonthModifier": {
+                    "Additive": 0.2,
+                    "Multipler": 1.0
+                },
+                "CooldownMin": 5,
+                "CooldownMax": 1,
+                "SkillLevel": 4
+            },
+            {
+                "ItemId": 6,
+                "Seasons": "allYear",
+                "Boundary": "areaBound",
+                "AreaBinding": {
+                    "X": 132,
+                    "Y": 28,
+                    "Width": 16,
+                    "Height": 10
+                 },
+                "Chance": 0.75,
+                "NewMonthModifier": {
+                    "Additive": 0.2,
+                    "Multipler": 1.0
+                },
+                "CooldownMin": 5,
+                "CooldownMax": 1,
+                "SkillLevel": 4
+            },
+            {
+                "ItemId": 4,
+                "Seasons": "allYear",
+                "Boundary": "areaBound",
+                "AreaBinding": {
+                    "X": 132,
+                    "Y": 28,
+                    "Width": 16,
+                    "Height": 10
+                 },
+                "Chance": 0.75,
+                "NewMonthModifier": {
+                    "Additive": 0.2,
+                    "Multipler": 1.0
+                },
+                "CooldownMin": 5,
+                "CooldownMax": 1,
+                "SkillLevel": 4
+            },
+            {
+                "ItemId": 2,
+                "Seasons": "allYear",
+                "Boundary": "areaBound",
+                "AreaBinding": {
+                    "X": 132,
+                    "Y": 28,
+                    "Width": 16,
+                    "Height": 10
+                 },
+                "Chance": 0.75,
+                "NewMonthModifier": {
+                    "Additive": 0.2,
+                    "Multipler": 1.0
+                },
+                "CooldownMin": 5,
+                "CooldownMax": 1,
+                "SkillLevel": 4
+            }
+        ]
+  },
+  "Version": 2.0
+}

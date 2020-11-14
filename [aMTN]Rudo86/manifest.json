@@ -1,0 +1,10 @@
+{
+  "Name": "Ace Farms Expanded MTN Rudo86",
+  "Author": "Acerbicon",
+  "Version": "1.2.9",
+  "UniqueID": "Acerbicon.AFEMTNrudo86",
+  "UpdateKeys": ["Nexus:2711"],
+  "ContentPackFor": {
+    "UniqueID": "SgtPickles.MTN"
+  }
+}

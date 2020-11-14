@@ -1,0 +1,101 @@
+{
+    "Format": "1.4",
+    "Changes": [
+        {
+        "Action": "EditImage",
+        "Target": "Maps/{{season}}_outdoorsTileSheet",
+        "FromFile": "assets/bedding.png",
+        "ToArea": { "X": 192, "Y": 1232, "Width": 32, "Height": 32}
+        },
+        {
+        "Action": "EditImage",
+        "Target": "Maps/{{season}}_outdoorsTileSheet",
+        "FromFile": "assets/bowls.png",
+        "ToArea": { "X": 224, "Y": 1232, "Width": 16, "Height": 16}
+        },
+        {
+        "Action": "EditImage",
+        "Target": "{{season}}_outdoorsTileSheet",
+        "FromFile": "assets/bedding.png",
+        "ToArea": { "X": 192, "Y": 1232, "Width": 32, "Height": 32}
+        },
+        {
+        "Action": "EditImage",
+        "Target": "{{season}}_outdoorsTileSheet",
+        "FromFile": "assets/bowls.png",
+        "ToArea": { "X": 224, "Y": 1232, "Width": 16, "Height": 16}
+        },
+        {
+        "Action": "EditImage",
+        "Target": "Maps/winter_outdoorsTileSheet",
+        "FromFile": "assets/bedding.png",
+        "ToArea": { "X": 192, "Y": 1232, "Width": 32, "Height": 32}
+        },
+        {
+        "Action": "EditImage",
+        "Target": "Maps/winter_outdoorsTileSheet",
+        "FromFile": "assets/bowls.png",
+        "ToArea": { "X": 224, "Y": 1232, "Width": 16, "Height": 16}
+        },
+        {
+        "Action": "EditImage",
+        "Target": "winter_outdoorsTileSheet",
+        "FromFile": "assets/bedding.png",
+        "ToArea": { "X": 192, "Y": 1232, "Width": 32, "Height": 32}
+        },
+        {
+        "Action": "EditImage",
+        "Target": "winter_outdoorsTileSheet",
+        "FromFile": "assets/bowls.png",
+        "ToArea": { "X": 224, "Y": 1232, "Width": 16, "Height": 16}
+        },
+        {
+        "Action": "EditImage",
+        "Target": "Maps/{{season}}_outdoorsTileSheet.{{language}}",
+        "FromFile": "assets/bedding.png",
+        "ToArea": { "X": 192, "Y": 1232, "Width": 32, "Height": 32}
+        },
+        {
+        "Action": "EditImage",
+        "Target": "Maps/{{season}}_outdoorsTileSheet.{{language}}",
+        "FromFile": "assets/bowls.png",
+        "ToArea": { "X": 224, "Y": 1232, "Width": 16, "Height": 16}
+        },
+        {
+        "Action": "EditImage",
+        "Target": "{{season}}_outdoorsTileSheet.{{language}}",
+        "FromFile": "assets/bedding.png",
+        "ToArea": { "X": 192, "Y": 1232, "Width": 32, "Height": 32}
+        },
+        {
+        "Action": "EditImage",
+        "Target": "{{season}}_outdoorsTileSheet.{{language}}",
+        "FromFile": "assets/bowls.png",
+        "ToArea": { "X": 224, "Y": 1232, "Width": 16, "Height": 16}
+        },
+        {
+        "Action": "EditImage",
+        "Target": "Maps/winter_outdoorsTileSheet.{{language}}",
+        "FromFile": "assets/bedding.png",
+        "ToArea": { "X": 192, "Y": 1232, "Width": 32, "Height": 32}
+        },
+        {
+        "Action": "EditImage",
+        "Target": "Maps/winter_outdoorsTileSheet.{{language}}",
+        "FromFile": "assets/bowls.png",
+        "ToArea": { "X": 224, "Y": 1232, "Width": 16, "Height": 16}
+        },
+        {
+        "Action": "EditImage",
+        "Target": "winter_outdoorsTileSheet.{{language}}",
+        "FromFile": "assets/bedding.png",
+        "ToArea": { "X": 192, "Y": 1232, "Width": 32, "Height": 32}
+        },
+        {
+        "Action": "EditImage",
+        "Target": "winter_outdoorsTileSheet.{{language}}",
+        "FromFile": "assets/bowls.png",
+        "ToArea": { "X": 224, "Y": 1232, "Width": 16, "Height": 16}
+        }
+    ]
+}

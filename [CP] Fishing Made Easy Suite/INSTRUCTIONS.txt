@@ -1,0 +1,24 @@
+Fishing Made Easy Suite Instructions
+
+1. Open the config.json file with a text editor (Notepad).
+2. Every setting is set to 'false' by default. To enable a setting, change 'false' to 'true'. Save the changes.
+3. Load the game and the setting will take effect.
+
+To disable a setting, change the setting you made "true" back to "false"
+
+Be sure to save any changes you make for them to take effect!
+
+ONLY ONE SETTING CAN BE ENABLED AT A TIME!
+
+If you happen to enable multiple settings, SMAPI will simply disable the mod from working until it's corrected.
+
+If there's any problem's with the config file, delete the config.json file, open the game and a new config
+file will be created with all settings disabled by default.
+
+Like this mod? Check out my other mods!! :D
+
+Farming Made Easy Suite
+https://www.nexusmods.com/stardewvalley/mods/4130
+
+Combat Made Easy Suite
+https://www.nexusmods.com/stardewvalley/mods/4227

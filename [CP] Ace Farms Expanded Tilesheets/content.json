@@ -1,0 +1,85 @@
+{
+  "Format": "1.4",
+  "Changes": [
+       {
+          "Action": "Load",
+          "Target": "fall_AceBeach",
+          "FromFile": "assets/fall_AceBeach.png"
+       },
+       {
+          "Action": "Load",
+          "Target": "Maps/fall_AceBeach",
+          "FromFile": "assets/fall_AceBeach.png"
+       },
+       {
+          "Action": "Load",
+          "Target": "spring_AceBeach",
+          "FromFile": "assets/spring_AceBeach.png"
+       },
+       {
+          "Action": "Load",
+          "Target": "Maps/spring_AceBeach",
+          "FromFile": "assets/spring_AceBeach.png"
+       },
+       {
+          "Action": "Load",
+          "Target": "summer_AceBeach",
+          "FromFile": "assets/summer_AceBeach.png"
+       },
+       {
+          "Action": "Load",
+          "Target": "Maps/summer_AceBeach",
+          "FromFile": "assets/summer_AceBeach.png"
+       },
+       {
+          "Action": "Load",
+          "Target": "winter_AceBeach",
+          "FromFile": "assets/winter_AceBeach.png"
+       },
+       {
+          "Action": "Load",
+          "Target": "Maps/winter_AceBeach",
+          "FromFile": "assets/winter_AceBeach.png"
+       },
+       {
+          "Action": "Load",
+          "Target": "fall_acextras",
+          "FromFile": "assets/fall_acextras.png"
+       },
+       {
+          "Action": "Load",
+          "Target": "Maps/fall_acextras",
+          "FromFile": "assets/fall_acextras.png"
+       },
+       {
+          "Action": "Load",
+          "Target": "spring_acextras",
+          "FromFile": "assets/spring_acextras.png"
+       },
+       {
+          "Action": "Load",
+          "Target": "Maps/spring_acextras",
+          "FromFile": "assets/spring_acextras.png"
+       },
+       {
+          "Action": "Load",
+          "Target": "summer_acextras",
+          "FromFile": "assets/summer_acextras.png"
+       },
+       {
+          "Action": "Load",
+          "Target": "Maps/summer_acextras",
+          "FromFile": "assets/summer_acextras.png"
+       },
+       {
+          "Action": "Load",
+          "Target": "winter_acextras",
+          "FromFile": "assets/winter_acextras.png"
+       },
+       {
+          "Action": "Load",
+          "Target": "Maps/winter_acextras",
+          "FromFile": "assets/winter_acextras.png"
+       },
+    ]
+}

@@ -1,0 +1,11 @@
+{
+  "Name": "Ace Farms Expanded MTN Sean5861",
+  "Author": "Acerbicon",
+  "Version": "1.2.9",
+  "UniqueID": "Acerbicon.AFEMTNsean5861",
+  "MinimumApiVersion": "2.5",
+  "UpdateKeys": ["Nexus:2711"],
+  "ContentPackFor": {
+    "UniqueID": "SgtPickles.MTN"
+  }
+}

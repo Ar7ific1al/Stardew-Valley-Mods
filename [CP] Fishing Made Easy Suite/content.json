@@ -1,0 +1,2684 @@
+{
+    "Format": "1.9",
+    "ConfigSchema": {
+            "Setting 001 - Fishing is 15% Easier.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 002 - Fishing is 15% Easier. Every Fish Will Appear in All Times of Day.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 003 - Fishing is 15% Easier. Every Fish Will Appear in All Seasons.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 004 - Fishing is 15% Easier. Every Fish Will Appear in All Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 005 - Fishing is 15% Easier. Every Fish Will Appear in All Times of Day and Seasons.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 006 - Fishing is 15% Easier. Every Fish Will Appear in All Times of Day and Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 007 - Fishing is 15% Easier. Every Fish Will Appear in All Seasons and Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 008 - Fishing is 15% Easier. Every Fish Will Appear at All Times, Seasons, and Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 009 - Fishing is 15% Easier. Legendary Fish are Recatchable.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 010 - Fishing is 15% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Times of Day.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 011 - Fishing is 15% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Seasons.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 012 - Fishing is 15% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 013 - Fishing is 15% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Times of Day and Seasons.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 014 - Fishing is 15% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Times of Day and Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 015 - Fishing is 15% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Seasons and Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 016 - Fishing is 15% Easier. Legendary Fish are Recatchable. Every Fish Will Appear at All Times, Seasons, and Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 017 - Fishing is 15% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 018 - Fishing is 15% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Times of Day.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 019 - Fishing is 15% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Seasons.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 020 - Fishing is 15% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 021 - Fishing is 15% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Times of Day and Seasons.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 022 - Fishing is 15% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Times of Day and Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 023 - Fishing is 15% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Seasons and Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 024 - Fishing is 15% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear at All Times, Seasons, and Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 025 - Fishing is 25% Easier.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 026 - Fishing is 25% Easier. Every Fish Will Appear in All Times of Day.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 027 - Fishing is 25% Easier. Every Fish Will Appear in All Seasons.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 028 - Fishing is 25% Easier. Every Fish Will Appear in All Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 029 - Fishing is 25% Easier. Every Fish Will Appear in All Times of Day and Seasons.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 030 - Fishing is 25% Easier. Every Fish Will Appear in All Times of Day and Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 031 - Fishing is 25% Easier. Every Fish Will Appear in All Seasons and Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 032 - Fishing is 25% Easier. Every Fish Will Appear at All Times, Seasons, and Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 033 - Fishing is 25% Easier. Legendary Fish are Recatchable.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 034 - Fishing is 25% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Times of Day.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 035 - Fishing is 25% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Seasons.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 036 - Fishing is 25% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 037 - Fishing is 25% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Times of Day and Seasons.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 038 - Fishing is 25% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Times of Day and Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 039 - Fishing is 25% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Seasons and Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 040 - Fishing is 25% Easier. Legendary Fish are Recatchable. Every Fish Will Appear at All Times, Seasons, and Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 041 - Fishing is 25% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 042 - Fishing is 25% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Times of Day.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 043 - Fishing is 25% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Seasons.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 044 - Fishing is 25% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 045 - Fishing is 25% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Times of Day and Seasons.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 046 - Fishing is 25% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Times of Day and Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 047 - Fishing is 25% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Seasons and Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 048 - Fishing is 25% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear at All Times, Seasons, and Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 049 - Fishing is 50% Easier.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 050 - Fishing is 50% Easier. Every Fish Will Appear in All Times of Day.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 051 - Fishing is 50% Easier. Every Fish Will Appear in All Seasons.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 052 - Fishing is 50% Easier. Every Fish Will Appear in All Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 053 - Fishing is 50% Easier. Every Fish Will Appear in All Times of Day and Seasons.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 054 - Fishing is 50% Easier. Every Fish Will Appear in All Times of Day and Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 055 - Fishing is 50% Easier. Every Fish Will Appear in All Seasons and Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 056 - Fishing is 50% Easier. Every Fish Will Appear at All Times, Seasons, and Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 057 - Fishing is 50% Easier. Legendary Fish are Recatchable.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 058 - Fishing is 50% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Times of Day.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 059 - Fishing is 50% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Seasons.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 060 - Fishing is 50% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 061 - Fishing is 50% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Times of Day and Seasons.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 062 - Fishing is 50% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Times of Day and Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 063 - Fishing is 50% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Seasons and Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 064 - Fishing is 50% Easier. Legendary Fish are Recatchable. Every Fish Will Appear at All Times, Seasons, and Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 065 - Fishing is 50% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 066 - Fishing is 50% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Times of Day.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 067 - Fishing is 50% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Seasons.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 068 - Fishing is 50% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 069 - Fishing is 50% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Times of Day and Seasons.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 070 - Fishing is 50% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Times of Day and Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 071 - Fishing is 50% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Seasons and Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 072 - Fishing is 50% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear at All Times, Seasons, and Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 073 - Fishing is 75% Easier.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 074 - Fishing is 75% Easier. Every Fish Will Appear in All Times of Day.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 075 - Fishing is 75% Easier. Every Fish Will Appear in All Seasons.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 076 - Fishing is 75% Easier. Every Fish Will Appear in All Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 077 - Fishing is 75% Easier. Every Fish Will Appear in All Times of Day and Seasons.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 078 - Fishing is 75% Easier. Every Fish Will Appear in All Times of Day and Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 079 - Fishing is 75% Easier. Every Fish Will Appear in All Seasons and Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 080 - Fishing is 75% Easier. Every Fish Will Appear at All Times, Seasons, and Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 081 - Fishing is 75% Easier. Legendary Fish are Recatchable.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 082 - Fishing is 75% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Times of Day.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 083 - Fishing is 75% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Seasons.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 084 - Fishing is 75% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 085 - Fishing is 75% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Times of Day and Seasons.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 086 - Fishing is 75% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Times of Day and Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 087 - Fishing is 75% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Seasons and Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 088 - Fishing is 75% Easier. Legendary Fish are Recatchable. Every Fish Will Appear at All Times, Seasons, and Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 089 - Fishing is 75% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 090 - Fishing is 75% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Times of Day.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 091 - Fishing is 75% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Seasons.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 092 - Fishing is 75% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 093 - Fishing is 75% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Times of Day and Seasons.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 094 - Fishing is 75% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Times of Day and Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 095 - Fishing is 75% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Seasons and Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 096 - Fishing is 75% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear at All Times, Seasons, and Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 097 - Fishing is 99% Easier.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 098 - Fishing is 99% Easier. Every Fish Will Appear in All Times of Day.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 099 - Fishing is 99% Easier. Every Fish Will Appear in All Seasons.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 100 - Fishing is 99% Easier. Every Fish Will Appear in All Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 101 - Fishing is 99% Easier. Every Fish Will Appear in All Times of Day and Seasons.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 102 - Fishing is 99% Easier. Every Fish Will Appear in All Times of Day and Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 103 - Fishing is 99% Easier. Every Fish Will Appear in All Seasons and Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 104 - Fishing is 99% Easier. Every Fish Will Appear at All Times, Seasons, and Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 105 - Fishing is 99% Easier. Legendary Fish are Recatchable.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 106 - Fishing is 99% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Times of Day.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 107 - Fishing is 99% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Seasons.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 108 - Fishing is 99% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 109 - Fishing is 99% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Times of Day and Seasons.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 110 - Fishing is 99% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Times of Day and Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 111 - Fishing is 99% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Seasons and Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 112 - Fishing is 99% Easier. Legendary Fish are Recatchable. Every Fish Will Appear at All Times, Seasons, and Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 113 - Fishing is 99% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 114 - Fishing is 99% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Times of Day.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 115 - Fishing is 99% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Seasons.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 116 - Fishing is 99% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 117 - Fishing is 99% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Times of Day and Seasons.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 118 - Fishing is 99% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Times of Day and Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 119 - Fishing is 99% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Seasons and Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 120 - Fishing is 99% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear at All Times, Seasons, and Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 121 - No Change to Fishing Difficulty. Every Fish Will Appear in All Times of Day.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 122 - No Change to Fishing Difficulty. Every Fish Will Appear in All Seasons.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 123 - No Change to Fishing Difficulty. Every Fish Will Appear in All Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 124 - No Change to Fishing Difficulty. Every Fish Will Appear in All Times of Day and Seasons.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 125 - No Change to Fishing Difficulty. Every Fish Will Appear in All Times of Day and Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 126 - No Change to Fishing Difficulty. Every Fish Will Appear in All Seasons and Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 127 - No Change to Fishing Difficulty. Every Fish Will Appear at All Times, Seasons, and Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 128 - No Change to Fishing Difficulty. Legendary Fish are Recatchable.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 129 - No Change to Fishing Difficulty. Legendary Fish are Recatchable. Every Fish Will Appear in All Times of Day.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 130 - No Change to Fishing Difficulty. Legendary Fish are Recatchable. Every Fish Will Appear in All Seasons.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 131 - No Change to Fishing Difficulty. Legendary Fish are Recatchable. Every Fish Will Appear in All Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 132 - No Change to Fishing Difficulty. Legendary Fish are Recatchable. Every Fish Will Appear in All Times of Day and Seasons.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 133 - No Change to Fishing Difficulty. Legendary Fish are Recatchable. Every Fish Will Appear in All Times of Day and Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 134 - No Change to Fishing Difficulty. Legendary Fish are Recatchable. Every Fish Will Appear in All Seasons and Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 135 - No Change to Fishing Difficulty. Legendary Fish are Recatchable. Every Fish Will Appear at All Times, Seasons, and Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 136 - No Change to Fishing Difficulty. Legendary Fish are Recatchable with Reduced Spawn Rates.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 137 - No Change to Fishing Difficulty. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Times of Day.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 138 - No Change to Fishing Difficulty. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Seasons.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 139 - No Change to Fishing Difficulty. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 140 - No Change to Fishing Difficulty. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Times of Day and Seasons.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 141 - No Change to Fishing Difficulty. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Times of Day and Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 142 - No Change to Fishing Difficulty. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Seasons and Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        },
+		    "Setting 143 - No Change to Fishing Difficulty. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Times, Seasons, and Weather.": {
+            "AllowValues": "true, false",
+            "Default": "false"
+        }
+    },
+		"Changes": [
+			// replace entire file
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish15.xnb",
+			"When": {
+				"Setting 001 - Fishing is 15% Easier.": "true"
+			}
+		},		
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish15T.xnb",
+			"When": {
+				"Setting 002 - Fishing is 15% Easier. Every Fish Will Appear in All Times of Day.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish15S.xnb",
+			"When": {
+				"Setting 003 - Fishing is 15% Easier. Every Fish Will Appear in All Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsB.xnb",
+			"When": {
+				"Setting 003 - Fishing is 15% Easier. Every Fish Will Appear in All Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish15W.xnb",
+			"When": {
+				"Setting 004 - Fishing is 15% Easier. Every Fish Will Appear in All Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish15TS.xnb",
+			"When": {
+				"Setting 005 - Fishing is 15% Easier. Every Fish Will Appear in All Times of Day and Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsB.xnb",
+			"When": {
+				"Setting 005 - Fishing is 15% Easier. Every Fish Will Appear in All Times of Day and Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish15TW.xnb",
+			"When": {
+				"Setting 006 - Fishing is 15% Easier. Every Fish Will Appear in All Times of Day and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish15SW.xnb",
+			"When": {
+				"Setting 007 - Fishing is 15% Easier. Every Fish Will Appear in All Seasons and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsB.xnb",
+			"When": {
+				"Setting 007 - Fishing is 15% Easier. Every Fish Will Appear in All Seasons and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish15TSW.xnb",
+			"When": {
+				"Setting 008 - Fishing is 15% Easier. Every Fish Will Appear at All Times, Seasons, and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsB.xnb",
+			"When": {
+				"Setting 008 - Fishing is 15% Easier. Every Fish Will Appear at All Times, Seasons, and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish15L.xnb",
+			"When": {
+				"Setting 009 - Fishing is 15% Easier. Legendary Fish are Recatchable.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsC.xnb",
+			"When": {
+				"Setting 009 - Fishing is 15% Easier. Legendary Fish are Recatchable.": "true"
+			}
+		},
+	    {
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish15LT.xnb",
+			"When": {
+				"Setting 010 - Fishing is 15% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Times of Day.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsC.xnb",
+			"When": {
+				"Setting 010 - Fishing is 15% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Times of Day.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish15LS.xnb",
+			"When": {
+				"Setting 011 - Fishing is 15% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsA.xnb",
+			"When": {
+				"Setting 011 - Fishing is 15% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish15LW.xnb",
+			"When": {
+				"Setting 012 - Fishing is 15% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsC.xnb",
+			"When": {
+				"Setting 012 - Fishing is 15% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish15LTS.xnb",
+			"When": {
+				"Setting 013 - Fishing is 15% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Times of Day and Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsA.xnb",
+			"When": {
+				"Setting 013 - Fishing is 15% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Times of Day and Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish15LTW.xnb",
+			"When": {
+				"Setting 014 - Fishing is 15% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Times of Day and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsC.xnb",
+			"When": {
+				"Setting 014 - Fishing is 15% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Times of Day and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish15LSW.xnb",
+			"When": {
+				"Setting 015 - Fishing is 15% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Seasons and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsA.xnb",
+			"When": {
+				"Setting 015 - Fishing is 15% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Seasons and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish15LTSW.xnb",
+			"When": {
+				"Setting 016 - Fishing is 15% Easier. Legendary Fish are Recatchable. Every Fish Will Appear at All Times, Seasons, and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsA.xnb",
+			"When": {
+				"Setting 016 - Fishing is 15% Easier. Legendary Fish are Recatchable. Every Fish Will Appear at All Times, Seasons, and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish15LR.xnb",
+			"When": {
+				"Setting 017 - Fishing is 15% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsC.xnb",
+			"When": {
+				"Setting 017 - Fishing is 15% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish15LRT.xnb",
+			"When": {
+				"Setting 018 - Fishing is 15% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Times of Day.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsC.xnb",
+			"When": {
+				"Setting 018 - Fishing is 15% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Times of Day.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish15LRS.xnb",
+			"When": {
+				"Setting 019 - Fishing is 15% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsA.xnb",
+			"When": {
+				"Setting 019 - Fishing is 15% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish15LRW.xnb",
+			"When": {
+				"Setting 020 - Fishing is 15% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsC.xnb",
+			"When": {
+				"Setting 020 - Fishing is 15% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish15LRTS.xnb",
+			"When": {
+				"Setting 021 - Fishing is 15% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Times of Day and Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsA.xnb",
+			"When": {
+				"Setting 021 - Fishing is 15% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Times of Day and Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish15LRTW.xnb",
+			"When": {
+				"Setting 022 - Fishing is 15% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Times of Day and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsC.xnb",
+			"When": {
+				"Setting 022 - Fishing is 15% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Times of Day and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish15LRSW.xnb",
+			"When": {
+				"Setting 023 - Fishing is 15% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Seasons and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsA.xnb",
+			"When": {
+				"Setting 023 - Fishing is 15% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Seasons and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish15LRTSW.xnb",
+			"When": {
+				"Setting 024 - Fishing is 15% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear at All Times, Seasons, and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsA.xnb",
+			"When": {
+				"Setting 024 - Fishing is 15% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear at All Times, Seasons, and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish25.xnb",
+			"When": {
+				"Setting 025 - Fishing is 25% Easier.": "true"
+			}
+		},		
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish25T.xnb",
+			"When": {
+				"Setting 026 - Fishing is 25% Easier. Every Fish Will Appear in All Times of Day.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish25S.xnb",
+			"When": {
+				"Setting 027 - Fishing is 25% Easier. Every Fish Will Appear in All Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsB.xnb",
+			"When": {
+				"Setting 027 - Fishing is 25% Easier. Every Fish Will Appear in All Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish25W.xnb",
+			"When": {
+				"Setting 028 - Fishing is 25% Easier. Every Fish Will Appear in All Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish25TS.xnb",
+			"When": {
+				"Setting 029 - Fishing is 25% Easier. Every Fish Will Appear in All Times of Day and Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsB.xnb",
+			"When": {
+				"Setting 029 - Fishing is 25% Easier. Every Fish Will Appear in All Times of Day and Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish25TW.xnb",
+			"When": {
+				"Setting 030 - Fishing is 25% Easier. Every Fish Will Appear in All Times of Day and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish25SW.xnb",
+			"When": {
+				"Setting 031 - Fishing is 25% Easier. Every Fish Will Appear in All Seasons and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsB.xnb",
+			"When": {
+				"Setting 031 - Fishing is 25% Easier. Every Fish Will Appear in All Seasons and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish25TSW.xnb",
+			"When": {
+				"Setting 032 - Fishing is 25% Easier. Every Fish Will Appear at All Times, Seasons, and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsB.xnb",
+			"When": {
+				"Setting 032 - Fishing is 25% Easier. Every Fish Will Appear at All Times, Seasons, and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish25L.xnb",
+			"When": {
+				"Setting 033 - Fishing is 25% Easier. Legendary Fish are Recatchable.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsC.xnb",
+			"When": {
+				"Setting 033 - Fishing is 25% Easier. Legendary Fish are Recatchable.": "true"
+			}
+		},
+	    {
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish25LT.xnb",
+			"When": {
+				"Setting 034 - Fishing is 25% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Times of Day.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsC.xnb",
+			"When": {
+				"Setting 034 - Fishing is 25% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Times of Day.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish25LS.xnb",
+			"When": {
+				"Setting 035 - Fishing is 25% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsA.xnb",
+			"When": {
+				"Setting 035 - Fishing is 25% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish25LW.xnb",
+			"When": {
+				"Setting 036 - Fishing is 25% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsC.xnb",
+			"When": {
+				"Setting 036 - Fishing is 25% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish25LTS.xnb",
+			"When": {
+				"Setting 037 - Fishing is 25% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Times of Day and Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsA.xnb",
+			"When": {
+				"Setting 037 - Fishing is 25% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Times of Day and Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish25LTW.xnb",
+			"When": {
+				"Setting 038 - Fishing is 25% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Times of Day and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsC.xnb",
+			"When": {
+				"Setting 038 - Fishing is 25% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Times of Day and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish25LSW.xnb",
+			"When": {
+				"Setting 039 - Fishing is 25% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Seasons and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsA.xnb",
+			"When": {
+				"Setting 039 - Fishing is 25% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Seasons and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish25LTSW.xnb",
+			"When": {
+				"Setting 040 - Fishing is 25% Easier. Legendary Fish are Recatchable. Every Fish Will Appear at All Times, Seasons, and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsA.xnb",
+			"When": {
+				"Setting 040 - Fishing is 25% Easier. Legendary Fish are Recatchable. Every Fish Will Appear at All Times, Seasons, and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish25LR.xnb",
+			"When": {
+				"Setting 041 - Fishing is 25% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsC.xnb",
+			"When": {
+				"Setting 041 - Fishing is 25% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish25LRT.xnb",
+			"When": {
+				"Setting 042 - Fishing is 25% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Times of Day.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsC.xnb",
+			"When": {
+				"Setting 042 - Fishing is 25% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Times of Day.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish25LRS.xnb",
+			"When": {
+				"Setting 043 - Fishing is 25% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsA.xnb",
+			"When": {
+				"Setting 043 - Fishing is 25% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish25LRW.xnb",
+			"When": {
+				"Setting 044 - Fishing is 25% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsC.xnb",
+			"When": {
+				"Setting 044 - Fishing is 25% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish25LRTS.xnb",
+			"When": {
+				"Setting 045 - Fishing is 25% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Times of Day and Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsA.xnb",
+			"When": {
+				"Setting 045 - Fishing is 25% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Times of Day and Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish25LRTW.xnb",
+			"When": {
+				"Setting 046 - Fishing is 25% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Times of Day and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsC.xnb",
+			"When": {
+				"Setting 046 - Fishing is 25% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Times of Day and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish25LRSW.xnb",
+			"When": {
+				"Setting 047 - Fishing is 25% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Seasons and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsA.xnb",
+			"When": {
+				"Setting 047 - Fishing is 25% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Seasons and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish25LRTSW.xnb",
+			"When": {
+				"Setting 048 - Fishing is 25% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear at All Times, Seasons, and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsA.xnb",
+			"When": {
+				"Setting 048 - Fishing is 25% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear at All Times, Seasons, and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish50.xnb",
+			"When": {
+				"Setting 049 - Fishing is 50% Easier.": "true"
+			}
+		},		
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish50T.xnb",
+			"When": {
+				"Setting 050 - Fishing is 50% Easier. Every Fish Will Appear in All Times of Day.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish50S.xnb",
+			"When": {
+				"Setting 051 - Fishing is 50% Easier. Every Fish Will Appear in All Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsB.xnb",
+			"When": {
+				"Setting 051 - Fishing is 50% Easier. Every Fish Will Appear in All Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish50W.xnb",
+			"When": {
+				"Setting 052 - Fishing is 50% Easier. Every Fish Will Appear in All Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish50TS.xnb",
+			"When": {
+				"Setting 053 - Fishing is 50% Easier. Every Fish Will Appear in All Times of Day and Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsB.xnb",
+			"When": {
+				"Setting 053 - Fishing is 50% Easier. Every Fish Will Appear in All Times of Day and Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish50TW.xnb",
+			"When": {
+				"Setting 054 - Fishing is 50% Easier. Every Fish Will Appear in All Times of Day and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish50SW.xnb",
+			"When": {
+				"Setting 055 - Fishing is 50% Easier. Every Fish Will Appear in All Seasons and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsB.xnb",
+			"When": {
+				"Setting 055 - Fishing is 50% Easier. Every Fish Will Appear in All Seasons and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish50TSW.xnb",
+			"When": {
+				"Setting 056 - Fishing is 50% Easier. Every Fish Will Appear at All Times, Seasons, and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsB.xnb",
+			"When": {
+				"Setting 056 - Fishing is 50% Easier. Every Fish Will Appear at All Times, Seasons, and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish50L.xnb",
+			"When": {
+				"Setting 057 - Fishing is 50% Easier. Legendary Fish are Recatchable.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsC.xnb",
+			"When": {
+				"Setting 057 - Fishing is 50% Easier. Legendary Fish are Recatchable.": "true"
+			}
+		},
+	    {
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish50LT.xnb",
+			"When": {
+				"Setting 058 - Fishing is 50% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Times of Day.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsC.xnb",
+			"When": {
+				"Setting 058 - Fishing is 50% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Times of Day.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish50LS.xnb",
+			"When": {
+				"Setting 059 - Fishing is 50% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsA.xnb",
+			"When": {
+				"Setting 059 - Fishing is 50% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish50LW.xnb",
+			"When": {
+				"Setting 060 - Fishing is 50% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsC.xnb",
+			"When": {
+				"Setting 060 - Fishing is 50% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish50LTS.xnb",
+			"When": {
+				"Setting 061 - Fishing is 50% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Times of Day and Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsA.xnb",
+			"When": {
+				"Setting 061 - Fishing is 50% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Times of Day and Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish50LTW.xnb",
+			"When": {
+				"Setting 062 - Fishing is 50% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Times of Day and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsC.xnb",
+			"When": {
+				"Setting 062 - Fishing is 50% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Times of Day and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish50LSW.xnb",
+			"When": {
+				"Setting 063 - Fishing is 50% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Seasons and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsA.xnb",
+			"When": {
+				"Setting 063 - Fishing is 50% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Seasons and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish50LTSW.xnb",
+			"When": {
+				"Setting 064 - Fishing is 50% Easier. Legendary Fish are Recatchable. Every Fish Will Appear at All Times, Seasons, and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsA.xnb",
+			"When": {
+				"Setting 064 - Fishing is 50% Easier. Legendary Fish are Recatchable. Every Fish Will Appear at All Times, Seasons, and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish50LR.xnb",
+			"When": {
+				"Setting 065 - Fishing is 50% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsC.xnb",
+			"When": {
+				"Setting 065 - Fishing is 50% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish50LRT.xnb",
+			"When": {
+				"Setting 066 - Fishing is 50% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Times of Day.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsC.xnb",
+			"When": {
+				"Setting 066 - Fishing is 50% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Times of Day.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish50LRS.xnb",
+			"When": {
+				"Setting 067 - Fishing is 50% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsA.xnb",
+			"When": {
+				"Setting 067 - Fishing is 50% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish50LRW.xnb",
+			"When": {
+				"Setting 068 - Fishing is 50% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsC.xnb",
+			"When": {
+				"Setting 068 - Fishing is 50% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish50LRTS.xnb",
+			"When": {
+				"Setting 069 - Fishing is 50% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Times of Day and Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsA.xnb",
+			"When": {
+				"Setting 069 - Fishing is 50% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Times of Day and Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish50LRTW.xnb",
+			"When": {
+				"Setting 070 - Fishing is 50% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Times of Day and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsC.xnb",
+			"When": {
+				"Setting 070 - Fishing is 50% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Times of Day and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish50LRSW.xnb",
+			"When": {
+				"Setting 071 - Fishing is 50% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Seasons and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsA.xnb",
+			"When": {
+				"Setting 071 - Fishing is 50% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Seasons and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish50LRTSW.xnb",
+			"When": {
+				"Setting 072 - Fishing is 50% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear at All Times, Seasons, and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsA.xnb",
+			"When": {
+				"Setting 072 - Fishing is 50% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear at All Times, Seasons, and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish75.xnb",
+			"When": {
+				"Setting 073 - Fishing is 75% Easier.": "true"
+			}
+		},		
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish75T.xnb",
+			"When": {
+				"Setting 074 - Fishing is 75% Easier. Every Fish Will Appear in All Times of Day.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish75S.xnb",
+			"When": {
+				"Setting 075 - Fishing is 75% Easier. Every Fish Will Appear in All Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsB.xnb",
+			"When": {
+				"Setting 075 - Fishing is 75% Easier. Every Fish Will Appear in All Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish75W.xnb",
+			"When": {
+				"Setting 076 - Fishing is 75% Easier. Every Fish Will Appear in All Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish75TS.xnb",
+			"When": {
+				"Setting 077 - Fishing is 75% Easier. Every Fish Will Appear in All Times of Day and Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsB.xnb",
+			"When": {
+				"Setting 077 - Fishing is 75% Easier. Every Fish Will Appear in All Times of Day and Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish75TW.xnb",
+			"When": {
+				"Setting 078 - Fishing is 75% Easier. Every Fish Will Appear in All Times of Day and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish75SW.xnb",
+			"When": {
+				"Setting 079 - Fishing is 75% Easier. Every Fish Will Appear in All Seasons and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsB.xnb",
+			"When": {
+				"Setting 079 - Fishing is 75% Easier. Every Fish Will Appear in All Seasons and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish75TSW.xnb",
+			"When": {
+				"Setting 080 - Fishing is 75% Easier. Every Fish Will Appear at All Times, Seasons, and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsB.xnb",
+			"When": {
+				"Setting 080 - Fishing is 75% Easier. Every Fish Will Appear at All Times, Seasons, and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish75L.xnb",
+			"When": {
+				"Setting 081 - Fishing is 75% Easier. Legendary Fish are Recatchable.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsC.xnb",
+			"When": {
+				"Setting 081 - Fishing is 75% Easier. Legendary Fish are Recatchable.": "true"
+			}
+		},
+	    {
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish75LT.xnb",
+			"When": {
+				"Setting 082 - Fishing is 75% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Times of Day.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsC.xnb",
+			"When": {
+				"Setting 082 - Fishing is 75% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Times of Day.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish75LS.xnb",
+			"When": {
+				"Setting 083 - Fishing is 75% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsA.xnb",
+			"When": {
+				"Setting 083 - Fishing is 75% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish75LW.xnb",
+			"When": {
+				"Setting 084 - Fishing is 75% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsC.xnb",
+			"When": {
+				"Setting 084 - Fishing is 75% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish75LTS.xnb",
+			"When": {
+				"Setting 085 - Fishing is 75% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Times of Day and Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsA.xnb",
+			"When": {
+				"Setting 085 - Fishing is 75% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Times of Day and Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish75LTW.xnb",
+			"When": {
+				"Setting 086 - Fishing is 75% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Times of Day and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsC.xnb",
+			"When": {
+				"Setting 086 - Fishing is 75% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Times of Day and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish75LSW.xnb",
+			"When": {
+				"Setting 087 - Fishing is 75% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Seasons and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsA.xnb",
+			"When": {
+				"Setting 087 - Fishing is 75% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Seasons and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish75LTSW.xnb",
+			"When": {
+				"Setting 088 - Fishing is 75% Easier. Legendary Fish are Recatchable. Every Fish Will Appear at All Times, Seasons, and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsA.xnb",
+			"When": {
+				"Setting 088 - Fishing is 75% Easier. Legendary Fish are Recatchable. Every Fish Will Appear at All Times, Seasons, and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish75LR.xnb",
+			"When": {
+				"Setting 089 - Fishing is 75% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsC.xnb",
+			"When": {
+				"Setting 089 - Fishing is 75% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish75LRT.xnb",
+			"When": {
+				"Setting 090 - Fishing is 75% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Times of Day.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsC.xnb",
+			"When": {
+				"Setting 090 - Fishing is 75% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Times of Day.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish75LRS.xnb",
+			"When": {
+				"Setting 091 - Fishing is 75% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsA.xnb",
+			"When": {
+				"Setting 091 - Fishing is 75% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish75LRW.xnb",
+			"When": {
+				"Setting 092 - Fishing is 75% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsC.xnb",
+			"When": {
+				"Setting 092 - Fishing is 75% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish75LRTS.xnb",
+			"When": {
+				"Setting 093 - Fishing is 75% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Times of Day and Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsA.xnb",
+			"When": {
+				"Setting 093 - Fishing is 75% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Times of Day and Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish75LRTW.xnb",
+			"When": {
+				"Setting 094 - Fishing is 75% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Times of Day and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsC.xnb",
+			"When": {
+				"Setting 094 - Fishing is 75% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Times of Day and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish75LRSW.xnb",
+			"When": {
+				"Setting 095 - Fishing is 75% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Seasons and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsA.xnb",
+			"When": {
+				"Setting 095 - Fishing is 75% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Seasons and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish75LRTSW.xnb",
+			"When": {
+				"Setting 096 - Fishing is 75% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear at All Times, Seasons, and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsA.xnb",
+			"When": {
+				"Setting 096 - Fishing is 75% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear at All Times, Seasons, and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish99.xnb",
+			"When": {
+				"Setting 097 - Fishing is 99% Easier.": "true"
+			}
+		},		
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish99T.xnb",
+			"When": {
+				"Setting 098 - Fishing is 99% Easier. Every Fish Will Appear in All Times of Day.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish99S.xnb",
+			"When": {
+				"Setting 099 - Fishing is 99% Easier. Every Fish Will Appear in All Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsB.xnb",
+			"When": {
+				"Setting 099 - Fishing is 99% Easier. Every Fish Will Appear in All Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish99W.xnb",
+			"When": {
+				"Setting 100 - Fishing is 99% Easier. Every Fish Will Appear in All Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish99TS.xnb",
+			"When": {
+				"Setting 101 - Fishing is 99% Easier. Every Fish Will Appear in All Times of Day and Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsB.xnb",
+			"When": {
+				"Setting 101 - Fishing is 99% Easier. Every Fish Will Appear in All Times of Day and Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish99TW.xnb",
+			"When": {
+				"Setting 102 - Fishing is 99% Easier. Every Fish Will Appear in All Times of Day and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish99SW.xnb",
+			"When": {
+				"Setting 103 - Fishing is 99% Easier. Every Fish Will Appear in All Seasons and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsB.xnb",
+			"When": {
+				"Setting 103 - Fishing is 99% Easier. Every Fish Will Appear in All Seasons and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish99TSW.xnb",
+			"When": {
+				"Setting 104 - Fishing is 99% Easier. Every Fish Will Appear at All Times, Seasons, and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsB.xnb",
+			"When": {
+				"Setting 104 - Fishing is 99% Easier. Every Fish Will Appear at All Times, Seasons, and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish99L.xnb",
+			"When": {
+				"Setting 105 - Fishing is 99% Easier. Legendary Fish are Recatchable.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsC.xnb",
+			"When": {
+				"Setting 105 - Fishing is 99% Easier. Legendary Fish are Recatchable.": "true"
+			}
+		},
+	    {
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish99LT.xnb",
+			"When": {
+				"Setting 106 - Fishing is 99% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Times of Day.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsC.xnb",
+			"When": {
+				"Setting 106 - Fishing is 99% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Times of Day.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish99LS.xnb",
+			"When": {
+				"Setting 107 - Fishing is 99% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsA.xnb",
+			"When": {
+				"Setting 107 - Fishing is 99% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish99LW.xnb",
+			"When": {
+				"Setting 108 - Fishing is 99% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsC.xnb",
+			"When": {
+				"Setting 108 - Fishing is 99% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish99LTS.xnb",
+			"When": {
+				"Setting 109 - Fishing is 99% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Times of Day and Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsA.xnb",
+			"When": {
+				"Setting 109 - Fishing is 99% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Times of Day and Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish99LTW.xnb",
+			"When": {
+				"Setting 110 - Fishing is 99% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Times of Day and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsC.xnb",
+			"When": {
+				"Setting 110 - Fishing is 99% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Times of Day and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish99LSW.xnb",
+			"When": {
+				"Setting 111 - Fishing is 99% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Seasons and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsA.xnb",
+			"When": {
+				"Setting 111 - Fishing is 99% Easier. Legendary Fish are Recatchable. Every Fish Will Appear in All Seasons and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish99LTSW.xnb",
+			"When": {
+				"Setting 112 - Fishing is 99% Easier. Legendary Fish are Recatchable. Every Fish Will Appear at All Times, Seasons, and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsA.xnb",
+			"When": {
+				"Setting 112 - Fishing is 99% Easier. Legendary Fish are Recatchable. Every Fish Will Appear at All Times, Seasons, and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish99LR.xnb",
+			"When": {
+				"Setting 113 - Fishing is 99% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsC.xnb",
+			"When": {
+				"Setting 113 - Fishing is 99% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish99LRT.xnb",
+			"When": {
+				"Setting 114 - Fishing is 99% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Times of Day.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsC.xnb",
+			"When": {
+				"Setting 114 - Fishing is 99% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Times of Day.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish99LRS.xnb",
+			"When": {
+				"Setting 115 - Fishing is 99% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsA.xnb",
+			"When": {
+				"Setting 115 - Fishing is 99% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish99LRW.xnb",
+			"When": {
+				"Setting 116 - Fishing is 99% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsC.xnb",
+			"When": {
+				"Setting 116 - Fishing is 99% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish99LRTS.xnb",
+			"When": {
+				"Setting 117 - Fishing is 99% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Times of Day and Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsA.xnb",
+			"When": {
+				"Setting 117 - Fishing is 99% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Times of Day and Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish99LRTW.xnb",
+			"When": {
+				"Setting 118 - Fishing is 99% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Times of Day and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsC.xnb",
+			"When": {
+				"Setting 118 - Fishing is 99% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Times of Day and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish99LRSW.xnb",
+			"When": {
+				"Setting 119 - Fishing is 99% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Seasons and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsA.xnb",
+			"When": {
+				"Setting 119 - Fishing is 99% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Seasons and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/Fish99LRTSW.xnb",
+			"When": {
+				"Setting 120 - Fishing is 99% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear at All Times, Seasons, and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsA.xnb",
+			"When": {
+				"Setting 120 - Fishing is 99% Easier. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear at All Times, Seasons, and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/FishNDT.xnb",
+			"When": {
+				"Setting 121 - No Change to Fishing Difficulty. Every Fish Will Appear in All Times of Day.": "true"
+			}
+		},		
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/FishNDS.xnb",
+			"When": {
+				"Setting 122 - No Change to Fishing Difficulty. Every Fish Will Appear in All Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsB",
+			"When": {
+				"Setting 122 - No Change to Fishing Difficulty. Every Fish Will Appear in All Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/FishNDW.xnb",
+			"When": {
+				"Setting 123 - No Change to Fishing Difficulty. Every Fish Will Appear in All Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/FishNDTS.xnb",
+			"When": {
+				"Setting 124 - No Change to Fishing Difficulty. Every Fish Will Appear in All Times of Day and Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsB.xnb",
+			"When": {
+				"Setting 124 - No Change to Fishing Difficulty. Every Fish Will Appear in All Times of Day and Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/FishNDTW.xnb",
+			"When": {
+				"Setting 125 - No Change to Fishing Difficulty. Every Fish Will Appear in All Times of Day and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/FishNDSW.xnb",
+			"When": {
+				"Setting 126 - No Change to Fishing Difficulty. Every Fish Will Appear in All Seasons and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsB.xnb",
+			"When": {
+				"Setting 126 - No Change to Fishing Difficulty. Every Fish Will Appear in All Seasons and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/FishNDTSW.xnb",
+			"When": {
+				"Setting 127 - No Change to Fishing Difficulty. Every Fish Will Appear at All Times, Seasons, and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsB.xnb",
+			"When": {
+				"Setting 127 - No Change to Fishing Difficulty. Every Fish Will Appear at All Times, Seasons, and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/FishNDL.xnb",
+			"When": {
+				"Setting 128 - No Change to Fishing Difficulty. Legendary Fish are Recatchable.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsC.xnb",
+			"When": {
+				"Setting 128 - No Change to Fishing Difficulty. Legendary Fish are Recatchable.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/FishNDLT.xnb",
+			"When": {
+				"Setting 129 - No Change to Fishing Difficulty. Legendary Fish are Recatchable. Every Fish Will Appear in All Times of Day.": "true"
+			}
+		},
+	    {
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsC.xnb",
+			"When": {
+				"Setting 129 - No Change to Fishing Difficulty. Legendary Fish are Recatchable. Every Fish Will Appear in All Times of Day.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/FishNDLS.xnb",
+			"When": {
+				"Setting 130 - No Change to Fishing Difficulty. Legendary Fish are Recatchable. Every Fish Will Appear in All Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsA.xnb",
+			"When": {
+				"Setting 130 - No Change to Fishing Difficulty. Legendary Fish are Recatchable. Every Fish Will Appear in All Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/FishNDLW.xnb",
+			"When": {
+				"Setting 131 - No Change to Fishing Difficulty. Legendary Fish are Recatchable. Every Fish Will Appear in All Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsC.xnb",
+			"When": {
+				"Setting 131 - No Change to Fishing Difficulty. Legendary Fish are Recatchable. Every Fish Will Appear in All Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/FishNDLTS.xnb",
+			"When": {
+				"Setting 132 - No Change to Fishing Difficulty. Legendary Fish are Recatchable. Every Fish Will Appear in All Times of Day and Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsA.xnb",
+			"When": {
+				"Setting 132 - No Change to Fishing Difficulty. Legendary Fish are Recatchable. Every Fish Will Appear in All Times of Day and Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/FishNDLTW.xnb",
+			"When": {
+				"Setting 133 - No Change to Fishing Difficulty. Legendary Fish are Recatchable. Every Fish Will Appear in All Times of Day and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsC.xnb",
+			"When": {
+				"Setting 133 - No Change to Fishing Difficulty. Legendary Fish are Recatchable. Every Fish Will Appear in All Times of Day and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/FishNDLSW.xnb",
+			"When": {
+				"Setting 134 - No Change to Fishing Difficulty. Legendary Fish are Recatchable. Every Fish Will Appear in All Seasons and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsA.xnb",
+			"When": {
+				"Setting 134 - No Change to Fishing Difficulty. Legendary Fish are Recatchable. Every Fish Will Appear in All Seasons and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/FishNDLTSW.xnb",
+			"When": {
+				"Setting 135 - No Change to Fishing Difficulty. Legendary Fish are Recatchable. Every Fish Will Appear at All Times, Seasons, and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsA.xnb",
+			"When": {
+				"Setting 135 - No Change to Fishing Difficulty. Legendary Fish are Recatchable. Every Fish Will Appear at All Times, Seasons, and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/FishNDLR.xnb",
+			"When": {
+				"Setting 136 - No Change to Fishing Difficulty. Legendary Fish are Recatchable with Reduced Spawn Rates.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsC.xnb",
+			"When": {
+				"Setting 136 - No Change to Fishing Difficulty. Legendary Fish are Recatchable with Reduced Spawn Rates.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/FishNDRT.xnb",
+			"When": {
+				"Setting 137 - No Change to Fishing Difficulty. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Times of Day.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsC.xnb",
+			"When": {
+				"Setting 137 - No Change to Fishing Difficulty. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Times of Day.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/FishNDLRS.xnb",
+			"When": {
+				"Setting 138 - No Change to Fishing Difficulty. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsA.xnb",
+			"When": {
+				"Setting 138 - No Change to Fishing Difficulty. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/FishNDLRW.xnb",
+			"When": {
+				"Setting 139 - No Change to Fishing Difficulty. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsC.xnb",
+			"When": {
+				"Setting 139 - No Change to Fishing Difficulty. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/FishNDLRTS.xnb",
+			"When": {
+				"Setting 140 - No Change to Fishing Difficulty. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Times of Day and Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsA.xnb",
+			"When": {
+				"Setting 140 - No Change to Fishing Difficulty. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Times of Day and Seasons.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/FishNDLRTW.xnb",
+			"When": {
+				"Setting 141 - No Change to Fishing Difficulty. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Times of Day and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsC.xnb",
+			"When": {
+				"Setting 141 - No Change to Fishing Difficulty. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Times of Day and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/FishNDLRSW.xnb",
+			"When": {
+				"Setting 142 - No Change to Fishing Difficulty. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Seasons and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsA.xnb",
+			"When": {
+				"Setting 142 - No Change to Fishing Difficulty. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Seasons and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Fish",
+			"FromFile": "Data/FishNDLRTSW.xnb",
+			"When": {
+				"Setting 143 - No Change to Fishing Difficulty. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Times, Seasons, and Weather.": "true"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Data/Locations",
+			"FromFile": "Data/LocationsA.xnb",
+			"When": {
+				"Setting 143 - No Change to Fishing Difficulty. Legendary Fish are Recatchable with Reduced Spawn Rates. Every Fish Will Appear in All Times, Seasons, and Weather.": "true"
+			}
+		},
+	]
+}

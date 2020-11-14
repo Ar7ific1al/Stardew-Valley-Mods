@@ -1,0 +1,1219 @@
+{
+	"Format": "1.11.0",
+	"ConfigSchema": {
+
+		"White Structure" : {
+			"AllowValues" : "true, false",
+                                                "Default": "false"
+		},
+		"Coop" : {
+			"AllowValues" : "true, false",
+                                                "Default": "true"
+		},
+		"Bathhouse" : {
+			"AllowValues" : "true, false",
+                                                "Default": "true"
+		},
+		"Farmhouse Bed Colour_Dark Blue/Dark Coffee/Dark Green/Light Gray/Light Pink/Light White" : {
+			"AllowValues" : "Dark Blue, Dark Coffee, Dark Green, Light Gray, Light Pink, Light White",
+                                                "Default": "Light White"
+		},
+		"Farmhouse Player Beds Enable" : {
+			"AllowValues" : "true, false",
+                                                "Default": "true"
+		},
+		"Farmhouse Kids Beds Enable" : {
+			"AllowValues" : "true, false",
+                                                "Default": "true"
+		},
+		"Optimized Loading" : {
+			"AllowValues" : "true, false",
+                                                "Default": "false"
+		},
+	},
+
+	"Changes": [
+
+//Bathhouse
+		{
+		"Action": "EditImage",
+		"Target": "Maps/bathhouse_tiles",
+		"FromFile": "assets/bathhouse_tiles.png",
+		"When": {
+			"Bathhouse": true,
+			},
+		},
+
+//Caroline
+		{
+		"Action": "EditImage",
+		"PatchMode": "Overlay",
+		"Target": "Maps/CarolineGreenhouseTiles",
+		"FromFile": "assets/CarolineGreenhouseTiles.png",
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Overlay",
+		"Target": "Maps/CarolineGreenhouseTiles_rainy",
+		"FromFile": "assets/CarolineGreenhouseTiles_rainy.png",
+		},
+
+//Coop
+		{
+		"Action": "EditImage",
+		"PatchMode": "Overlay",
+		"Target": "Maps/coopTiles",
+		"FromFile": "assets/coopTiles.png",
+		"When": {
+			"Coop": true,
+			},
+		},
+
+//Cursors
+		{
+			"LogName": "Doors",
+			"Action": "EditImage",
+			"PatchMode": "Replace",
+			"Target": "LooseSprites/Cursors",
+			"FromFile": "assets/Cursors.png",
+			"FromArea": {"X":512, "Y":144, "Width":128, "Height":48},
+			"ToArea": {"X":512, "Y":144, "Width":128, "Height":48},
+		},
+		{
+			"LogName": "Clint",
+			"Action": "EditImage",
+			"PatchMode": "Replace",
+			"Target": "LooseSprites/Cursors",
+			"FromFile": "assets/Cursors.png",
+			"FromArea": {"X":64, "Y":512, "Width":76, "Height":32},
+			"ToArea": {"X":64, "Y":512, "Width":76, "Height":32},
+		},
+
+//Elliott
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "ElliottHouseTiles, Maps/ElliottHouseTiles",
+		"FromFile": "assets/ElliottHouseTiles.png",
+		"When": {
+			"HasMod:Karmylla.ImmersiveMaps": false,
+			},
+		},
+/*
+		{
+		"Action": "EditImage",
+		"PatchMode": "Overlay",
+		"Target": "ElliottHouseTiles, Maps/ElliottHouseTiles",
+		"FromFile": "assets/ElliottHouseTiles_KIM.png",
+		"When": {
+			"HasMod:Karmylla.ImmersiveMaps": true,
+			},
+		},
+*/
+
+//Farmhouse
+		{
+		"Action": "EditImage",
+		"PatchMode": "Overlay",
+		"Target": "Maps/farmhouse_tiles",
+		"FromFile": "assets/farmhouse_tiles.png",
+		"When": {
+			"HasMod:DustBeauty.IndustrialKitchen": false,
+			"HasMod:DustBeauty.SeasonalGardernFarmhouse.v2": false,
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Overlay",
+		"Target": "Maps/farmhouse_tiles",
+		"FromFile": "assets/farmhouse_tiles_light.png",
+		"When": {
+			"HasMod:DustBeauty.SeasonalGardernFarmhouse.v2": false,
+			"White Structure": true,
+			},
+		},
+
+
+//Town Interior
+		{
+		"Action": "EditImage",
+		"Target": "townInterior, Maps/townInterior",
+		"FromFile": "assets/townInterior_DustBeauty.png",
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Overlay",
+		"Target": "townInterior_2, Maps/townInterior_2",
+		"FromFile": "assets/townInterior_2.png",
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Overlay",
+		"Target": "townInterior, Maps/townInterior",
+		"FromFile": "assets/townInterior_window.png",
+		"When": {
+			"LocationName":"HarveyRoom",
+			"Optimized Loading":"false",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Overlay",
+		"Target": "townInterior, Maps/townInterior",
+		"FromFile": "assets/townInterior_window.png",
+		"When": {
+			"LocationName":"SamHouse",
+			"Optimized Loading":"false",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Overlay",
+		"Target": "townInterior, Maps/townInterior",
+		"FromFile": "assets/townInterior_window.png",
+		"When": {
+			"LocationName":"ArchaeologyHouse",
+			"Optimized Loading":"false",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "townInterior, Maps/townInterior",
+		"FromFile": "assets/townInterior_Haley.png",
+			"ToArea": { "X": 80, "Y": 304, "Width": 32, "Height": 32},
+		"When": {
+			"LocationName":"HaleyHouse",
+			"Optimized Loading":"false",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "townInterior, Maps/townInterior",
+		"FromFile": "assets/townInterior_Shane.png",
+			"ToArea": { "X": 352, "Y": 1072, "Width": 16, "Height": 16},
+		"When": {
+			"LocationName":"FarmHouse",
+			"Optimized Loading":"false",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "townInterior, Maps/townInterior",
+		"FromFile": "assets/townInterior_Shane.png",
+			"ToArea": { "X": 352, "Y": 1072, "Width": 16, "Height": 16},
+		"When": {
+			"LocationName":"AnimalShop",
+			"Optimized Loading":"false",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "townInterior, Maps/townInterior",
+		"FromFile": "assets/jas.png",
+			"ToArea": { "X": 32, "Y": 176, "Width": 32, "Height": 32},
+		"When": {
+			"LocationName":"AnimalShop",
+			"Optimized Loading":"false",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "townInterior, Maps/townInterior",
+		"FromFile": "assets/townInterior_church.png",
+			"ToArea": { "X": 432, "Y": 576, "Width": 16, "Height": 16},
+		"When": {
+			"LocationName":"SeedShop",
+			"HasMod:Karmylla.ImmersiveMaps": true,
+			"Optimized Loading":"false",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "townInterior, Maps/townInterior",
+		"FromFile": "assets/townInterior_church.png",
+			"ToArea": { "X": 352, "Y": 432, "Width": 16, "Height": 16},
+		"When": {
+			"LocationName":"SeedShop",
+			"HasMod:Karmylla.ImmersiveMaps": false,
+			"Optimized Loading":"false",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "townInterior, Maps/townInterior",
+		"FromFile": "assets/haley.png",
+			"ToArea": { "X": 48, "Y": 400, "Width": 48, "Height": 32},
+		"When": {
+			"LocationName":"HaleyHouse",
+			"Optimized Loading":"false",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "townInterior, Maps/townInterior",
+		"FromFile": "assets/JoshHouse.png",
+			"FromArea": { "X": 0, "Y": 0, "Width": 48, "Height": 32},
+			"ToArea": { "X": 48, "Y": 400, "Width": 48, "Height": 32},
+		"When": {
+			"LocationName":"JoshHouse",
+			"Optimized Loading":"false",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "townInterior, Maps/townInterior",
+		"FromFile": "assets/JoshHouse.png",
+			"FromArea": { "X": 48, "Y": 0, "Width": 32, "Height": 32},
+			"ToArea": { "X": 0, "Y": 176, "Width": 32, "Height": 32},
+		"When": {
+			"LocationName":"JoshHouse",
+			"Optimized Loading":"false",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "townInterior, Maps/townInterior",
+		"FromFile": "assets/jodi.png",
+			"FromArea": { "X": 0, "Y": 0, "Width": 48, "Height": 32},
+			"ToArea": { "X": 48, "Y": 400, "Width": 48, "Height": 32},
+		"When": {
+			"LocationName":"SamHouse",
+			"Optimized Loading":"false",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "townInterior, Maps/townInterior",
+		"FromFile": "assets/jodi.png",
+			"FromArea": { "X": 48, "Y": 0, "Width": 32, "Height": 32},
+			"ToArea": { "X": 32, "Y": 176, "Width": 32, "Height": 32},
+		"When": {
+			"LocationName":"SamHouse",
+			"Optimized Loading":"false",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "townInterior, Maps/townInterior",
+		"FromFile": "assets/leah.png",
+			"ToArea": { "X": 32, "Y": 176, "Width": 32, "Height": 32},
+		"When": {
+			"LocationName":"LeahHouse",
+			"Optimized Loading":"false",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "townInterior, Maps/townInterior",
+		"FromFile": "assets/robin.png",
+			"ToArea": { "X": 48, "Y": 400, "Width": 48, "Height": 32},
+		"When": {
+			"LocationName":"ScienceHouse",
+			"Optimized Loading":"false",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "townInterior, Maps/townInterior",
+		"FromFile": "assets/townInterior_VanillaPatch.png",
+			"ToArea": { "X": 384, "Y": 352, "Width": 16, "Height": 16},
+		"When": {
+			"HasMod:Karmylla.ImmersiveMaps": false,
+			"HasMod:FlashShifter.StardewValleyExpandedCP": false,
+			},
+		},
+
+//Seasons
+		{
+		"Action": "EditImage",
+		"PatchMode": "Overlay",
+		"Target": "townInterior, Maps/townInterior",
+		"FromFile": "assets/townInterior_{{season}}.png",
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "townInterior, Maps/townInterior",
+		"FromFile": "assets/townInterior_summer.png",
+			"FromArea": { "X": 352, "Y": 240, "Width": 32, "Height": 32},
+			"ToArea": { "X": 352, "Y": 240, "Width": 32, "Height": 32},
+		"When": {
+			"Season": "summer",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "townInterior, Maps/townInterior",
+		"FromFile": "assets/townInterior_summer.png",
+			"FromArea": { "X": 256, "Y": 560, "Width": 16, "Height": 48},
+			"ToArea": { "X": 256, "Y": 560, "Width": 16, "Height": 48},
+		"When": {
+			"Season": "summer",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "townInterior, Maps/townInterior",
+		"FromFile": "assets/townInterior_winter.png",
+			"FromArea": { "X": 256, "Y": 560, "Width": 16, "Height": 48},
+			"ToArea": { "X": 256, "Y": 560, "Width": 16, "Height": 48},
+		"When": {
+			"Season": "winter",
+			},
+		},
+//White Beam
+		{
+		"Action": "EditImage",
+		"PatchMode": "Overlay",
+		"Target": "townInterior, Maps/townInterior",
+		"FromFile": "assets/townInterior_light.png",
+		"When": {
+			"LocationName":"Hospital",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Overlay",
+		"Target": "townInterior, Maps/townInterior",
+		"FromFile": "assets/townInterior_light.png",
+		"When": {
+			"White Structure": true,
+			},
+		},
+//Farmhouse Beds
+/**/
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/farmhouse_tiles",
+		"FromFile": "assets/Farmhouse Beds/D_B.png",
+			"FromArea": { "X": 16, "Y": 80, "Width": 144, "Height": 32},
+			"ToArea": { "X": 16, "Y": 80, "Width": 144, "Height": 32},
+		"When": {
+			"Farmhouse Player Beds Enable":"True",
+			"Farmhouse Bed Colour_Dark Blue/Dark Coffee/Dark Green/Light Gray/Light Pink/Light White":"Dark Blue",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/farmhouse_tiles",
+		"FromFile": "assets/Farmhouse Beds/D_B.png",
+			"FromArea": { "X": 64, "Y": 112, "Width": 48, "Height": 16},
+			"ToArea": { "X": 64, "Y": 112, "Width": 48, "Height": 16},
+		"When": {
+			"Farmhouse Player Beds Enable":"True",
+			"Farmhouse Bed Colour_Dark Blue/Dark Coffee/Dark Green/Light Gray/Light Pink/Light White":"Dark Blue",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/farmhouse_tiles",
+		"FromFile": "assets/Farmhouse Beds/D_B.png",
+			"FromArea": { "X": 128, "Y": 112, "Width": 32, "Height": 56 },
+			"ToArea": { "X": 128, "Y": 112, "Width": 32, "Height": 56 },
+		"When": {
+			"Farmhouse Player Beds Enable":"True",
+			"Farmhouse Bed Colour_Dark Blue/Dark Coffee/Dark Green/Light Gray/Light Pink/Light White":"Dark Blue",
+			"LocationName":"FarmHouse",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/farmhouse_tiles",
+		"FromFile": "assets/Farmhouse Beds/D_B.png",
+			"FromArea": { "X": 112, "Y": 176, "Width": 32, "Height": 16 },
+			"ToArea": { "X": 112, "Y": 176, "Width": 32, "Height": 16 },
+		"When": {
+			"Farmhouse Player Beds Enable":"True",
+			"Farmhouse Bed Colour_Dark Blue/Dark Coffee/Dark Green/Light Gray/Light Pink/Light White":"Dark Blue",
+			"LocationName":"FarmHouse",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/farmhouse_tiles",
+		"FromFile": "assets/Farmhouse Beds/D_B.png",
+			"FromArea": { "X": 160, "Y": 176, "Width": 32, "Height": 16 },
+			"ToArea": { "X": 160, "Y": 176, "Width": 32, "Height": 16 },
+		"When": {
+			"Farmhouse Player Beds Enable":"True",
+			"Farmhouse Bed Colour_Dark Blue/Dark Coffee/Dark Green/Light Gray/Light Pink/Light White":"Dark Blue",
+			"LocationName":"FarmHouse",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/farmhouse_tiles",
+		"FromFile": "assets/Farmhouse Beds/D_B.png",
+			"FromArea": { "X": 128, "Y": 192, "Width": 48, "Height": 80 },
+			"ToArea": { "X": 128, "Y": 192, "Width": 48, "Height": 80 },
+		"When": {
+			"Farmhouse Player Beds Enable":"True",
+			"Farmhouse Bed Colour_Dark Blue/Dark Coffee/Dark Green/Light Gray/Light Pink/Light White":"Dark Blue",
+			"LocationName":"FarmHouse",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/townInterior",
+		"FromFile": "assets/Farmhouse Beds/D_B_K.png",
+			"FromArea": { "X": 64, "Y": 160, "Width": 32, "Height": 32},
+			"ToArea": { "X": 64, "Y": 160, "Width": 32, "Height": 32},
+		"When": {
+			"Farmhouse Kids Beds Enable":"True",
+			"Farmhouse Bed Colour_Dark Blue/Dark Coffee/Dark Green/Light Gray/Light Pink/Light White":"Dark Blue",
+			"LocationName":"FarmHouse",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/townInterior",
+		"FromFile": "assets/Farmhouse Beds/D_B_K.png",
+			"FromArea": { "X": 96, "Y": 176, "Width": 32, "Height": 32},
+			"ToArea": { "X": 96, "Y": 176, "Width": 32, "Height": 32},
+		"When": {
+			"Farmhouse Kids Beds Enable":"True",
+			"Farmhouse Bed Colour_Dark Blue/Dark Coffee/Dark Green/Light Gray/Light Pink/Light White":"Dark Blue",
+			"LocationName":"FarmHouse",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/townInterior",
+		"FromFile": "assets/Farmhouse Beds/D_B_K.png",
+			"FromArea": { "X": 0, "Y": 160, "Width": 32, "Height": 16},
+			"ToArea": { "X": 0, "Y": 160, "Width": 32, "Height": 16},
+		"When": {
+			"Farmhouse Kids Beds Enable":"True",
+			"Farmhouse Bed Colour_Dark Blue/Dark Coffee/Dark Green/Light Gray/Light Pink/Light White":"Dark Blue",
+			"LocationName":"FarmHouse",
+			},
+		},
+/**/
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/farmhouse_tiles",
+		"FromFile": "assets/Farmhouse Beds/D_C.png",
+			"FromArea": { "X": 16, "Y": 80, "Width": 144, "Height": 32},
+			"ToArea": { "X": 16, "Y": 80, "Width": 144, "Height": 32},
+		"When": {
+			"Farmhouse Player Beds Enable":"True",
+			"Farmhouse Bed Colour_Dark Blue/Dark Coffee/Dark Green/Light Gray/Light Pink/Light White":"Dark Coffee",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/farmhouse_tiles",
+		"FromFile": "assets/Farmhouse Beds/D_C.png",
+			"FromArea": { "X": 64, "Y": 112, "Width": 48, "Height": 16},
+			"ToArea": { "X": 64, "Y": 112, "Width": 48, "Height": 16},
+		"When": {
+			"Farmhouse Player Beds Enable":"True",
+			"Farmhouse Bed Colour_Dark Blue/Dark Coffee/Dark Green/Light Gray/Light Pink/Light White":"Dark Coffee",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/farmhouse_tiles",
+		"FromFile": "assets/Farmhouse Beds/D_C.png",
+			"FromArea": { "X": 128, "Y": 112, "Width": 32, "Height": 56 },
+			"ToArea": { "X": 128, "Y": 112, "Width": 32, "Height": 56 },
+		"When": {
+			"Farmhouse Player Beds Enable":"True",
+			"Farmhouse Bed Colour_Dark Blue/Dark Coffee/Dark Green/Light Gray/Light Pink/Light White":"Dark Coffee",
+			"LocationName":"FarmHouse",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/farmhouse_tiles",
+		"FromFile": "assets/Farmhouse Beds/D_C.png",
+			"FromArea": { "X": 112, "Y": 176, "Width": 32, "Height": 16 },
+			"ToArea": { "X": 112, "Y": 176, "Width": 32, "Height": 16 },
+		"When": {
+			"Farmhouse Player Beds Enable":"True",
+			"Farmhouse Bed Colour_Dark Blue/Dark Coffee/Dark Green/Light Gray/Light Pink/Light White":"Dark Coffee",
+			"LocationName":"FarmHouse",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/farmhouse_tiles",
+		"FromFile": "assets/Farmhouse Beds/D_C.png",
+			"FromArea": { "X": 160, "Y": 176, "Width": 32, "Height": 16 },
+			"ToArea": { "X": 160, "Y": 176, "Width": 32, "Height": 16 },
+		"When": {
+			"Farmhouse Player Beds Enable":"True",
+			"Farmhouse Bed Colour_Dark Blue/Dark Coffee/Dark Green/Light Gray/Light Pink/Light White":"Dark Coffee",
+			"LocationName":"FarmHouse",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/farmhouse_tiles",
+		"FromFile": "assets/Farmhouse Beds/D_C.png",
+			"FromArea": { "X": 128, "Y": 192, "Width": 48, "Height": 80 },
+			"ToArea": { "X": 128, "Y": 192, "Width": 48, "Height": 80 },
+		"When": {
+			"Farmhouse Player Beds Enable":"True",
+			"Farmhouse Bed Colour_Dark Blue/Dark Coffee/Dark Green/Light Gray/Light Pink/Light White":"Dark Coffee",
+			"LocationName":"FarmHouse",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/townInterior",
+		"FromFile": "assets/Farmhouse Beds/D_C_K.png",
+			"FromArea": { "X": 64, "Y": 160, "Width": 32, "Height": 32},
+			"ToArea": { "X": 64, "Y": 160, "Width": 32, "Height": 32},
+		"When": {
+			"Farmhouse Kids Beds Enable":"True",
+			"Farmhouse Bed Colour_Dark Blue/Dark Coffee/Dark Green/Light Gray/Light Pink/Light White":"Dark Coffee",
+			"LocationName":"FarmHouse",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/townInterior",
+		"FromFile": "assets/Farmhouse Beds/D_C_K.png",
+			"FromArea": { "X": 96, "Y": 176, "Width": 32, "Height": 32},
+			"ToArea": { "X": 96, "Y": 176, "Width": 32, "Height": 32},
+		"When": {
+			"Farmhouse Kids Beds Enable":"True",
+			"Farmhouse Bed Colour_Dark Blue/Dark Coffee/Dark Green/Light Gray/Light Pink/Light White":"Dark Coffee",
+			"LocationName":"FarmHouse",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/townInterior",
+		"FromFile": "assets/Farmhouse Beds/D_C_K.png",
+			"FromArea": { "X": 0, "Y": 160, "Width": 32, "Height": 16},
+			"ToArea": { "X": 0, "Y": 160, "Width": 32, "Height": 16},
+		"When": {
+			"Farmhouse Kids Beds Enable":"True",
+			"Farmhouse Bed Colour_Dark Blue/Dark Coffee/Dark Green/Light Gray/Light Pink/Light White":"Dark Coffee",
+			"LocationName":"FarmHouse",
+			},
+		},
+/**/
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/farmhouse_tiles",
+		"FromFile": "assets/Farmhouse Beds/D_G.png",
+			"FromArea": { "X": 16, "Y": 80, "Width": 144, "Height": 32},
+			"ToArea": { "X": 16, "Y": 80, "Width": 144, "Height": 32},
+		"When": {
+			"Farmhouse Player Beds Enable":"True",
+			"Farmhouse Bed Colour_Dark Blue/Dark Coffee/Dark Green/Light Gray/Light Pink/Light White":"Dark Green",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/farmhouse_tiles",
+		"FromFile": "assets/Farmhouse Beds/D_G.png",
+			"FromArea": { "X": 64, "Y": 112, "Width": 48, "Height": 16},
+			"ToArea": { "X": 64, "Y": 112, "Width": 48, "Height": 16},
+		"When": {
+			"Farmhouse Player Beds Enable":"True",
+			"Farmhouse Bed Colour_Dark Blue/Dark Coffee/Dark Green/Light Gray/Light Pink/Light White":"Dark Green",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/farmhouse_tiles",
+		"FromFile": "assets/Farmhouse Beds/D_G.png",
+			"FromArea": { "X": 128, "Y": 112, "Width": 32, "Height": 56 },
+			"ToArea": { "X": 128, "Y": 112, "Width": 32, "Height": 56 },
+		"When": {
+			"Farmhouse Player Beds Enable":"True",
+			"Farmhouse Bed Colour_Dark Blue/Dark Coffee/Dark Green/Light Gray/Light Pink/Light White":"Dark Green",
+			"LocationName":"FarmHouse",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/farmhouse_tiles",
+		"FromFile": "assets/Farmhouse Beds/D_G.png",
+			"FromArea": { "X": 112, "Y": 176, "Width": 32, "Height": 16 },
+			"ToArea": { "X": 112, "Y": 176, "Width": 32, "Height": 16 },
+		"When": {
+			"Farmhouse Player Beds Enable":"True",
+			"Farmhouse Bed Colour_Dark Blue/Dark Coffee/Dark Green/Light Gray/Light Pink/Light White":"Dark Green",
+			"LocationName":"FarmHouse",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/farmhouse_tiles",
+		"FromFile": "assets/Farmhouse Beds/D_G.png",
+			"FromArea": { "X": 160, "Y": 176, "Width": 32, "Height": 16 },
+			"ToArea": { "X": 160, "Y": 176, "Width": 32, "Height": 16 },
+		"When": {
+			"Farmhouse Player Beds Enable":"True",
+			"Farmhouse Bed Colour_Dark Blue/Dark Coffee/Dark Green/Light Gray/Light Pink/Light White":"Dark Green",
+			"LocationName":"FarmHouse",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/farmhouse_tiles",
+		"FromFile": "assets/Farmhouse Beds/D_G.png",
+			"FromArea": { "X": 128, "Y": 192, "Width": 48, "Height": 80 },
+			"ToArea": { "X": 128, "Y": 192, "Width": 48, "Height": 80 },
+		"When": {
+			"Farmhouse Player Beds Enable":"True",
+			"Farmhouse Bed Colour_Dark Blue/Dark Coffee/Dark Green/Light Gray/Light Pink/Light White":"Dark Green",
+			"LocationName":"FarmHouse",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/townInterior",
+		"FromFile": "assets/Farmhouse Beds/D_G_K.png",
+			"FromArea": { "X": 64, "Y": 160, "Width": 32, "Height": 32},
+			"ToArea": { "X": 64, "Y": 160, "Width": 32, "Height": 32},
+		"When": {
+			"Farmhouse Kids Beds Enable":"True",
+			"Farmhouse Bed Colour_Dark Blue/Dark Coffee/Dark Green/Light Gray/Light Pink/Light White":"Dark Green",
+			"LocationName":"FarmHouse",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/townInterior",
+		"FromFile": "assets/Farmhouse Beds/D_G_K.png",
+			"FromArea": { "X": 96, "Y": 176, "Width": 32, "Height": 32},
+			"ToArea": { "X": 96, "Y": 176, "Width": 32, "Height": 32},
+		"When": {
+			"Farmhouse Kids Beds Enable":"True",
+			"Farmhouse Bed Colour_Dark Blue/Dark Coffee/Dark Green/Light Gray/Light Pink/Light White":"Dark Green",
+			"LocationName":"FarmHouse",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/townInterior",
+		"FromFile": "assets/Farmhouse Beds/D_G_K.png",
+			"FromArea": { "X": 0, "Y": 160, "Width": 32, "Height": 16},
+			"ToArea": { "X": 0, "Y": 160, "Width": 32, "Height": 16},
+		"When": {
+			"Farmhouse Kids Beds Enable":"True",
+			"Farmhouse Bed Colour_Dark Blue/Dark Coffee/Dark Green/Light Gray/Light Pink/Light White":"Dark Green",
+			"LocationName":"FarmHouse",
+			},
+		},
+/**/
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/farmhouse_tiles",
+		"FromFile": "assets/Farmhouse Beds/L_G.png",
+			"FromArea": { "X": 16, "Y": 80, "Width": 144, "Height": 32},
+			"ToArea": { "X": 16, "Y": 80, "Width": 144, "Height": 32},
+		"When": {
+			"Farmhouse Player Beds Enable":"True",
+			"Farmhouse Bed Colour_Dark Blue/Dark Coffee/Dark Green/Light Gray/Light Pink/Light White":"Light Gray",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/farmhouse_tiles",
+		"FromFile": "assets/Farmhouse Beds/L_G.png",
+			"FromArea": { "X": 64, "Y": 112, "Width": 48, "Height": 16},
+			"ToArea": { "X": 64, "Y": 112, "Width": 48, "Height": 16},
+		"When": {
+			"Farmhouse Player Beds Enable":"True",
+			"Farmhouse Bed Colour_Dark Blue/Dark Coffee/Dark Green/Light Gray/Light Pink/Light White":"Light Gray",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/farmhouse_tiles",
+		"FromFile": "assets/Farmhouse Beds/L_G.png",
+			"FromArea": { "X": 128, "Y": 112, "Width": 32, "Height": 56 },
+			"ToArea": { "X": 128, "Y": 112, "Width": 32, "Height": 56 },
+		"When": {
+			"Farmhouse Player Beds Enable":"True",
+			"Farmhouse Bed Colour_Dark Blue/Dark Coffee/Dark Green/Light Gray/Light Pink/Light White":"Light Gray",
+			"LocationName":"FarmHouse",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/farmhouse_tiles",
+		"FromFile": "assets/Farmhouse Beds/L_G.png",
+			"FromArea": { "X": 112, "Y": 176, "Width": 32, "Height": 16 },
+			"ToArea": { "X": 112, "Y": 176, "Width": 32, "Height": 16 },
+		"When": {
+			"Farmhouse Player Beds Enable":"True",
+			"Farmhouse Bed Colour_Dark Blue/Dark Coffee/Dark Green/Light Gray/Light Pink/Light White":"Light Gray",
+			"LocationName":"FarmHouse",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/farmhouse_tiles",
+		"FromFile": "assets/Farmhouse Beds/L_G.png",
+			"FromArea": { "X": 160, "Y": 176, "Width": 32, "Height": 16 },
+			"ToArea": { "X": 160, "Y": 176, "Width": 32, "Height": 16 },
+		"When": {
+			"Farmhouse Player Beds Enable":"True",
+			"Farmhouse Bed Colour_Dark Blue/Dark Coffee/Dark Green/Light Gray/Light Pink/Light White":"Light Gray",
+			"LocationName":"FarmHouse",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/farmhouse_tiles",
+		"FromFile": "assets/Farmhouse Beds/L_G.png",
+			"FromArea": { "X": 128, "Y": 192, "Width": 48, "Height": 80 },
+			"ToArea": { "X": 128, "Y": 192, "Width": 48, "Height": 80 },
+		"When": {
+			"Farmhouse Player Beds Enable":"True",
+			"Farmhouse Bed Colour_Dark Blue/Dark Coffee/Dark Green/Light Gray/Light Pink/Light White":"Light Gray",
+			"LocationName":"FarmHouse",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/townInterior",
+		"FromFile": "assets/Farmhouse Beds/L_G_K.png",
+			"FromArea": { "X": 64, "Y": 160, "Width": 32, "Height": 32},
+			"ToArea": { "X": 64, "Y": 160, "Width": 32, "Height": 32},
+		"When": {
+			"Farmhouse Kids Beds Enable":"True",
+			"Farmhouse Bed Colour_Dark Blue/Dark Coffee/Dark Green/Light Gray/Light Pink/Light White":"Light Gray",
+			"LocationName":"FarmHouse",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/townInterior",
+		"FromFile": "assets/Farmhouse Beds/L_G_K.png",
+			"FromArea": { "X": 96, "Y": 176, "Width": 32, "Height": 32},
+			"ToArea": { "X": 96, "Y": 176, "Width": 32, "Height": 32},
+		"When": {
+			"Farmhouse Kids Beds Enable":"True",
+			"Farmhouse Bed Colour_Dark Blue/Dark Coffee/Dark Green/Light Gray/Light Pink/Light White":"Light Gray",
+			"LocationName":"FarmHouse",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/townInterior",
+		"FromFile": "assets/Farmhouse Beds/L_G_K.png",
+			"FromArea": { "X": 0, "Y": 160, "Width": 32, "Height": 16},
+			"ToArea": { "X": 0, "Y": 160, "Width": 32, "Height": 16},
+		"When": {
+			"Farmhouse Kids Beds Enable":"True",
+			"Farmhouse Bed Colour_Dark Blue/Dark Coffee/Dark Green/Light Gray/Light Pink/Light White":"Light Gray",
+			"LocationName":"FarmHouse",
+			},
+		},
+/**/
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/farmhouse_tiles",
+		"FromFile": "assets/Farmhouse Beds/L_P.png",
+			"FromArea": { "X": 16, "Y": 80, "Width": 144, "Height": 32},
+			"ToArea": { "X": 16, "Y": 80, "Width": 144, "Height": 32},
+		"When": {
+			"Farmhouse Player Beds Enable":"True",
+			"Farmhouse Bed Colour_Dark Blue/Dark Coffee/Dark Green/Light Gray/Light Pink/Light White":"Light Pink",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/farmhouse_tiles",
+		"FromFile": "assets/Farmhouse Beds/L_P.png",
+			"FromArea": { "X": 64, "Y": 112, "Width": 48, "Height": 16},
+			"ToArea": { "X": 64, "Y": 112, "Width": 48, "Height": 16},
+		"When": {
+			"Farmhouse Player Beds Enable":"True",
+			"Farmhouse Bed Colour_Dark Blue/Dark Coffee/Dark Green/Light Gray/Light Pink/Light White":"Light Pink",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/farmhouse_tiles",
+		"FromFile": "assets/Farmhouse Beds/L_P.png",
+			"FromArea": { "X": 128, "Y": 112, "Width": 32, "Height": 56 },
+			"ToArea": { "X": 128, "Y": 112, "Width": 32, "Height": 56 },
+		"When": {
+			"Farmhouse Kids Beds Enable":"True",
+			"Farmhouse Bed Colour_Dark Blue/Dark Coffee/Dark Green/Light Gray/Light Pink/Light White":"Light Pink",
+			"LocationName":"FarmHouse",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/farmhouse_tiles",
+		"FromFile": "assets/Farmhouse Beds/L_P.png",
+			"FromArea": { "X": 112, "Y": 176, "Width": 32, "Height": 16 },
+			"ToArea": { "X": 112, "Y": 176, "Width": 32, "Height": 16 },
+		"When": {
+			"Farmhouse Kids Beds Enable":"True",
+			"Farmhouse Bed Colour_Dark Blue/Dark Coffee/Dark Green/Light Gray/Light Pink/Light White":"Light Pink",
+			"LocationName":"FarmHouse",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/farmhouse_tiles",
+		"FromFile": "assets/Farmhouse Beds/L_P.png",
+			"FromArea": { "X": 160, "Y": 176, "Width": 32, "Height": 16 },
+			"ToArea": { "X": 160, "Y": 176, "Width": 32, "Height": 16 },
+		"When": {
+			"Farmhouse Kids Beds Enable":"True",
+			"Farmhouse Bed Colour_Dark Blue/Dark Coffee/Dark Green/Light Gray/Light Pink/Light White":"Light Pink",
+			"LocationName":"FarmHouse",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/farmhouse_tiles",
+		"FromFile": "assets/Farmhouse Beds/L_P.png",
+			"FromArea": { "X": 128, "Y": 192, "Width": 48, "Height": 80 },
+			"ToArea": { "X": 128, "Y": 192, "Width": 48, "Height": 80 },
+		"When": {
+			"Farmhouse Kids Beds Enable":"True",
+			"Farmhouse Bed Colour_Dark Blue/Dark Coffee/Dark Green/Light Gray/Light Pink/Light White":"Light Pink",
+			"LocationName":"FarmHouse",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/townInterior",
+		"FromFile": "assets/Farmhouse Beds/L_P_K.png",
+			"FromArea": { "X": 64, "Y": 160, "Width": 32, "Height": 32},
+			"ToArea": { "X": 64, "Y": 160, "Width": 32, "Height": 32},
+		"When": {
+			"Farmhouse Kids Beds Enable":"True",
+			"Farmhouse Bed Colour_Dark Blue/Dark Coffee/Dark Green/Light Gray/Light Pink/Light White":"Light Pink",
+			"LocationName":"FarmHouse",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/townInterior",
+		"FromFile": "assets/Farmhouse Beds/L_P_K.png",
+			"FromArea": { "X": 96, "Y": 176, "Width": 32, "Height": 32},
+			"ToArea": { "X": 96, "Y": 176, "Width": 32, "Height": 32},
+		"When": {
+			"Farmhouse Kids Beds Enable":"True",
+			"Farmhouse Bed Colour_Dark Blue/Dark Coffee/Dark Green/Light Gray/Light Pink/Light White":"Light Pink",
+			"LocationName":"FarmHouse",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/townInterior",
+		"FromFile": "assets/Farmhouse Beds/L_P_K.png",
+			"FromArea": { "X": 0, "Y": 160, "Width": 32, "Height": 16},
+			"ToArea": { "X": 0, "Y": 160, "Width": 32, "Height": 16},
+		"When": {
+			"Farmhouse Kids Beds Enable":"True",
+			"Farmhouse Bed Colour_Dark Blue/Dark Coffee/Dark Green/Light Gray/Light Pink/Light White":"Light Pink",
+			"LocationName":"FarmHouse",
+			},
+		},
+/**/
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/farmhouse_tiles",
+		"FromFile": "assets/Farmhouse Beds/L_W.png",
+			"FromArea": { "X": 16, "Y": 80, "Width": 144, "Height": 32},
+			"ToArea": { "X": 16, "Y": 80, "Width": 144, "Height": 32},
+		"When": {
+			"Farmhouse Player Beds Enable":"True",
+			"Farmhouse Bed Colour_Dark Blue/Dark Coffee/Dark Green/Light Gray/Light Pink/Light White":"Light White",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/farmhouse_tiles",
+		"FromFile": "assets/Farmhouse Beds/L_W.png",
+			"FromArea": { "X": 64, "Y": 112, "Width": 48, "Height": 16},
+			"ToArea": { "X": 64, "Y": 112, "Width": 48, "Height": 16},
+		"When": {
+			"Farmhouse Player Beds Enable":"True",
+			"Farmhouse Bed Colour_Dark Blue/Dark Coffee/Dark Green/Light Gray/Light Pink/Light White":"Light White",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/farmhouse_tiles",
+		"FromFile": "assets/Farmhouse Beds/L_W.png",
+			"FromArea": { "X": 128, "Y": 112, "Width": 32, "Height": 56 },
+			"ToArea": { "X": 128, "Y": 112, "Width": 32, "Height": 56 },
+		"When": {
+			"Farmhouse Kids Beds Enable":"True",
+			"Farmhouse Bed Colour_Dark Blue/Dark Coffee/Dark Green/Light Gray/Light Pink/Light White":"Light White",
+			"LocationName":"FarmHouse",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/farmhouse_tiles",
+		"FromFile": "assets/Farmhouse Beds/L_W.png",
+			"FromArea": { "X": 112, "Y": 176, "Width": 32, "Height": 16 },
+			"ToArea": { "X": 112, "Y": 176, "Width": 32, "Height": 16 },
+		"When": {
+			"Farmhouse Kids Beds Enable":"True",
+			"Farmhouse Bed Colour_Dark Blue/Dark Coffee/Dark Green/Light Gray/Light Pink/Light White":"Light White",
+			"LocationName":"FarmHouse",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/farmhouse_tiles",
+		"FromFile": "assets/Farmhouse Beds/L_W.png",
+			"FromArea": { "X": 160, "Y": 176, "Width": 32, "Height": 16 },
+			"ToArea": { "X": 160, "Y": 176, "Width": 32, "Height": 16 },
+		"When": {
+			"Farmhouse Kids Beds Enable":"True",
+			"Farmhouse Bed Colour_Dark Blue/Dark Coffee/Dark Green/Light Gray/Light Pink/Light White":"Light White",
+			"LocationName":"FarmHouse",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/farmhouse_tiles",
+		"FromFile": "assets/Farmhouse Beds/L_W.png",
+			"FromArea": { "X": 128, "Y": 192, "Width": 48, "Height": 80 },
+			"ToArea": { "X": 128, "Y": 192, "Width": 48, "Height": 80 },
+		"When": {
+			"Farmhouse Kids Beds Enable":"True",
+			"Farmhouse Bed Colour_Dark Blue/Dark Coffee/Dark Green/Light Gray/Light Pink/Light White":"Light White",
+			"LocationName":"FarmHouse",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/townInterior",
+		"FromFile": "assets/Farmhouse Beds/L_W_K.png",
+			"FromArea": { "X": 64, "Y": 160, "Width": 32, "Height": 32},
+			"ToArea": { "X": 64, "Y": 160, "Width": 32, "Height": 32},
+		"When": {
+			"Farmhouse Kids Beds Enable":"True",
+			"Farmhouse Bed Colour_Dark Blue/Dark Coffee/Dark Green/Light Gray/Light Pink/Light White":"Light White",
+			"LocationName":"FarmHouse",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/townInterior",
+		"FromFile": "assets/Farmhouse Beds/L_W_K.png",
+			"FromArea": { "X": 96, "Y": 176, "Width": 32, "Height": 32},
+			"ToArea": { "X": 96, "Y": 176, "Width": 32, "Height": 32},
+		"When": {
+			"Farmhouse Kids Beds Enable":"True",
+			"Farmhouse Bed Colour_Dark Blue/Dark Coffee/Dark Green/Light Gray/Light Pink/Light White":"Light White",
+			"LocationName":"FarmHouse",
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/townInterior",
+		"FromFile": "assets/Farmhouse Beds/L_W_K.png",
+			"FromArea": { "X": 0, "Y": 160, "Width": 32, "Height": 16},
+			"ToArea": { "X": 0, "Y": 160, "Width": 32, "Height": 16},
+		"When": {
+			"Farmhouse Kids Beds Enable":"True",
+			"Farmhouse Bed Colour_Dark Blue/Dark Coffee/Dark Green/Light Gray/Light Pink/Light White":"Light White",
+			"LocationName":"FarmHouse",
+			},
+		},
+
+//MovieTheater_TileSheet
+		{
+		"Action": "EditImage",
+		"PatchMode": "Overlay",
+		"Target": "Maps/MovieTheater_TileSheet",
+		"FromFile": "assets/MovieTheater_TileSheet.png",
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Overlay",
+		"Target": "Maps/MovieTheaterScreen_TileSheet",
+		"FromFile": "assets/MovieTheaterScreen_TileSheet.png",
+		},
+
+//JojaRuins_TileSheet
+		{
+		"Action": "EditImage",
+		"PatchMode": "Overlay",
+		"Target": "Maps/JojaRuins_TileSheet.png",
+		"FromFile": "assets/JojaRuins_TileSheet.png.png",
+		},
+
+//SewerTiles
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "SewerTiles, Maps/SewerTiles",
+		"FromFile": "assets/SewerTiles.png",
+		},
+
+//SVE
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/fall_z_extras",
+		"FromFile": "assets/SVE/fall_z_extras.png",
+		"When": {
+			"HasMod:FlashShifter.StardewValleyExpandedCP": true,
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/spring_z_extras",
+		"FromFile": "assets/SVE/spring_z_extras.png",
+		"When": {
+			"HasMod:FlashShifter.StardewValleyExpandedCP": true,
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/summer_z_extras",
+		"FromFile": "assets/SVE/summer_z_extras.png",
+		"When": {
+			"HasMod:FlashShifter.StardewValleyExpandedCP": true,
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/winter_z_extras",
+		"FromFile": "assets/SVE/winter_z_extras.png",
+		"When": {
+			"HasMod:FlashShifter.StardewValleyExpandedCP": true,
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/VanillaFurniture",
+		"FromFile": "assets/SVE/VanillaFurniture.png",
+		"When": {
+			"HasMod:FlashShifter.StardewValleyExpandedCP": true,
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/VanillaWallsAndFloors",
+		"FromFile": "assets/SVE/VanillaWallsAndFloors.png",
+		"When": {
+			"HasMod:FlashShifter.StardewValleyExpandedCP": true,
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/VanillaCraftables",
+		"FromFile": "assets/SVE/VanillaCraftables.png",
+		"When": {
+			"HasMod:FlashShifter.StardewValleyExpandedCP": true,
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/zcompactbathroom_tiles",
+		"FromFile": "assets/SVE/zcompactbathroom_tiles.png",
+		"When": {
+			"HasMod:FlashShifter.StardewValleyExpandedCP": true,
+			},
+		},
+		{
+		"Action": "EditImage",
+		"PatchMode": "Replace",
+		"Target": "Maps/EmilyBedEvent",
+		"FromFile": "assets/SVE/EmilyBedEvent.png",
+		"When": {
+			"HasMod:FlashShifter.StardewValleyExpandedCP": true,
+			},
+		},
+
+//WitchHut
+		{
+		"Action": "EditImage",
+		"PatchMode": "Overlay",
+		"Target": "Maps/WitchHutTiles",
+		"FromFile": "assets/WitchHutTiles.png",
+		},
+
+	]
+}

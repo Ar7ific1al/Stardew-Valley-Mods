@@ -1,0 +1,166 @@
+{
+    "Description": "Fancy Inspired Farm_A default farm edit.",
+    "Folder": "[aMTN]Fancy",
+    "ID": 156,
+    "Name": "Fancy Inspired Farm",
+    "AllowClose": true,
+    "AllowSeperate": true,
+    "CabinCapacity": 3,
+    "FarmCave": {
+        "PointOfInteraction": {
+            "x": 34,
+            "y": 6
+        }
+    },
+    "FarmHouse": {
+        "Coordinates": {
+            "x": 58,
+            "y": 8.1875
+        },
+        "PointOfInteraction": {
+            "x": 64,
+            "y": 15
+        }
+    },    "FarmMap": {
+        FileName: "Fancy",
+    },
+    "FurnitureLayoutFromCanon": 0,
+    "grandpaShrine": {
+        "PointOfInteraction": {
+            "x": 8,
+            "y": 7
+        }
+    },
+    "greenHouse": {
+        "Coordinates": {
+            "x": 25.0,
+            "y": 6.0
+        },
+        "PointOfInteraction": {
+            "x": 28,
+            "y": 16
+        }
+    },
+    "Icon": "icon.png",
+    "mailBox": {
+        "PointOfInteraction": {
+            "x": 68,
+            "y": 16
+        }
+    },
+  "Neighbors": [
+    {
+      "MapName": "Backwoods",
+      "warpPoints": [
+        {
+          "FromX": 13,
+          "FromY": 40,
+          "ToX": 40,
+          "ToY": 0
+        },
+        {
+          "FromX": 14,
+          "FromY": 40,
+          "ToX": 40,
+          "ToY": 0
+        },
+        {
+          "FromX": 15,
+          "FromY": 40,
+          "ToX": 40,
+          "ToY": 0
+        }
+      ]
+    },
+    {
+      "MapName": "BusStop",
+      "warpPoints": [
+        {
+          "FromX": -1,
+          "FromY": 22,
+          "ToX": 78,
+          "ToY": 16
+        },
+        {
+          "FromX": -1,
+          "FromY": 23,
+          "ToX": 78,
+          "ToY": 16
+        },
+        {
+          "FromX": -1,
+          "FromY": 24,
+          "ToX": 78,
+          "ToY": 16
+        },
+        {
+          "FromX": -1,
+          "FromY": 25,
+          "ToX": 78,
+          "ToY": 16
+        }
+      ]
+    },
+    {
+      "MapName": "Forest",
+      "warpPoints": [
+        {
+          "FromX": 67,
+          "FromY": -1,
+          "ToX": 41,
+          "ToY": 63
+        },
+        {
+          "FromX": 68,
+          "FromY": -1,
+          "ToX": 41,
+          "ToY": 63
+        },
+        {
+          "FromX": 69,
+          "FromY": -1,
+          "ToX": 41,
+          "ToY": 63
+        },
+        {
+          "FromX": 70,
+          "FromY": -1,
+          "ToX": 41,
+          "ToY": 63
+        },
+        {
+          "FromX": 71,
+          "FromY": -1,
+          "ToX": 41,
+          "ToY": 63
+        },
+        {
+          "FromX": 72,
+          "FromY": -1,
+          "ToX": 41,
+          "ToY": 63
+        }
+      ]
+    }
+  ],
+  "PetWaterBowl": {
+    "PointOfInteraction": {
+      "x": 54,
+      "y": 7
+    }
+  },
+  "RabbitShrine": {
+    "PointOfInteraction": {
+      "x": 48,
+      "y": 7
+    }
+  },
+    "shippingBin": {
+        "PointOfInteraction": {
+            "x": 71,
+            "y": 13
+        }
+    },
+  "spawnMonstersAtNight": false,
+  "Version": 2.0
+}

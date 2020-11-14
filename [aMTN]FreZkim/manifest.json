@@ -1,0 +1,11 @@
+{
+  "Name": "Ace Farms Expanded MTN FreZkim",
+  "Author": "Acerbicon",
+  "Version": "1.2.9",
+  "UniqueID": "Acerbicon.AFEMTNfrezkim",
+  "MinimumApiVersion": "2.5",
+  "UpdateKeys": ["Nexus:2711"],
+  "ContentPackFor": {
+    "UniqueID": "SgtPickles.MTN"
+  }
+}

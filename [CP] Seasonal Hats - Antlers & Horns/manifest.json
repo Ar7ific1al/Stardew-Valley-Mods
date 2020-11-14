@@ -1,0 +1,11 @@
+{
+   "Name": "Seasonal Hats - Antlers & Horns for Content Patcher",
+   "Author": "paradigmnomad",
+   "Description": "A set of seasonal hats for Content Patcher",
+   "Version": "1.0.1",
+   "UniqueID": "paradigmnomad.cpseasonalhats",
+   "ContentPackFor": {
+       "UniqueID": "Pathoschild.ContentPatcher"
+    },
+"UpdateKeys": ["Nexus:2982"],
+}

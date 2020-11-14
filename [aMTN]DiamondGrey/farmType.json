@@ -1,0 +1,475 @@
+{
+    "Description": "DiamondGrey Farm_A HillTop farm edit.",
+    "Folder": "[aMTN]DiamondGrey",
+    "ID": 155,
+    "Name": "DiamondGrey's HillTop Farm",
+    "AllowClose": true,
+    "AllowSeperate": true,
+    "CabinCapacity": 6,
+    "FarmCave": {
+        "PointOfInteraction": {
+            "x": 34,
+            "y": 6
+        }
+    },
+    "FarmHouse": {
+        "Coordinates": {
+            "x": 58,
+            "y": 8.1875
+        },
+        "PointOfInteraction": {
+            "x": 64,
+            "y": 15
+        }
+    },
+    "FarmMap": {
+        FileName: "DiamondGrey",
+    },
+    "FurnitureLayoutFromCanon": 3,
+    "grandpaShrine": {
+        "PointOfInteraction": {
+            "x": 8,
+            "y": 7
+        }
+    },
+    "greenHouse": {
+        "Coordinates": {
+            "x": 25.0,
+            "y": 6.0
+        },
+        "PointOfInteraction": {
+            "x": 28,
+            "y": 16
+        }
+    },
+    "Icon": "icon.png",
+    "mailBox": {
+        "PointOfInteraction": {
+            "x": 68,
+            "y": 16
+        }
+    },
+  "Neighbors": [
+    {
+      "MapName": "Backwoods",
+      "warpPoints": [
+        {
+          "FromX": 13,
+          "FromY": 40,
+          "ToX": 40,
+          "ToY": 0
+        },
+        {
+          "FromX": 14,
+          "FromY": 40,
+          "ToX": 40,
+          "ToY": 0
+        },
+        {
+          "FromX": 15,
+          "FromY": 40,
+          "ToX": 40,
+          "ToY": 0
+        }
+      ]
+    },
+    {
+      "MapName": "BusStop",
+      "warpPoints": [
+        {
+          "FromX": -1,
+          "FromY": 22,
+          "ToX": 98,
+          "ToY": 14
+        },
+        {
+          "FromX": -1,
+          "FromY": 23,
+          "ToX": 98,
+          "ToY": 14
+        },
+        {
+          "FromX": -1,
+          "FromY": 24,
+          "ToX": 98,
+          "ToY": 14
+        },
+        {
+          "FromX": -1,
+          "FromY": 25,
+          "ToX": 98,
+          "ToY": 14
+        }
+      ]
+    },
+    {
+      "MapName": "Forest",
+      "warpPoints": [
+        {
+          "FromX": 67,
+          "FromY": -1,
+          "ToX": 42,
+          "ToY": 88
+        },
+        {
+          "FromX": 68,
+          "FromY": -1,
+          "ToX": 42,
+          "ToY": 88
+        },
+        {
+          "FromX": 69,
+          "FromY": -1,
+          "ToX": 42,
+          "ToY": 88
+        },
+        {
+          "FromX": 70,
+          "FromY": -1,
+          "ToX": 42,
+          "ToY": 88
+        },
+        {
+          "FromX": 71,
+          "FromY": -1,
+          "ToX": 42,
+          "ToY": 88
+        },
+        {
+          "FromX": 72,
+          "FromY": -1,
+          "ToX": 42,
+          "ToY": 88
+        }
+      ]
+    }
+  ],
+  "PetWaterBowl": {
+    "PointOfInteraction": {
+      "x": 54,
+      "y": 7
+    }
+  },
+  "RabbitShrine": {
+    "PointOfInteraction": {
+      "x": 48,
+      "y": 7
+    }
+  },
+    "shippingBin": {
+        "PointOfInteraction": {
+            "x": 71,
+            "y": 13
+        }
+    },
+  "spawnMonstersAtNight": false,
+    "Ores": {
+        "ResourceList": [
+            {
+                "ItemId": 751,
+                "Seasons": "allYear",
+                "Boundary": "areaBound",
+                "AreaBinding": {
+                    "X": 4,
+                    "Y": 36,
+                    "Width": 22,
+                    "Height": 10
+                 },
+                "Chance": 0.75,
+                "NewMonthModifier": {
+                    "Additive": 0.2,
+                    "Multipler": 1.0
+                },
+                "CooldownMin": 2,
+                "CooldownMax": 1,
+                "SkillLevel": 1
+            },
+            {
+                "ItemId": 290,
+                "Seasons": "allYear",
+                "Boundary": "areaBound",
+                "AreaBinding": {
+                    "X": 4,
+                    "Y": 36,
+                    "Width": 22,
+                    "Height": 10
+                 },
+                "Chance": 0.50,
+                "NewMonthModifier": {
+                    "Additive": 0.2,
+                    "Multipler": 1.0
+                },
+                "CooldownMin": 3,
+                "CooldownMax": 1,
+                "SkillLevel": 3
+            },
+            {
+                "ItemId": 764,
+                "Seasons": "allYear",
+                "Boundary": "areaBound",
+                "AreaBinding": {
+                    "X": 4,
+                    "Y": 36,
+                    "Width": 22,
+                    "Height": 10
+                 },
+                "Chance": 0.50,
+                "NewMonthModifier": {
+                    "Additive": 0.2,
+                    "Multipler": 1.0
+                },
+                "CooldownMin": 5,
+                "CooldownMax": 1,
+                "SkillLevel": 5
+            },
+            {
+                "ItemId": 765,
+                "Seasons": "allYear",
+                "Boundary": "areaBound",
+                "AreaBinding": {
+                    "X": 4,
+                    "Y": 36,
+                    "Width": 22,
+                    "Height": 10
+                 },
+                "Chance": 0.25,
+                "NewMonthModifier": {
+                    "Additive": 0.2,
+                    "Multipler": 1.0
+                },
+                "CooldownMin": 5,
+                "CooldownMax": 1,
+                "SkillLevel": 10
+            },
+            {
+                "ItemId": 46,
+                "Seasons": "allYear",
+                "Boundary": "areaBound",
+                "AreaBinding": {
+                    "X": 4,
+                    "Y": 36,
+                    "Width": 22,
+                    "Height": 10
+                 },
+                "Chance": 0.25,
+                "NewMonthModifier": {
+                    "Additive": 0.2,
+                    "Multipler": 1.0
+                },
+                "CooldownMin": 5,
+                "CooldownMax": 1,
+                "SkillLevel": 10
+            },
+            {
+                "ItemId": 77,
+                "Seasons": "allYear",
+                "Boundary": "areaBound",
+                "AreaBinding": {
+                    "X": 4,
+                    "Y": 36,
+                    "Width": 22,
+                    "Height": 10
+                 },
+                "Chance": 0.35,
+                "NewMonthModifier": {
+                    "Additive": 0.2,
+                    "Multipler": 1.0
+                },
+                "CooldownMin": 5,
+                "CooldownMax": 1,
+                "SkillLevel": 8
+            },
+            {
+                "ItemId": 76,
+                "Seasons": "allYear",
+                "Boundary": "areaBound",
+                "AreaBinding": {
+                    "X": 4,
+                    "Y": 36,
+                    "Width": 22,
+                    "Height": 10
+                 },
+                "Chance": 0.45,
+                "NewMonthModifier": {
+                    "Additive": 0.2,
+                    "Multipler": 1.0
+                },
+                "CooldownMin": 5,
+                "CooldownMax": 1,
+                "SkillLevel": 6
+            },
+            {
+                "ItemId": 75,
+                "Seasons": "allYear",
+                "Boundary": "areaBound",
+                "AreaBinding": {
+                    "X": 4,
+                    "Y": 36,
+                    "Width": 22,
+                    "Height": 10
+                 },
+                "Chance": 0.55,
+                "NewMonthModifier": {
+                    "Additive": 0.2,
+                    "Multipler": 1.0
+                },
+                "CooldownMin": 5,
+                "CooldownMax": 1,
+                "SkillLevel": 4
+            },
+            {
+                "ItemId": 44,
+                "Seasons": "allYear",
+                "Boundary": "areaBound",
+                "AreaBinding": {
+                    "X": 4,
+                    "Y": 36,
+                    "Width": 22,
+                    "Height": 10
+                 },
+                "Chance": 0.75,
+                "NewMonthModifier": {
+                    "Additive": 0.2,
+                    "Multipler": 1.0
+                },
+                "CooldownMin": 5,
+                "CooldownMax": 1,
+                "SkillLevel": 4
+            },
+            {
+                "ItemId": 14,
+                "Seasons": "allYear",
+                "Boundary": "areaBound",
+                "AreaBinding": {
+                    "X": 4,
+                    "Y": 36,
+                    "Width": 22,
+                    "Height": 10
+                 },
+                "Chance": 0.75,
+                "NewMonthModifier": {
+                    "Additive": 0.2,
+                    "Multipler": 1.0
+                },
+                "CooldownMin": 5,
+                "CooldownMax": 1,
+                "SkillLevel": 4
+            },
+            {
+                "ItemId": 12,
+                "Seasons": "allYear",
+                "Boundary": "areaBound",
+                "AreaBinding": {
+                    "X": 4,
+                    "Y": 36,
+                    "Width": 22,
+                    "Height": 10
+                 },
+                "Chance": 0.75,
+                "NewMonthModifier": {
+                    "Additive": 0.2,
+                    "Multipler": 1.0
+                },
+                "CooldownMin": 5,
+                "CooldownMax": 1,
+                "SkillLevel": 4
+            },
+            {
+                "ItemId": 10,
+                "Seasons": "allYear",
+                "Boundary": "areaBound",
+                "AreaBinding": {
+                    "X": 4,
+                    "Y": 36,
+                    "Width": 22,
+                    "Height": 10
+                 },
+                "Chance": 0.75,
+                "NewMonthModifier": {
+                    "Additive": 0.2,
+                    "Multipler": 1.0
+                },
+                "CooldownMin": 5,
+                "CooldownMax": 1,
+                "SkillLevel": 4
+            },
+            {
+                "ItemId": 8,
+                "Seasons": "allYear",
+                "Boundary": "areaBound",
+                "AreaBinding": {
+                    "X": 4,
+                    "Y": 36,
+                    "Width": 22,
+                    "Height": 10
+                 },
+                "Chance": 0.75,
+                "NewMonthModifier": {
+                    "Additive": 0.2,
+                    "Multipler": 1.0
+                },
+                "CooldownMin": 5,
+                "CooldownMax": 1,
+                "SkillLevel": 4
+            },
+            {
+                "ItemId": 6,
+                "Seasons": "allYear",
+                "Boundary": "areaBound",
+                "AreaBinding": {
+                    "X": 4,
+                    "Y": 36,
+                    "Width": 22,
+                    "Height": 10
+                 },
+                "Chance": 0.75,
+                "NewMonthModifier": {
+                    "Additive": 0.2,
+                    "Multipler": 1.0
+                },
+                "CooldownMin": 5,
+                "CooldownMax": 1,
+                "SkillLevel": 4
+            },
+            {
+                "ItemId": 4,
+                "Seasons": "allYear",
+                "Boundary": "areaBound",
+                "AreaBinding": {
+                    "X": 4,
+                    "Y": 36,
+                    "Width": 22,
+                    "Height": 10
+                 },
+                "Chance": 0.75,
+                "NewMonthModifier": {
+                    "Additive": 0.2,
+                    "Multipler": 1.0
+                },
+                "CooldownMin": 5,
+                "CooldownMax": 1,
+                "SkillLevel": 4
+            },
+            {
+                "ItemId": 2,
+                "Seasons": "allYear",
+                "Boundary": "areaBound",
+                "AreaBinding": {
+                    "X": 4,
+                    "Y": 36,
+                    "Width": 22,
+                    "Height": 10
+                 },
+                "Chance": 0.75,
+                "NewMonthModifier": {
+                    "Additive": 0.2,
+                    "Multipler": 1.0
+                },
+                "CooldownMin": 5,
+                "CooldownMax": 1,
+                "SkillLevel": 4
+            }
+        ]
+  },
+  "Version": 2.0
+}

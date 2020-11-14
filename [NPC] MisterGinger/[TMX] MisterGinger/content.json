@@ -1,0 +1,11 @@
+{
+    "alsoLoad":["svefestival", "festival"],
+
+    
+    "spouseRooms": [
+              {
+            "name": "MisterGinger",
+                "file": "assets/SpouseRoomMrGinger.tmx"
+          }
+        ]
+    } 
