@@ -2,7 +2,7 @@
   "instance": "7aaa8d1c-13ce-4017-a4fe-8665babe9eba",
   "version": 1,
   "deploymentMethod": "hardlink_activator",
-  "deploymentTime": 1605361741150,
+  "deploymentTime": 1605361963356,
   "stagingPath": "L:\\Vortex Mods\\stardewvalley",
   "targetPath": "L:\\SteamLibrary\\steamapps\\common\\Stardew Valley\\Mods",
   "files": [
@@ -31949,6 +31949,36 @@
       "source": "DeepWoodsMod-1.8.3-beta.zip-2571-1-8-3-beta-1596275903",
       "target": "",
       "time": 1596304488000
+    },
+    {
+      "relPath": "SummitReborn\\SummitReborn.pdb",
+      "source": "Summit Reborn (1.5)-2073-1-5-1-1583027382",
+      "target": "",
+      "time": 1582906612000
+    },
+    {
+      "relPath": "SummitReborn\\SummitReborn.dll",
+      "source": "Summit Reborn (1.5)-2073-1-5-1-1583027382",
+      "target": "",
+      "time": 1582906612000
+    },
+    {
+      "relPath": "SummitReborn\\assets\\Summit_alt.tbin",
+      "source": "Summit Reborn (1.5)-2073-1-5-1-1583027382",
+      "target": "",
+      "time": 1582906612000
+    },
+    {
+      "relPath": "SummitReborn\\assets\\Railroad_alt.tbin",
+      "source": "Summit Reborn (1.5)-2073-1-5-1-1583027382",
+      "target": "",
+      "time": 1582906612000
+    },
+    {
+      "relPath": "SummitReborn\\manifest.json",
+      "source": "Summit Reborn (1.5)-2073-1-5-1-1583027382",
+      "target": "",
+      "time": 1582906612000
     }
   ]
 }
