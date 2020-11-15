@@ -2,7 +2,7 @@
   "instance": "7aaa8d1c-13ce-4017-a4fe-8665babe9eba",
   "version": 1,
   "deploymentMethod": "hardlink_activator",
-  "deploymentTime": 1605413411152,
+  "deploymentTime": 1605414036199,
   "stagingPath": "L:\\Vortex Mods\\stardewvalley",
   "targetPath": "L:\\SteamLibrary\\steamapps\\common\\Stardew Valley\\Mods",
   "files": [
@@ -33683,6 +33683,174 @@
       "source": "Fishing Made Easy Suite-3623-2-0-7-1601684690",
       "target": "",
       "time": 1605412917000
+    },
+    {
+      "relPath": "[CP] Pigeon mailbox by Gweniaczek\\assets\\clean\\1.png",
+      "source": "Pigeon Mailbox-4785-1-2-1578660269",
+      "target": "",
+      "time": 1575457975000
+    },
+    {
+      "relPath": "[CP] Pigeon mailbox by Gweniaczek\\mailoption & mailExtra.png",
+      "source": "Pigeon Mailbox-4785-1-2-1578660269",
+      "target": "",
+      "time": 1575464795000
+    },
+    {
+      "relPath": "[CP] Pigeon mailbox by Gweniaczek\\manifest.json",
+      "source": "Pigeon Mailbox-4785-1-2-1578660269",
+      "target": "",
+      "time": 1575528808000
+    },
+    {
+      "relPath": "[CP] Pigeon mailbox by Gweniaczek\\assets\\clean\\1_peta.png",
+      "source": "Pigeon Mailbox-4785-1-2-1578660269",
+      "target": "",
+      "time": 1575458130000
+    },
+    {
+      "relPath": "[CP] Pigeon mailbox by Gweniaczek\\assets\\3_winter.png",
+      "source": "Pigeon Mailbox-4785-1-2-1578660269",
+      "target": "",
+      "time": 1575458083000
+    },
+    {
+      "relPath": "[CP] Pigeon mailbox by Gweniaczek\\assets\\clean\\2_peta.png",
+      "source": "Pigeon Mailbox-4785-1-2-1578660269",
+      "target": "",
+      "time": 1575458112000
+    },
+    {
+      "relPath": "[CP] Pigeon mailbox by Gweniaczek\\assets\\clean\\3_fall.png",
+      "source": "Pigeon Mailbox-4785-1-2-1578660269",
+      "target": "",
+      "time": 1575458068000
+    },
+    {
+      "relPath": "[CP] Pigeon mailbox by Gweniaczek\\assets\\flowers\\1_spring_peta.png",
+      "source": "Pigeon Mailbox-4785-1-2-1578660269",
+      "target": "",
+      "time": 1575457632000
+    },
+    {
+      "relPath": "[CP] Pigeon mailbox by Gweniaczek\\assets\\flowers\\1_fall_peta.png",
+      "source": "Pigeon Mailbox-4785-1-2-1578660269",
+      "target": "",
+      "time": 1575457670000
+    },
+    {
+      "relPath": "[CP] Pigeon mailbox by Gweniaczek\\assets\\flowers\\1_summer.png",
+      "source": "Pigeon Mailbox-4785-1-2-1578660269",
+      "target": "",
+      "time": 1575456941000
+    },
+    {
+      "relPath": "[CP] Pigeon mailbox by Gweniaczek\\assets\\flowers\\1_spring.png",
+      "source": "Pigeon Mailbox-4785-1-2-1578660269",
+      "target": "",
+      "time": 1575456919000
+    },
+    {
+      "relPath": "[CP] Pigeon mailbox by Gweniaczek\\assets\\clean\\3_spring.png",
+      "source": "Pigeon Mailbox-4785-1-2-1578660269",
+      "target": "",
+      "time": 1575458040000
+    },
+    {
+      "relPath": "[CP] Pigeon mailbox by Gweniaczek\\assets\\clean\\3_summer.png",
+      "source": "Pigeon Mailbox-4785-1-2-1578660269",
+      "target": "",
+      "time": 1575458054000
+    },
+    {
+      "relPath": "[CP] Pigeon mailbox by Gweniaczek\\assets\\flowers\\2_spring_peta.png",
+      "source": "Pigeon Mailbox-4785-1-2-1578660269",
+      "target": "",
+      "time": 1575457513000
+    },
+    {
+      "relPath": "[CP] Pigeon mailbox by Gweniaczek\\assets\\flowers\\2_spring.png",
+      "source": "Pigeon Mailbox-4785-1-2-1578660269",
+      "target": "",
+      "time": 1575458317000
+    },
+    {
+      "relPath": "[CP] Pigeon mailbox by Gweniaczek\\assets\\flowers\\2_fall_peta.png",
+      "source": "Pigeon Mailbox-4785-1-2-1578660269",
+      "target": "",
+      "time": 1575457556000
+    },
+    {
+      "relPath": "[CP] Pigeon mailbox by Gweniaczek\\assets\\flowers\\1_summer_peta.png",
+      "source": "Pigeon Mailbox-4785-1-2-1578660269",
+      "target": "",
+      "time": 1575457654000
+    },
+    {
+      "relPath": "[CP] Pigeon mailbox by Gweniaczek\\assets\\flowers\\2_fall.png",
+      "source": "Pigeon Mailbox-4785-1-2-1578660269",
+      "target": "",
+      "time": 1575458325000
+    },
+    {
+      "relPath": "[CP] Pigeon mailbox by Gweniaczek\\assets\\flowers\\2_summer.png",
+      "source": "Pigeon Mailbox-4785-1-2-1578660269",
+      "target": "",
+      "time": 1575458341000
+    },
+    {
+      "relPath": "[CP] Pigeon mailbox by Gweniaczek\\assets\\flowers\\3_spring.png",
+      "source": "Pigeon Mailbox-4785-1-2-1578660269",
+      "target": "",
+      "time": 1575457206000
+    },
+    {
+      "relPath": "[CP] Pigeon mailbox by Gweniaczek\\assets\\flowers\\2_summer_peta.png",
+      "source": "Pigeon Mailbox-4785-1-2-1578660269",
+      "target": "",
+      "time": 1575457536000
+    },
+    {
+      "relPath": "[CP] Pigeon mailbox by Gweniaczek\\assets\\flowers\\3_summer.png",
+      "source": "Pigeon Mailbox-4785-1-2-1578660269",
+      "target": "",
+      "time": 1575457224000
+    },
+    {
+      "relPath": "[CP] Pigeon mailbox by Gweniaczek\\assets\\flowers\\3_fall.png",
+      "source": "Pigeon Mailbox-4785-1-2-1578660269",
+      "target": "",
+      "time": 1575457238000
+    },
+    {
+      "relPath": "[CP] Pigeon mailbox by Gweniaczek\\assets\\1_winter.png",
+      "source": "Pigeon Mailbox-4785-1-2-1578660269",
+      "target": "",
+      "time": 1575457992000
+    },
+    {
+      "relPath": "[CP] Pigeon mailbox by Gweniaczek\\content.json",
+      "source": "Pigeon Mailbox-4785-1-2-1578660269",
+      "target": "",
+      "time": 1575529253000
+    },
+    {
+      "relPath": "[CP] Pigeon mailbox by Gweniaczek\\assets\\clean\\2.png",
+      "source": "Pigeon Mailbox-4785-1-2-1578660269",
+      "target": "",
+      "time": 1575457933000
+    },
+    {
+      "relPath": "[CP] Pigeon mailbox by Gweniaczek\\assets\\flowers\\1_fall.png",
+      "source": "Pigeon Mailbox-4785-1-2-1578660269",
+      "target": "",
+      "time": 1575456987000
+    },
+    {
+      "relPath": "[CP] Pigeon mailbox by Gweniaczek\\assets\\2_winter.png",
+      "source": "Pigeon Mailbox-4785-1-2-1578660269",
+      "target": "",
+      "time": 1575457920000
     }
   ]
 }
