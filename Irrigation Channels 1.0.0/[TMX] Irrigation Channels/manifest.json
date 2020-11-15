@@ -1,0 +1,11 @@
+{
+  "Name": "[TMX] Irrigation Channels.",
+  "Author": "Proudunicorn",
+  "Version": "1.0.0",
+  "Description": "Buildable Channels for your farm",
+  "UniqueID": "pl611.irrigationchannels",
+  "UpdateKeys": ["Nexus:6618"],
+  "ContentPackFor": {
+    "UniqueID": "Platonymous.TMXLoader",
+  }
+}
