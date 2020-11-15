@@ -5,7 +5,7 @@
   "HorseSpeed": 5,
   "StaminaDrain": {
     "Enabled": true,
-    "StaminaCost": 0.01
+    "StaminaCost": 0.1
   },
   "NoSprintIfTooTired": {
     "Enabled": true,

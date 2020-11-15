@@ -1,0 +1,167 @@
+*First ingredient listed is the one you need to hold up to the machine*
+
+BAKER'S MIXER:
+
+Baker's Basic Cookie Dough:
+Brown Sugar + Wheat Flour + Salt
+
+Baker's Choco Cookie Dough:
+Cocoa Pod + Wheat Flour + Salt
+
+Baker's Basic Cake Mix:
+Oil + Wheat Flour(2) + Butter
+
+Baker's Choco Cake Mix:
+Salt + Wheat Flour(2) + Cocoa Pod
+
+Baker's Pie Crust:
+Butter + Wheat Flour(2) + Salt
+
+Baker's Basic Dough:
+Honey + Wheat Flour(3) + Large Egg
+
+BAKER'S OVEN:
+
+Baker's Cookies:
+Baker's Basic Cookie Dough + Sugar + Butter + Chocolate
+
+Baker's Choco Cookies:
+Baker's Choco Cookie Dough + Sugar + Butter + Chocolate
+
+Baker's Shortbread Cookies:
+Jelly + Baker's Basic Cookie Dough + Butter
+
+Baker's Sugar Cookies:
+Sugar + Baker's Basic Cookie Dough + Butter
+
+Baker's Checkerboard Cookies:
+Vanilla + Baker's Basic Cookie Dough + Chocolate
+
+Baker's Macarons:
+Almond + Baker's Basic Cookie Dough + Duck Egg(3)
+
+Baker's Bundt Cake:
+Baker's Basic Cake Mix + Large Egg(4) + Vanilla
+
+Baker's Choco Bundt Cake:
+Salmonberry(10) + Baker's Choco Cake Mix + Large Egg(4)
+
+Baker's Pumpkin Bundt Cake:
+Pumpkin(2) + Baker's Basic Cake Mix + Maple Syrup + Pecan(2)
+
+Baker's Sponge Cake:
+Strawberry(5) + Baker's Basic Cake Mix + Butter
+
+Baker's Choco Sponge Cake:
+Raspberry(5) + Baker's Choco Cake Mix + Blackberry(5)
+
+Baker's Strawberry Roll Cake:
+Large Eggs(3) + Baker's Basic Cake Mix + Strawberry(3)
+
+Baker's Red Velvet Roll Cake:
+Beet + Baker's Choco Cake + Cocoa Pod + Cream Cheese
+
+Baker's Confetti Roll Cake:
+Miner's Treat + Baker's Basic Cake Mix + Duck Egg(3)
+
+Baker's Angel Food Cake:
+Solar Essence + Baker's Basic Cake Mix + Sugar(2)
+
+Baker's Devil's Food Cake:
+Void Essence + Baker's Choco Cake Mix + Butter
+
+Baker's Wedding Cake:
+Shaded Violet(4) + Baker's Basic Cake Mix + Vanilla
+
+Baker's Ultimate Wedding Cake:
+Rose(3) + Baker's Basic Cake Mix + Fall Rose(2) + Spring Rose(2) + Summer Rose(2)
+
+Baker's Blackberry Pie:
+Blackberry(20) + Baker's Pie Crust + Lemon 
+
+Baker's Apple Pie:
+Granny Smith Apple(5) + Baker's Pie Crust + Cinnamon Sticks
+
+Baker's Key Lime Pie:
+Lime(4) + Baker's Pie Crust + Large Milk
+
+Baker's Banana Cream Pie:
+Banana + Baker's Pie Crust + Large Milk
+
+Baker's Blueberry Galette:
+Blueberry(10) + Baker's Pie Crust + Sugar
+
+Baker's Cherry Galette:
+Cherry(10) + Baker's Pie Crust + Sugar
+
+Baker's Fig Galette:
+Fig(10) + Baker's Pie Crust + Sugar
+
+Baker's Lemon Tart:
+Lemon(2) + Baker's Pie Crust + Large Egg(5)
+
+Baker's Cinnamon Rolls:
+Cinnamon Sticks(2) + Baker's Basic Dough + Brown Sugar
+
+Baker's Bread:
+Baker's Basic Dough + Salt
+
+Baker's Wheat Bread:
+Sunflower Seeds + Baker's Basic Dough
+
+Baker's Bread Rolls:
+Wheat + Baker's Basic Dough + Butter
+
+//1.10 UPDATE\\
+
+BAKER'S MIXER:
+
+Baker's Graham Cracker Crust:
+Graham Crackers + Butter + Salt
+
+BAKER'S OVEN:
+
+Baker's Marble Bundt Cake:
+Egg(4) + Baker's Basic Cake Mix + Baker's Choco Cake Mix + Chocolate
+
+Baker's Lemon Coconut Cake:
+Coconut(2) + Baker's Basic Cake Mix + Lemon(3) + Large Egg(5) + Cream Cheese
+
+Baker's Carrot Cake:
+Carrot(2) + Baker's Basic Cake Mix + Pecan(3) + Brown Sugar + Cream Cheese
+
+Baker's Pineapple Upside Down Cake:
+Pineapple + Baker's Basic Cake Mix + Cherry(8) + Brown Sugar
+
+Baker's Birthday Cake:
+Tulip(3) + Baker's Basic Cake Mix + Poppy(3) + Fiddlehead Fern(3) + Wild Plum(3)
+
+Baker's Ultimate Birthday Cake:
+Prismatic Shard + Baker's Cake Mix + Miner's Treat + Thread
+
+Baker's Strawberry Rhubarb Pie:
+Rhubarb(5) + Baker's Pie Crust + Strawberry(4) + Sugar
+
+Baker's Coffee Cheesecake:
+Coffee + Baker's Graham Cracker + Cream Cheese + Sugar + Vanilla
+
+Baker's Lemon Ginger Blueberry Cheesecake:
+Ginger + Baker's Graham Cracker + Cream Cheese + Lemon + Blueberry(5)
+
+Baker's Peach Thyme Cheesecake:
+Thyme + Baker's Graham Cracker + Goat Cheese + Peach(2) + Sugar
+
+Baker's Irish Cream Cheesecake:
+Irish Coffee + Baker's Graham Cracker + Cream Cheese + Cinnamon Sticks + Large Milk
+
+Baker's Salted Caramel Brownies:
+Caramel(2) + Baker's Choco Cake Mix + Salt + Large Egg(5)
+
+Baker's Banana Bread:
+Walnut(3) + Baker's Basic Cake Mix + Banana + Sugar
+
+Baker's Garlic Bread:
+Garlic(2) + Baker's Basic Dough + Parsley(3) + Cheese
+
+Baker's Zucchini Bread:
+Zucchini(2) + Baker's Basic Cake Mix + Brown Sugar + Oil + Cinnamon Sticks

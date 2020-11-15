@@ -1,0 +1,45 @@
+{
+  "Name": "Muscat Grape",
+  "Description": "One of the oldest and most varied grape varieties, this one is sweet enough for both wines and fizzy drinks alike.",
+  "Category": "Fruit",
+  "Edibility": 40,
+  "Price": 350,
+  "IsColored": false,
+  "Recipe": null,
+  "GiftTastes": {
+    "Love": ["Vincent"],
+    "Like": ["Abigail", "Dwarf", "Jodi", "Kent", "Elliott", "Linus", "Pam", "Robin", "Sandy", "Emily", "Sebastian", "Alex", "Caroline", "Evelyn", "George", "Lewis", "Marnie", "Maru", "Sam", "Wizard", "Demetrius", "Leah", "Harvey", "Gus", "Pierre", "Shane", "Jas"],
+    "Neutral": ["Haley", "Clint"],
+    "Dislike": ["Willy", "Krobus" ],
+  },
+
+    "NameLocalization":
+    {
+        //"es": "",
+        "ko": "머스캣 청포도",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        //"zh": "“",
+    },
+    "DescriptionLocalization":
+    {
+        //"es": "",
+        "ko": "가장 오래된 포도 품종 중 하나, 단맛이 일품이어서 와인이나 음료수 재료로 많이 사용된다.",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        //"zh": "",
+    }
+
+}

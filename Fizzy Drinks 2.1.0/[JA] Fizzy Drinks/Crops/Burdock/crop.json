@@ -1,0 +1,50 @@
+{
+    "Name": "Burdock Root",
+    "Product": "Burdock Root",
+    "SeedName": "Burdock Seeds",
+    "SeedDescription": "Plant these in summer. Takes 7 days to mature.",
+    "Type": "Vegetable",
+
+    "Seasons": ["summer"],
+    "Phases": [1, 2, 2, 2],
+    "RegrowthPhase": -1,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus":
+    {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 1,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0,
+    },
+    "SeedPurchasePrice": 50,
+    "SeedNameLocalization": 
+    {
+       // "es": "",
+        "ko": "우엉 씨앗",
+       // "de": "",
+         // "fr": "",
+       // "hu": "",
+         // "it": "",
+      //  "ja": ",
+      //  "pt": "",
+      //  "ru": "",
+         // "tr": "",
+       // "zh": "",
+    },
+    "SeedDescriptionLocalization":
+    {
+       // "es": "",
+       "ko": "여름에 심는다. 성장하는 데 7일이 걸린다.",
+       // "de": "",
+         // "fr": "",
+       // "hu": "",
+         // "it": "",
+       // "ja": "",
+       // "pt": "",
+       // "ru": "",
+         // "tr": "",
+       // "zh": "",
+    }
+}

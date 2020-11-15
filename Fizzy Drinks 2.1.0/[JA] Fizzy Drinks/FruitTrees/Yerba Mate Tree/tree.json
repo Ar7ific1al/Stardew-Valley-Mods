@@ -1,0 +1,44 @@
+{
+    "Name": "Yerba Mate Tree",
+    "Product": "Yerba Mate Leaves",
+    "SaplingName": "Yerba Mate Sapling",
+    "SaplingDescription": "Takes 28 days to produce a mature Yerba Mate tree. Bears fruit in the spring. Only grows if the 8 surrounding tiles are empty.",
+
+    "Season": "spring",
+    "SaplingPurchaseFrom": "Pierre",
+    "SaplingPurchasePrice": 7500,
+    "SaplingPurchaseRequirements": ["y 3"],
+"SaplingNameLocalization":
+    {
+	// "es": "",
+    "ko": "셰르바 마테 묘목",
+    //"de": "",
+    // "fr": "",
+    // "hu": "",
+    // "it": "",
+    // "ja": "",
+    // "pt": "",
+    // "ru": "",
+    // "tr": "",
+    //"zh":"",
+    },
+    "SaplingDescriptionLocalization":
+    {
+	// "es": "",
+    "ko": "28일후에 성목이 됩니다. 봄에 수확할 수 있습니다. 주변 8칸이 비어있어야 자랍니다.",
+    //"de": "",
+    // "fr": "",
+    // "hu": "",
+    // "it": "",
+    // "ja": "",
+    // "pt": "",
+    // "ru": "",
+    // "tr": "",
+    //"zh":"",
+},
+}
+
+
+
+
+

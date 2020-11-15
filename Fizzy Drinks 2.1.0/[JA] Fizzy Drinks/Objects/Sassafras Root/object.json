@@ -1,0 +1,42 @@
+{
+  "Name": "Sassafras Root",
+  "Description": "One of the key ingredients of Root Beer.",
+  "Category": "Greens",
+  "CategoryTextOverride": "Herb",
+  "Edibility": 10,
+  "Price": 10,
+  "IsColored": false,
+  "Recipe": null,
+  "CanPurchase": false,
+  "PurchaseFrom": null,
+    "ContextTags": [
+    	"forage_item",
+    	"season_fall"
+    ],
+"NameLocalization": { 
+    // "es": "",
+     "ko": "사사프라스 뿌리",
+     "de": "Sassafras-Wurzel",
+    // "fr": "",
+    // "hu": "",
+    // "it": "",
+    // "ja": "",
+    // "pt": "",
+    // "ru": "",
+    // "tr": "",
+     "zh": "撒尔沙植物根",
+     },
+ "DescriptionLocalization": { 
+    // "es": "",
+     "ko": "루트 비어를 만드는 핵심 재료 중 하나.",
+     "de": "Eine der Hauptzutaten von Wurzel-Bier.",
+    // "fr": "",
+    // "hu": "",
+    // "it": "",
+    // "ja": "",
+    // "pt": "",
+    // "ru": "",
+    // "tr": "",
+     "zh": "制作根汁汽水的关键原料之一�.",
+    }
+}

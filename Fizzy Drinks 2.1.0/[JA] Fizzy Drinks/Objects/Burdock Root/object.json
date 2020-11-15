@@ -1,0 +1,43 @@
+{
+    "Name": "Burdock Root",
+    "Description": "Though considered a weed by some, burdock has been used for both culinary and medicinal uses for many centuries in various parts of the world.",
+    "Category": "Vegetable",
+    "Edibility": 10,
+    "Price": 160,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+        "Dislike": ["Abigail", "Haley", "Jas", "Sam", "Vincent"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+       // "es": "",
+        "ko": "우엉 뿌리",
+      //  "de": "",
+         // "fr": "",
+       // "hu": "",
+         // "it": "",
+       // "ja": "",
+       // "pt": "",
+      //  "ru": "",
+         // "tr": "",
+       // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+       // "es": "",
+        "ko": "우엉은 세계의 여러 지역에서 수 세기 동안 요리와 약용으로 사용되어 왔다.",
+       // "de": "",
+         // "fr": "",
+       // "hu": "",
+         // "it": "",
+        //"ja": "",
+       // "pt": "",
+      //  "ru": "",
+         // "tr": "",
+       // "zh": "",
+    },
+    
+}
