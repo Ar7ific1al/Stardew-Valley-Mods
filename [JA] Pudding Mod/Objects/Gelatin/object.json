@@ -1,0 +1,39 @@
+{
+	"Name": "Gelatins",
+	"Description": "Ingredient used to make jelly and pudding.",
+	"Category": "ArtisanGoods",
+	"Edibility": -300,
+	"Price": 65,
+	"Recipe": null,
+    "CanPurchase": true,
+    "PurchaseFrom": "Marnie",
+    "PurchasePrice": 65,
+	"NameLocalization":
+	{
+		//"es": "",
+		"ko": "판젤라틴",
+		//"de": "",
+		//"fr": "",
+		//"hu": "",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		//"ru": "",
+		//"tr": "",
+		//"zh": "",
+	},
+	"DescriptionLocalization":
+	{
+		//"es": "",
+		"ko": "얇은 판 모양의 젤라틴. 주로 젤리나 푸딩을 만드는 데 사용.",
+		//"de": "",
+		//"fr": "",
+		//"hu": "",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		//"ru": "",
+		//"tr": "",
+		//"zh": "",
+	}
+}

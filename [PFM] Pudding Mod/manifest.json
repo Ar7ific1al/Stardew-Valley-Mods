@@ -1,0 +1,19 @@
+﻿{
+	"Name": "[PFM] Pudding Make",
+	"Author": "Wally32",
+	"Description": "Make Pudding and Gelatin.",
+	"Version": "1.1.0",
+	"UniqueID": "Wally32.Pudding.PFM",
+	"UpdateKeys": ["Nexus:7003"],
+	"ContentPackFor":
+	{
+		"UniqueID": "DIGUS.ProducerFrameworkMod"
+	},
+	"Dependencies":
+	[
+		{
+			"UniqueID": "Wally32.Pudding.JA",
+			"IsRequired": true,
+		},
+	]
+}

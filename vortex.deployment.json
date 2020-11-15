@@ -2,7 +2,7 @@
   "instance": "7aaa8d1c-13ce-4017-a4fe-8665babe9eba",
   "version": 1,
   "deploymentMethod": "hardlink_activator",
-  "deploymentTime": 1605414444255,
+  "deploymentTime": 1605416004373,
   "stagingPath": "L:\\Vortex Mods\\stardewvalley",
   "targetPath": "L:\\SteamLibrary\\steamapps\\common\\Stardew Valley\\Mods",
   "files": [
@@ -34439,6 +34439,402 @@
       "source": "Buildable Seasonal Arbors for TMXL Map Toolkit-6565-2-0-1596273659",
       "target": "",
       "time": 1596266270000
+    },
+    {
+      "relPath": "[PFM] Pudding Mod\\ProducersConfig.json",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602502695000
+    },
+    {
+      "relPath": "[PFM] Pudding Mod\\ProducerRules.json",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602635869000
+    },
+    {
+      "relPath": "[JA] Pudding Mod\\BigCraftables\\Pudding\\big-craftable-5.png",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602503414000
+    },
+    {
+      "relPath": "[JA] Pudding Mod\\BigCraftables\\Pudding\\big-craftable-4.png",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602503589000
+    },
+    {
+      "relPath": "[JA] Pudding Mod\\BigCraftables\\Pudding\\big-craftable-6.png",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602503589000
+    },
+    {
+      "relPath": "[JA] Pudding Mod\\BigCraftables\\Pudding\\big-craftable-8.png",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602503580000
+    },
+    {
+      "relPath": "[JA] Pudding Mod\\BigCraftables\\Pudding\\big-craftable-7.png",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602503533000
+    },
+    {
+      "relPath": "[JA] Pudding Mod\\BigCraftables\\Pudding\\big-craftable.png",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602495560000
+    },
+    {
+      "relPath": "[JA] Pudding Mod\\BigCraftables\\Pudding\\big-craftable.json",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602514729000
+    },
+    {
+      "relPath": "[JA] Pudding Mod\\Objects\\Fruit Pudding\\object.png",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602442823000
+    },
+    {
+      "relPath": "[JA] Pudding Mod\\Objects\\Pudding Ancient Fruit\\object.png",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602421230000
+    },
+    {
+      "relPath": "[JA] Pudding Mod\\Objects\\Gelatin\\object.png",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602498420000
+    },
+    {
+      "relPath": "[JA] Pudding Mod\\Objects\\Pudding Apricot\\object.png",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602510055000
+    },
+    {
+      "relPath": "[JA] Pudding Mod\\Objects\\Pudding Apple\\object.png",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602420279000
+    },
+    {
+      "relPath": "[JA] Pudding Mod\\Objects\\Pudding Blackberry\\object.png",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602421157000
+    },
+    {
+      "relPath": "[JA] Pudding Mod\\Objects\\Pudding Blueberry\\object.png",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602421288000
+    },
+    {
+      "relPath": "[JA] Pudding Mod\\Objects\\Pudding Cherry\\object.png",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602439136000
+    },
+    {
+      "relPath": "[JA] Pudding Mod\\Objects\\Pudding Coffee\\object.png",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602421859000
+    },
+    {
+      "relPath": "[JA] Pudding Mod\\Objects\\Pudding Crystal Fruit\\object.json",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602634962000
+    },
+    {
+      "relPath": "[JA] Pudding Mod\\Objects\\Pudding Custard\\object.png",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602421893000
+    },
+    {
+      "relPath": "[JA] Pudding Mod\\Objects\\Pudding Cranberry\\object.json",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602634952000
+    },
+    {
+      "relPath": "[JA] Pudding Mod\\Objects\\Pudding Grape\\object.png",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602420030000
+    },
+    {
+      "relPath": "[JA] Pudding Mod\\Objects\\Pudding Hazelnut\\object.png",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602421592000
+    },
+    {
+      "relPath": "[JA] Pudding Mod\\Objects\\Pudding Green Tea\\object.png",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602421515000
+    },
+    {
+      "relPath": "[JA] Pudding Mod\\Objects\\Pudding Melon\\object.png",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602421503000
+    },
+    {
+      "relPath": "[JA] Pudding Mod\\Objects\\Pudding Milk\\object.json",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602635025000
+    },
+    {
+      "relPath": "[JA] Pudding Mod\\Objects\\Pudding Orange\\object.png",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602421392000
+    },
+    {
+      "relPath": "[JA] Pudding Mod\\Objects\\Pudding Peach\\object.png",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602439573000
+    },
+    {
+      "relPath": "[JA] Pudding Mod\\Objects\\Pudding Plum\\object.png",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602420776000
+    },
+    {
+      "relPath": "[JA] Pudding Mod\\Objects\\Pudding Pomegranate\\object.png",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602420610000
+    },
+    {
+      "relPath": "[JA] Pudding Mod\\Objects\\Pudding Salmonberry\\object.json",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602635068000
+    },
+    {
+      "relPath": "[JA] Pudding Mod\\Objects\\Pudding Strawberry\\object.png",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602419883000
+    },
+    {
+      "relPath": "[JA] Pudding Mod\\Objects\\Pudding Starfruit\\object.json",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602635079000
+    },
+    {
+      "relPath": "[JA] Pudding Mod\\Objects\\Pudding Tomato\\object.png",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602420067000
+    },
+    {
+      "relPath": "[PFM] Pudding Mod\\i18n\\default.json",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602589372000
+    },
+    {
+      "relPath": "[PFM] Pudding Mod\\i18n\\ko.json",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602431747000
+    },
+    {
+      "relPath": "[JA] Pudding Mod\\manifest.json",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602635288000
+    },
+    {
+      "relPath": "[PFM] Pudding Mod\\manifest.json",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602635115000
+    },
+    {
+      "relPath": "[JA] Pudding Mod\\Objects\\Pudding Ancient Fruit\\object.json",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602634853000
+    },
+    {
+      "relPath": "[JA] Pudding Mod\\BigCraftables\\Pudding\\big-craftable-3.png",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602503580000
+    },
+    {
+      "relPath": "[JA] Pudding Mod\\Objects\\Gelatin\\object.json",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602634755000
+    },
+    {
+      "relPath": "[JA] Pudding Mod\\Objects\\Fruit Pudding\\object.json",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602433917000
+    },
+    {
+      "relPath": "[JA] Pudding Mod\\Objects\\Pudding Apricot\\object.json",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602634902000
+    },
+    {
+      "relPath": "[JA] Pudding Mod\\Objects\\Pudding Apple\\object.json",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602634888000
+    },
+    {
+      "relPath": "[JA] Pudding Mod\\Objects\\Pudding Blueberry\\object.json",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602634922000
+    },
+    {
+      "relPath": "[JA] Pudding Mod\\Objects\\Pudding Cranberry\\object.png",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602435751000
+    },
+    {
+      "relPath": "[JA] Pudding Mod\\Objects\\Pudding Blackberry\\object.json",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602634912000
+    },
+    {
+      "relPath": "[JA] Pudding Mod\\Objects\\Pudding Cherry\\object.json",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602634933000
+    },
+    {
+      "relPath": "[JA] Pudding Mod\\Objects\\Pudding Crystal Fruit\\object.png",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602421269000
+    },
+    {
+      "relPath": "[JA] Pudding Mod\\Objects\\Pudding Coffee\\object.json",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602634943000
+    },
+    {
+      "relPath": "[JA] Pudding Mod\\Objects\\Pudding Custard\\object.json",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602634970000
+    },
+    {
+      "relPath": "[JA] Pudding Mod\\BigCraftables\\Pudding\\big-craftable-2.png",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602503589000
+    },
+    {
+      "relPath": "[JA] Pudding Mod\\Objects\\Fruit Pudding\\color.png",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602442797000
+    },
+    {
+      "relPath": "[JA] Pudding Mod\\Objects\\Pudding Grape\\object.json",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602634979000
+    },
+    {
+      "relPath": "[JA] Pudding Mod\\Objects\\Pudding Green Tea\\object.json",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602635984000
+    },
+    {
+      "relPath": "[JA] Pudding Mod\\Objects\\Pudding Hazelnut\\object.json",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602635005000
+    },
+    {
+      "relPath": "[JA] Pudding Mod\\Objects\\Pudding Melon\\object.json",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602635013000
+    },
+    {
+      "relPath": "[JA] Pudding Mod\\Objects\\Pudding Milk\\object.png",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602508270000
+    },
+    {
+      "relPath": "[JA] Pudding Mod\\Objects\\Pudding Orange\\object.json",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602635034000
+    },
+    {
+      "relPath": "[JA] Pudding Mod\\Objects\\Pudding Peach\\object.json",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602635042000
+    },
+    {
+      "relPath": "[JA] Pudding Mod\\Objects\\Pudding Starfruit\\object.png",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602510053000
+    },
+    {
+      "relPath": "[JA] Pudding Mod\\Objects\\Pudding Plum\\object.json",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602635406000
+    },
+    {
+      "relPath": "[JA] Pudding Mod\\Objects\\Pudding Pomegranate\\object.json",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602635059000
+    },
+    {
+      "relPath": "[JA] Pudding Mod\\Objects\\Pudding Salmonberry\\object.png",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602420860000
+    },
+    {
+      "relPath": "[JA] Pudding Mod\\Objects\\Pudding Strawberry\\object.json",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602635550000
+    },
+    {
+      "relPath": "[JA] Pudding Mod\\Objects\\Pudding Tomato\\object.json",
+      "source": "Pudding Mods-7003-1-1-0-1602636693",
+      "target": "",
+      "time": 1602635095000
     }
   ]
 }

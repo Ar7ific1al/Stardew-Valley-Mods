@@ -1,0 +1,49 @@
+{
+	"Name": "Ancient Fruit Pudding",
+	"Description": "Sweet pudding.",
+	"Category": "ArtisanGoods",
+	"Edibility": 88,
+	"Price": 1,
+	"EdibleBuffs":
+	{
+		"Farming": 0,
+		"Fishing": 0,
+		"Mining": 0,
+		"Luck": 1,
+		"Foraging": 1,
+		"MaxStamina": 0,
+		"MagnetRadius": 0,
+		"Speed": 0,
+		"Defense": 0,
+		"Attack": 0,
+		"Duration": 100,
+	},
+	"NameLocalization":
+	{
+		//"es": "",
+		"ko": "고대과일 푸딩",
+		//"de": "",
+		//"fr": "",
+		//"hu": "",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		//"ru": "",
+		//"tr": "",
+		//"zh": "",
+	},
+	"DescriptionLocalization":
+	{
+		//"es": "",
+		"ko": "말랑말랑, 탱글탱글, 달콤한 푸딩.",
+		//"de": "",
+		//"fr": "",
+		//"hu": "",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		//"ru": "",
+		//"tr": "",
+		//"zh": "",
+	}
+}

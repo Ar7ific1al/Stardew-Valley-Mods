@@ -1,0 +1,56 @@
+{
+	"Name": "Pudding Machine",
+	"Description": "A machine that can make sweet pudding.",
+	"Price": 1,
+	"ProvidesLight": false,
+	"ReserveExtraIndexCount": 7,
+	"Recipe":
+	{
+		"ResultCount": 1,
+		"Ingredients":
+		[
+			{
+				"Object": 335,
+				"Count": 5
+			},
+			{
+				"Object": 338,
+				"Count": 10
+			},
+		],
+		"CanPurchase": true,
+		"PurchaseFrom": "Clint",
+		"PurchasePrice": 20000,
+	},
+	"CanPurchase": true,
+	"PurchaseFrom": "Clint",
+	"PurchasePrice": 6000,
+	"NameLocalization":
+	{
+		//"es": "",
+		"ko": "푸딩 머신 ",
+		//"de": "",
+		//"fr": "",
+		//"hu": "",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		//"ru": "",
+		//"tr": "",
+		//"zh": "",
+	},
+	"DescriptionLocalization":
+	{
+		//"es": "",
+		"ko": "달콤한 푸딩을 만들 수 있는 기계.",
+		//"de": "",
+		//"fr": "",
+		//"hu": "",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		//"ru": "",
+		//"tr": "",
+		//"zh": "",
+	}
+}

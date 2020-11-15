@@ -1,0 +1,12 @@
+{
+	"Name": "[JA] Pudding Mod",
+	"Author": "Wally32",
+	"Description": "Adds a Pudding machine to the game.",
+	"Version": "1.1.0",
+	"UniqueID": "Wally32.Pudding.JA",
+	"UpdateKeys": ["Nexus:7003"],
+	"ContentPackFor":
+	{
+		"UniqueID": "spacechase0.JsonAssets"
+	},
+}

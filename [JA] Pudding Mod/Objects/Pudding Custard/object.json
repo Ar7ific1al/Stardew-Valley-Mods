@@ -1,0 +1,36 @@
+{
+	"Name": "Custard Pudding",
+	"Description": "Sweet pudding.",
+	"Category": "ArtisanGoods",
+	"Edibility": 40,
+	"Price": 1,
+
+	"NameLocalization":
+	{
+		//"es": "",
+		"ko": "커스타드 푸딩",
+		//"de": "",
+		//"fr": "",
+		//"hu": "",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		//"ru": "",
+		//"tr": "",
+		//"zh": "",
+	},
+	"DescriptionLocalization":
+	{
+		//"es": "",
+		"ko": "말랑말랑, 탱글탱글, 달콤한 푸딩.",
+		//"de": "",
+		//"fr": "",
+		//"hu": "",
+		//"it": "",
+		//"ja": "",
+		//"pt": "",
+		//"ru": "",
+		//"tr": "",
+		//"zh": "",
+	}
+}

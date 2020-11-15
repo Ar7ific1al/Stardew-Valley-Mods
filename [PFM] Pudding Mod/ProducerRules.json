@@ -1,0 +1,509 @@
+﻿[
+	// 과일 푸딩
+    {
+        "ProducerName": "Pudding Machine",
+        "InputIdentifier": "-79",
+        "InputStack": 1,
+		"ExcludeIdentifiers": [ "Ancient Fruit", "Apple", "Apricot", "Blackberry", "Blueberry", "Cherry", "Crystal Fruit", "Grape", "Melon", "Orange", "Peach", "Wild Plum", "Pomegranate", "Salmonberry", "Strawberry"],
+        "FuelIdentifier": "Gelatins",
+        "FuelStack": 1,
+		"AdditionalFuel":
+		{
+			"245":1,
+			"184":1
+		},
+        "MinutesUntilReady": 120,
+        "OutputIdentifier": "Fruit Pudding",
+        "OutputName": "{inputName} Fruit Pudding",
+		"OutputTranslationKey": "Fruit.Pudding",
+		"OutputStack": 1,
+		"KeepInputQuality": true,
+        "OutputColorConfig":
+        {
+            "Type": "ObjectDyeColor",
+            "Red": 255,
+            "Green": 255,
+            "Blue": 255
+        },
+		"InputPriceBased": true,
+		"OutputPriceIncrement": 390,
+        "Sounds": ["clank"],
+        "PlacingAnimation": null,
+    },
+
+	// 푸딩
+    {
+        "ProducerName": "Pudding Machine",
+        "InputIdentifier": 454,
+        "InputStack": 1,
+        "FuelIdentifier": "Gelatins",
+        "FuelStack": 1,
+		"AdditionalFuel":
+		{
+			"245":1,
+			"184":1
+		},
+        "MinutesUntilReady": 120,
+        "OutputIdentifier": "Ancient Fruit Pudding",
+		"InputPriceBased": true,
+		"OutputPriceIncrement": 390,
+		"KeepInputQuality": true,
+        "Sounds": ["clank"],
+        "PlacingAnimation": null,
+    },
+    {
+        "ProducerName": "Pudding Machine",
+        "InputIdentifier": 613,
+        "InputStack": 1,
+        "FuelIdentifier": "Gelatins",
+        "FuelStack": 1,
+		"AdditionalFuel":
+		{
+			"245":1,
+			"184":1
+		},
+        "MinutesUntilReady": 120,
+        "OutputIdentifier": "Apple Pudding",
+		"InputPriceBased": true,
+		"OutputPriceIncrement": 390,
+		"KeepInputQuality": true,
+        "Sounds": ["clank"],
+        "PlacingAnimation": null,
+    },
+    {
+        "ProducerName": "Pudding Machine",
+        "InputIdentifier": 634,
+        "InputStack": 1,
+        "FuelIdentifier": "Gelatins",
+        "FuelStack": 1,
+		"AdditionalFuel":
+		{
+			"245":1,
+			"184":1
+		},
+        "MinutesUntilReady": 120,
+        "OutputIdentifier": "Apricot Pudding",
+		"InputPriceBased": true,
+		"OutputPriceIncrement": 390,
+		"KeepInputQuality": true,
+        "Sounds": ["clank"],
+        "PlacingAnimation": null,
+    },
+    {
+        "ProducerName": "Pudding Machine",
+        "InputIdentifier": 410,
+        "InputStack": 1,
+        "FuelIdentifier": "Gelatins",
+        "FuelStack": 1,
+		"AdditionalFuel":
+		{
+			"245":1,
+			"184":1
+		},
+        "MinutesUntilReady": 120,
+        "OutputIdentifier": "Blackberry Pudding",
+		"InputPriceBased": true,
+		"OutputPriceIncrement": 390,
+		"KeepInputQuality": true,
+        "Sounds": ["clank"],
+        "PlacingAnimation": null,
+    },
+    {
+        "ProducerName": "Pudding Machine",
+        "InputIdentifier": 258,
+        "InputStack": 1,
+        "FuelIdentifier": "Gelatins",
+        "FuelStack": 1,
+		"AdditionalFuel":
+		{
+			"245":1,
+			"184":1
+		},
+        "MinutesUntilReady": 120,
+        "OutputIdentifier": "Blueberry Pudding",
+		"InputPriceBased": true,
+		"OutputPriceIncrement": 390,
+		"KeepInputQuality": true,
+        "Sounds": ["clank"],
+        "PlacingAnimation": null,
+    },
+    {
+        "ProducerName": "Pudding Machine",
+        "InputIdentifier": 638,
+        "InputStack": 1,
+        "FuelIdentifier": "Gelatins",
+        "FuelStack": 1,
+		"AdditionalFuel":
+		{
+			"245":1,
+			"184":1
+		},
+        "MinutesUntilReady": 120,
+        "OutputIdentifier": "Cherry Pudding",
+		"InputPriceBased": true,
+		"OutputPriceIncrement": 390,
+		"KeepInputQuality": true,
+        "Sounds": ["clank"],
+        "PlacingAnimation": null,
+    },
+    {
+        "ProducerName": "Pudding Machine",
+        "InputIdentifier": 433,
+        "InputStack": 1,
+        "FuelIdentifier": "Gelatins",
+        "FuelStack": 1,
+		"AdditionalFuel":
+		{
+			"245":1,
+			"184":1
+		},
+        "MinutesUntilReady": 120,
+        "OutputIdentifier": "Coffee Pudding",
+		"InputPriceBased": true,
+		"OutputPriceIncrement": 390,
+		"KeepInputQuality": true,
+        "Sounds": ["clank"],
+        "PlacingAnimation": null,
+    },
+    {
+        "ProducerName": "Pudding Machine",
+        "InputIdentifier": 282,
+        "InputStack": 1,
+        "FuelIdentifier": "Gelatins",
+        "FuelStack": 1,
+		"AdditionalFuel":
+		{
+			"245":1,
+			"184":1
+		},
+        "MinutesUntilReady": 120,
+        "OutputIdentifier": "Cranberry Pudding",
+		"InputPriceBased": true,
+		"OutputPriceIncrement": 390,
+		"KeepInputQuality": true,
+        "Sounds": ["clank"],
+        "PlacingAnimation": null,
+    },
+    {
+        "ProducerName": "Pudding Machine",
+        "InputIdentifier": 414,
+        "InputStack": 1,
+        "FuelIdentifier": "Gelatins",
+        "FuelStack": 1,
+		"AdditionalFuel":
+		{
+			"245":1,
+			"184":1
+		},
+        "MinutesUntilReady": 120,
+        "OutputIdentifier": "Crystal Fruit Pudding",
+		"InputPriceBased": true,
+		"OutputPriceIncrement": 390,
+		"KeepInputQuality": true,
+        "Sounds": ["clank"],
+        "PlacingAnimation": null,
+    },
+    {
+        "ProducerName": "Pudding Machine",
+        "InputIdentifier": 176,
+        "InputStack": 1,
+        "FuelIdentifier": "Gelatins",
+        "FuelStack": 1,
+		"AdditionalFuel":
+		{
+			"245":1,
+			"184":1
+		},
+        "MinutesUntilReady": 120,
+        "OutputIdentifier": "Custard Pudding",
+		"InputPriceBased": true,
+		"OutputPriceIncrement": 390,
+		"KeepInputQuality": true,
+        "Sounds": ["clank"],
+        "PlacingAnimation": null,
+    },
+    {
+        "ProducerName": "Pudding Machine",
+        "InputIdentifier": 180,
+        "InputStack": 1,
+        "FuelIdentifier": "Gelatins",
+        "FuelStack": 1,
+		"AdditionalFuel":
+		{
+			"245":1,
+			"184":1
+		},
+        "MinutesUntilReady": 120,
+        "OutputIdentifier": "Custard Pudding",
+		"InputPriceBased": true,
+		"OutputPriceIncrement": 390,
+		"KeepInputQuality": true,
+        "Sounds": ["clank"],
+        "PlacingAnimation": null,
+    },
+    {
+        "ProducerName": "Pudding Machine",
+        "InputIdentifier": 398,
+        "InputStack": 1,
+        "FuelIdentifier": "Gelatins",
+        "FuelStack": 1,
+		"AdditionalFuel":
+		{
+			"245":1,
+			"184":1
+		},
+        "MinutesUntilReady": 120,
+        "OutputIdentifier": "Grape Pudding",
+		"InputPriceBased": true,
+		"OutputPriceIncrement": 390,
+		"KeepInputQuality": true,
+        "Sounds": ["clank"],
+        "PlacingAnimation": null,
+    },
+    {
+        "ProducerName": "Pudding Machine",
+        "InputIdentifier": 815,
+        "InputStack": 1,
+        "FuelIdentifier": "Gelatins",
+        "FuelStack": 1,
+		"AdditionalFuel":
+		{
+			"245":1,
+			"184":1
+		},
+        "MinutesUntilReady": 120,
+        "OutputIdentifier": "Green Tea Pudding",
+		"InputPriceBased": true,
+		"OutputPriceIncrement": 390,
+		"KeepInputQuality": true,
+        "Sounds": ["clank"],
+        "PlacingAnimation": null,
+    },
+    {
+        "ProducerName": "Pudding Machine",
+        "InputIdentifier": 408,
+        "InputStack": 1,
+        "FuelIdentifier": "Gelatins",
+        "FuelStack": 1,
+		"AdditionalFuel":
+		{
+			"245":1,
+			"184":1
+		},
+        "MinutesUntilReady": 120,
+        "OutputIdentifier": "Hazelnut Pudding",
+		"InputPriceBased": true,
+		"OutputPriceIncrement": 390,
+		"KeepInputQuality": true,
+        "Sounds": ["clank"],
+        "PlacingAnimation": null,
+    },
+    {
+        "ProducerName": "Pudding Machine",
+        "InputIdentifier": 254,
+        "InputStack": 1,
+        "FuelIdentifier": "Gelatins",
+        "FuelStack": 1,
+		"AdditionalFuel":
+		{
+			"245":1,
+			"184":1
+		},
+        "MinutesUntilReady": 120,
+        "OutputIdentifier": "Melon Pudding",
+		"InputPriceBased": true,
+		"OutputPriceIncrement": 390,
+		"KeepInputQuality": true,
+        "Sounds": ["clank"],
+        "PlacingAnimation": null,
+    },
+    {
+        "ProducerName": "Pudding Machine",
+        "InputIdentifier": 635,
+        "InputStack": 1,
+        "FuelIdentifier": "Gelatins",
+        "FuelStack": 1,
+		"AdditionalFuel":
+		{
+			"245":1,
+			"184":1
+		},
+        "MinutesUntilReady": 120,
+        "OutputIdentifier": "Orange Pudding",
+		"InputPriceBased": true,
+		"OutputPriceIncrement": 390,
+		"KeepInputQuality": true,
+        "Sounds": ["clank"],
+        "PlacingAnimation": null,
+    },
+    {
+        "ProducerName": "Pudding Machine",
+        "InputIdentifier": 636,
+        "InputStack": 1,
+        "FuelIdentifier": "Gelatins",
+        "FuelStack": 1,
+		"AdditionalFuel":
+		{
+			"245":1,
+			"184":1
+		},
+        "MinutesUntilReady": 120,
+        "OutputIdentifier": "Peach Pudding",
+		"InputPriceBased": true,
+		"OutputPriceIncrement": 390,
+		"KeepInputQuality": true,
+        "Sounds": ["clank"],
+        "PlacingAnimation": null,
+    },
+    {
+        "ProducerName": "Pudding Machine",
+        "InputIdentifier": 406,
+        "InputStack": 1,
+        "FuelIdentifier": "Gelatins",
+        "FuelStack": 1,
+		"AdditionalFuel":
+		{
+			"245":1,
+			"184":1
+		},
+        "MinutesUntilReady": 120,
+        "OutputIdentifier": "Plums Pudding",
+		"InputPriceBased": true,
+		"OutputPriceIncrement": 390,
+		"KeepInputQuality": true,
+        "Sounds": ["clank"],
+        "PlacingAnimation": null,
+    },
+    {
+        "ProducerName": "Pudding Machine",
+        "InputIdentifier": 637,
+        "InputStack": 1,
+        "FuelIdentifier": "Gelatins",
+        "FuelStack": 1,
+		"AdditionalFuel":
+		{
+			"245":1,
+			"184":1
+		},
+        "MinutesUntilReady": 120,
+        "OutputIdentifier": "Pomegranate Pudding",
+		"InputPriceBased": true,
+		"OutputPriceIncrement": 390,
+		"KeepInputQuality": true,
+        "Sounds": ["clank"],
+        "PlacingAnimation": null,
+    },
+    {
+        "ProducerName": "Pudding Machine",
+        "InputIdentifier": 296,
+        "InputStack": 1,
+        "FuelIdentifier": "Gelatins",
+        "FuelStack": 1,
+		"AdditionalFuel":
+		{
+			"245":1,
+			"184":1
+		},
+        "MinutesUntilReady": 120,
+        "OutputIdentifier": "Salmonberry Pudding",
+		"InputPriceBased": true,
+		"OutputPriceIncrement": 390,
+		"KeepInputQuality": true,
+        "Sounds": ["clank"],
+        "PlacingAnimation": null,
+    },
+    {
+        "ProducerName": "Pudding Machine",
+        "InputIdentifier": 268,
+        "InputStack": 1,
+        "FuelIdentifier": "Gelatins",
+        "FuelStack": 1,
+		"AdditionalFuel":
+		{
+			"245":1,
+			"184":1
+		},
+        "MinutesUntilReady": 120,
+        "OutputIdentifier": "Starfruit Pudding",
+		"InputPriceBased": true,
+		"OutputPriceIncrement": 390,
+		"KeepInputQuality": true,
+        "Sounds": ["clank"],
+        "PlacingAnimation": null,
+    },
+    {
+        "ProducerName": "Pudding Machine",
+        "InputIdentifier": 400,
+        "InputStack": 1,
+        "FuelIdentifier": "Gelatins",
+        "FuelStack": 1,
+		"AdditionalFuel":
+		{
+			"245":1,
+			"184":1
+		},
+        "MinutesUntilReady": 120,
+        "OutputIdentifier": "Strawberrys Pudding",
+		"InputPriceBased": true,
+		"OutputPriceIncrement": 390,
+		"KeepInputQuality": true,
+        "Sounds": ["clank"],
+        "PlacingAnimation": null,
+    },
+    {
+        "ProducerName": "Pudding Machine",
+        "InputIdentifier": 256,
+        "InputStack": 1,
+        "FuelIdentifier": "Gelatins",
+        "FuelStack": 1,
+		"AdditionalFuel":
+		{
+			"245":1,
+			"184":1
+		},
+        "MinutesUntilReady": 120,
+        "OutputIdentifier": "Tomato Pudding",
+		"InputPriceBased": true,
+		"OutputPriceIncrement": 390,
+		"KeepInputQuality": true,
+        "Sounds": ["clank"],
+        "PlacingAnimation": null,
+    },
+    {
+        "ProducerName": "Pudding Machine",
+        "InputIdentifier": 184,
+        "InputStack": 1,
+        "FuelIdentifier": "Gelatins",
+        "FuelStack": 1,
+		"AdditionalFuel":
+		{
+			"245":1,
+		},
+        "MinutesUntilReady": 120,
+        "OutputIdentifier": "Milk Pudding",
+		"InputPriceBased": true,
+		"OutputPriceIncrement": 390,
+		"KeepInputQuality": true,
+        "Sounds": ["clank"],
+        "PlacingAnimation": null,
+    },
+    {
+        "ProducerName": "Pudding Machine",
+        "InputIdentifier": 186,
+        "InputStack": 1,
+        "FuelIdentifier": "Gelatins",
+        "FuelStack": 1,
+		"AdditionalFuel":
+		{
+			"245":1,
+		},
+        "MinutesUntilReady": 120,
+        "OutputIdentifier": "Milk Pudding",
+		"OutputStack": 2,
+		"InputPriceBased": true,
+		"OutputPriceIncrement": 390,
+		"KeepInputQuality": true,
+        "Sounds": ["clank"],
+        "PlacingAnimation": null,
+    },
+]
