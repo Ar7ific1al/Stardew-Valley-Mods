@@ -2,7 +2,7 @@
   "instance": "7aaa8d1c-13ce-4017-a4fe-8665babe9eba",
   "version": 1,
   "deploymentMethod": "hardlink_activator",
-  "deploymentTime": 1605417085264,
+  "deploymentTime": 1605516877206,
   "stagingPath": "L:\\Vortex Mods\\stardewvalley",
   "targetPath": "L:\\SteamLibrary\\steamapps\\common\\Stardew Valley\\Mods",
   "files": [
@@ -17137,12 +17137,6 @@
       "time": 1605351780000
     },
     {
-      "relPath": "NPCMapLocations\\config\\globals.json",
-      "source": "NPC Map Locations-239-2-5-11-1597472336",
-      "target": "",
-      "time": 1605352462000
-    },
-    {
       "relPath": "[CP] Fishing Made Easy Suite\\content.json",
       "source": "Fishing Made Easy Suite-3623-2-0-7-1601684690",
       "target": "",
@@ -18035,24 +18029,6 @@
       "source": "Fishing Made Easy Suite-3623-2-0-7-1601684690",
       "target": "",
       "time": 1601671460000
-    },
-    {
-      "relPath": "NPCMapLocations\\config\\SoleilFF_265028777.json",
-      "source": "NPC Map Locations-239-2-5-11-1597472336",
-      "target": "",
-      "time": 1605358378000
-    },
-    {
-      "relPath": "AnimalHusbandryMod\\data\\farmers\\SoleilFF_265028777.json",
-      "source": "AnimalHusbandryMod-v2.4.2-beta6-1538-2-4-2-beta6-1578378946",
-      "target": "",
-      "time": 1605358398000
-    },
-    {
-      "relPath": "GetGlam\\assets\\dresser.png",
-      "source": "Get Glam 1.1.0-5044-1-1-0-1581324179",
-      "target": "",
-      "time": 1605356396000
     },
     {
       "relPath": "[CP] Elle's Seasonal Buildings\\manifest.json",
@@ -34873,132 +34849,6 @@
       "time": 1591684310000
     },
     {
-      "relPath": "[CP] Elle's Seasonal Buildings\\config.json",
-      "source": "Seasonal Buildings-1993-1-2-1-1576365654",
-      "target": "",
-      "time": 1605416584000
-    },
-    {
-      "relPath": "WeatherIllnesses\\config.json",
-      "source": "Weather Illnesses-2210-1-1-5-1598293571",
-      "target": "",
-      "time": 1605416578000
-    },
-    {
-      "relPath": "AnimalHusbandryMod\\config.json",
-      "source": "AnimalHusbandryMod-v2.4.2-beta6-1538-2-4-2-beta6-1578378946",
-      "target": "",
-      "time": 1605416580000
-    },
-    {
-      "relPath": "CustomCaskMod\\config.json",
-      "source": "CustomCaskMod-v1.2.1-2642-1-2-1-1574830411",
-      "target": "",
-      "time": 1605416580000
-    },
-    {
-      "relPath": "AnimalHusbandryMod\\data\\animalContest.json",
-      "source": "AnimalHusbandryMod-v2.4.2-beta6-1538-2-4-2-beta6-1578378946",
-      "target": "",
-      "time": 1605416580000
-    },
-    {
-      "relPath": "AnimalHusbandryMod\\data\\animals.json",
-      "source": "AnimalHusbandryMod-v2.4.2-beta6-1538-2-4-2-beta6-1578378946",
-      "target": "",
-      "time": 1605416580000
-    },
-    {
-      "relPath": "AnimalHusbandryMod\\data\\animalBuilding.json",
-      "source": "AnimalHusbandryMod-v2.4.2-beta6-1538-2-4-2-beta6-1578378946",
-      "target": "",
-      "time": 1605416580000
-    },
-    {
-      "relPath": "AnimalHusbandryMod\\data\\meats.json",
-      "source": "AnimalHusbandryMod-v2.4.2-beta6-1538-2-4-2-beta6-1578378946",
-      "target": "",
-      "time": 1605416595000
-    },
-    {
-      "relPath": "AnimalHusbandryMod\\data\\cooking.json",
-      "source": "AnimalHusbandryMod-v2.4.2-beta6-1538-2-4-2-beta6-1578378946",
-      "target": "",
-      "time": 1605416580000
-    },
-    {
-      "relPath": "CustomCaskMod\\data\\CaskData.json",
-      "source": "CustomCaskMod-v1.2.1-2642-1-2-1-1574830411",
-      "target": "",
-      "time": 1605416580000
-    },
-    {
-      "relPath": "[CP] Better Gems and Minerals\\config.json",
-      "source": "Better Gems and Minerals-5443-1-0-1-1582280178",
-      "target": "",
-      "time": 1605416584000
-    },
-    {
-      "relPath": "[CP] Better Resources\\config.json",
-      "source": "Better Resources-6942-1-1-3-1601352581",
-      "target": "",
-      "time": 1605416584000
-    },
-    {
-      "relPath": "[CP] Industrial Furniture Set\\config.json",
-      "source": "Industrial Furniture Set-5444-1-7-1590696307",
-      "target": "",
-      "time": 1605416586000
-    },
-    {
-      "relPath": "[CP] Seasonal Cute Characters\\config.json",
-      "source": "Seasonal Cute Characters-5450-1-4-1-1595619723",
-      "target": "",
-      "time": 1605416587000
-    },
-    {
-      "relPath": "[CP] Seasonal Fences\\config.json",
-      "source": "Seasonal Fences-4870-1-2-1582627803",
-      "target": "",
-      "time": 1605416588000
-    },
-    {
-      "relPath": "[CP] Seasonal Floorings\\config.json",
-      "source": "Seasonal Floorings-4852-1-2-1587925773",
-      "target": "",
-      "time": 1605416588000
-    },
-    {
-      "relPath": "[CP] Stardew Foliage Redone - original\\config.json",
-      "source": "Stardew Foliage Redone original-4705-2-1-1582157604",
-      "target": "",
-      "time": 1605416590000
-    },
-    {
-      "relPath": "[CP] Industrial Kitchen and Interior\\config.json",
-      "source": "Industrial Kitchen and Interior-5351-1-5-1592061020",
-      "target": "",
-      "time": 1605416586000
-    },
-    {
-      "relPath": "[CP] Better Fishing and Beach Foraging\\config.json",
-      "source": "WIP1 BFaBF-6915-0-9-0-1600904828",
-      "target": "",
-      "time": 1605416584000
-    },
-    {
-      "relPath": "[CP] Fishing Made Easy Suite\\config.json",
-      "source": "Fishing Made Easy Suite-3623-2-0-7-1601684690",
-      "target": "",
-      "time": 1605416584000
-    },
-    {
-      "relPath": "[CP]LinusTreehouse\\config.json",
-      "source": "LinusTreehouseCP-5567-1-1-3-1587046887",
-      "target": "",
-      "time": 1605416594000
-    },
-    {
       "relPath": "[PFM] Perfume Mod\\ProducersConfig.json",
       "source": "Perfume Mod-6082-1-4-0-1604217774",
       "target": "",
@@ -37135,12 +36985,6 @@
       "time": 1604285180000
     },
     {
-      "relPath": "Fizzy Drinks 2.1.0\\[FTM] Fizzy Drinks\\content.json",
-      "source": "Fizzy Drinks 2.1.0-5342-2-1-0-1605233938",
-      "target": "",
-      "time": 1605160474000
-    },
-    {
       "relPath": "Fizzy Drinks 2.1.0\\[JA] Fizzy Drinks\\Objects\\Butterscotch Soda\\object.png",
       "source": "Fizzy Drinks 2.1.0-5342-2-1-0-1605233938",
       "target": "",
@@ -39235,58 +39079,418 @@
       "time": 1598122670000
     },
     {
+      "relPath": "AnimalHusbandryMod\\data\\farmers\\CiriusSNWE_265001869.json",
+      "source": "AnimalHusbandryMod-v2.4.2-beta6-1538-2-4-2-beta6-1578378946",
+      "target": "",
+      "time": 1605505549000
+    },
+    {
+      "relPath": "AnimalHusbandryMod\\data\\farmers\\Elric_264852814.json",
+      "source": "AnimalHusbandryMod-v2.4.2-beta6-1538-2-4-2-beta6-1578378946",
+      "target": "",
+      "time": 1605424693000
+    },
+    {
+      "relPath": "NPCMapLocations\\config\\CiriusSNWE_265001869.json",
+      "source": "NPC Map Locations-239-2-5-11-1597472336",
+      "target": "",
+      "time": 1605505905000
+    },
+    {
+      "relPath": "NPCMapLocations\\config\\Elric_264852814.json",
+      "source": "NPC Map Locations-239-2-5-11-1597472336",
+      "target": "",
+      "time": 1605424636000
+    },
+    {
+      "relPath": "DeepWoodsMod\\config.json",
+      "source": "DeepWoodsMod-1.8.3-beta.zip-2571-1-8-3-beta-1596275903",
+      "target": "",
+      "time": 1605500838000
+    },
+    {
+      "relPath": "[[CP] SETown\\content.json",
+      "source": "Stardew Enhanced - The Town-4860-2-0-3-1576443589",
+      "target": "",
+      "time": 1576443249000
+    },
+    {
+      "relPath": "[[CP] SETown\\manifest.json",
+      "source": "Stardew Enhanced - The Town-4860-2-0-3-1576443589",
+      "target": "",
+      "time": 1576443407000
+    },
+    {
+      "relPath": "[[CP] SETown\\assets\\spring_xcube.png",
+      "source": "Stardew Enhanced - The Town-4860-2-0-3-1576443589",
+      "target": "",
+      "time": 1576078045000
+    },
+    {
+      "relPath": "[[CP] SETown\\assets\\summer_xcube.png",
+      "source": "Stardew Enhanced - The Town-4860-2-0-3-1576443589",
+      "target": "",
+      "time": 1576077975000
+    },
+    {
+      "relPath": "[[CP] SETown\\assets\\TownHouses.tbin",
+      "source": "Stardew Enhanced - The Town-4860-2-0-3-1576443589",
+      "target": "",
+      "time": 1576423203000
+    },
+    {
+      "relPath": "[[CP] SETown\\assets\\TownShortcuts.tbin",
+      "source": "Stardew Enhanced - The Town-4860-2-0-3-1576443589",
+      "target": "",
+      "time": 1576226799000
+    },
+    {
+      "relPath": "[[CP] SETown\\assets\\TownSquare.tbin",
+      "source": "Stardew Enhanced - The Town-4860-2-0-3-1576443589",
+      "target": "",
+      "time": 1576092955000
+    },
+    {
+      "relPath": "[[CP] SETown\\assets\\winter_xcube.png",
+      "source": "Stardew Enhanced - The Town-4860-2-0-3-1576443589",
+      "target": "",
+      "time": 1576081322000
+    },
+    {
+      "relPath": "[[CP] SEShortcuts\\content.json",
+      "source": "Stardew Enhanced - Shortcuts-4833-2-2-1-1579350707",
+      "target": "",
+      "time": 1579038605000
+    },
+    {
+      "relPath": "[[CP] SEShortcuts\\manifest.json",
+      "source": "Stardew Enhanced - Shortcuts-4833-2-2-1-1579350707",
+      "target": "",
+      "time": 1579036591000
+    },
+    {
+      "relPath": "[[CP] SEShortcuts\\assets\\BeachShortcuts.tbin",
+      "source": "Stardew Enhanced - Shortcuts-4833-2-2-1-1579350707",
+      "target": "",
+      "time": 1579345244000
+    },
+    {
+      "relPath": "[[CP] SEShortcuts\\assets\\ForestShortcutsF.tbin",
+      "source": "Stardew Enhanced - Shortcuts-4833-2-2-1-1579350707",
+      "target": "",
+      "time": 1575909767000
+    },
+    {
+      "relPath": "[[CP] SEShortcuts\\assets\\BeachShortcutsF.tbin",
+      "source": "Stardew Enhanced - Shortcuts-4833-2-2-1-1579350707",
+      "target": "",
+      "time": 1575913855000
+    },
+    {
+      "relPath": "[[CP] SEShortcuts\\assets\\ForestShortcuts.tbin",
+      "source": "Stardew Enhanced - Shortcuts-4833-2-2-1-1579350707",
+      "target": "",
+      "time": 1579345249000
+    },
+    {
+      "relPath": "[[CP] SEShortcuts\\assets\\MountainShortcuts.tbin",
+      "source": "Stardew Enhanced - Shortcuts-4833-2-2-1-1579350707",
+      "target": "",
+      "time": 1579345622000
+    },
+    {
+      "relPath": "[[CP] SEShortcuts\\assets\\MountainShortcutsF.tbin",
+      "source": "Stardew Enhanced - Shortcuts-4833-2-2-1-1579350707",
+      "target": "",
+      "time": 1575912469000
+    },
+    {
+      "relPath": "[[CP] SEForest\\manifest.json",
+      "source": "Stardew Enhanced - Wizard's Tower-5224-2-0-0-1579352752",
+      "target": "",
+      "time": 1579352692000
+    },
+    {
+      "relPath": "[[CP] SEShortcuts\\assets\\TownShortcuts.tbin",
+      "source": "Stardew Enhanced - Shortcuts-4833-2-2-1-1579350707",
+      "target": "",
+      "time": 1579345250000
+    },
+    {
+      "relPath": "[[CP] SEShortcuts\\assets\\TownShortcutsF.tbin",
+      "source": "Stardew Enhanced - Shortcuts-4833-2-2-1-1579350707",
+      "target": "",
+      "time": 1575914382000
+    },
+    {
+      "relPath": "[[CP] SEForest\\assets\\fall_xcube.png",
+      "source": "Stardew Enhanced - Wizard's Tower-5224-2-0-0-1579352752",
+      "target": "",
+      "time": 1576081424000
+    },
+    {
+      "relPath": "[[CP] SEForest\\assets\\winter_xcube.png",
+      "source": "Stardew Enhanced - Wizard's Tower-5224-2-0-0-1579352752",
+      "target": "",
+      "time": 1576081322000
+    },
+    {
+      "relPath": "[[CP] SEForest\\assets\\spring_xcube.png",
+      "source": "Stardew Enhanced - Wizard's Tower-5224-2-0-0-1579352752",
+      "target": "",
+      "time": 1576331384000
+    },
+    {
+      "relPath": "[[CP] SEForest\\assets\\summer_xcube.png",
+      "source": "Stardew Enhanced - Wizard's Tower-5224-2-0-0-1579352752",
+      "target": "",
+      "time": 1576077975000
+    },
+    {
+      "relPath": "[[CP] SETown\\config.json",
+      "source": "Stardew Enhanced - The Town-4860-2-0-3-1576443589",
+      "target": "",
+      "time": 1576443043000
+    },
+    {
+      "relPath": "[[CP] SEShortcuts\\config.json",
+      "source": "Stardew Enhanced - Shortcuts-4833-2-2-1-1579350707",
+      "target": "",
+      "time": 1579346553000
+    },
+    {
+      "relPath": "[[CP] SETown\\assets\\fall_xcube.png",
+      "source": "Stardew Enhanced - The Town-4860-2-0-3-1576443589",
+      "target": "",
+      "time": 1576077926000
+    },
+    {
+      "relPath": "[[CP] SEShortcuts\\assets\\BackwoodsShortcuts.tbin",
+      "source": "Stardew Enhanced - Shortcuts-4833-2-2-1-1579350707",
+      "target": "",
+      "time": 1575816065000
+    },
+    {
+      "relPath": "[[CP] SEForest\\content.json",
+      "source": "Stardew Enhanced - Wizard's Tower-5224-2-0-0-1579352752",
+      "target": "",
+      "time": 1579350982000
+    },
+    {
+      "relPath": "[[CP] SEForest\\assets\\ForestTest.tbin",
+      "source": "Stardew Enhanced - Wizard's Tower-5224-2-0-0-1579352752",
+      "target": "",
+      "time": 1576423064000
+    },
+    {
+      "relPath": "NPCMapLocations\\config\\globals.json",
+      "source": "NPC Map Locations-239-2-5-11-1597472336",
+      "target": "",
+      "time": 1605423263000
+    },
+    {
+      "relPath": "NPCMapLocations\\config\\SoleilFF_265028777.json",
+      "source": "NPC Map Locations-239-2-5-11-1597472336",
+      "target": "",
+      "time": 1605433916000
+    },
+    {
+      "relPath": "AnimalHusbandryMod\\data\\farmers\\SoleilFF_265028777.json",
+      "source": "AnimalHusbandryMod-v2.4.2-beta6-1538-2-4-2-beta6-1578378946",
+      "target": "",
+      "time": 1605433933000
+    },
+    {
+      "relPath": "[CP] Elle's Seasonal Buildings\\config.json",
+      "source": "Seasonal Buildings-1993-1-2-1-1576365654",
+      "target": "",
+      "time": 1605500756000
+    },
+    {
+      "relPath": "WeatherIllnesses\\config.json",
+      "source": "Weather Illnesses-2210-1-1-5-1598293571",
+      "target": "",
+      "time": 1605500745000
+    },
+    {
+      "relPath": "AnimalHusbandryMod\\config.json",
+      "source": "AnimalHusbandryMod-v2.4.2-beta6-1538-2-4-2-beta6-1578378946",
+      "target": "",
+      "time": 1605500750000
+    },
+    {
+      "relPath": "GetGlam\\assets\\dresser.png",
+      "source": "Get Glam 1.1.0-5044-1-1-0-1581324179",
+      "target": "",
+      "time": 1605500838000
+    },
+    {
+      "relPath": "CustomCaskMod\\config.json",
+      "source": "CustomCaskMod-v1.2.1-2642-1-2-1-1574830411",
+      "target": "",
+      "time": 1605500751000
+    },
+    {
+      "relPath": "AnimalHusbandryMod\\data\\meats.json",
+      "source": "AnimalHusbandryMod-v2.4.2-beta6-1538-2-4-2-beta6-1578378946",
+      "target": "",
+      "time": 1605505928000
+    },
+    {
+      "relPath": "AnimalHusbandryMod\\data\\animalContest.json",
+      "source": "AnimalHusbandryMod-v2.4.2-beta6-1538-2-4-2-beta6-1578378946",
+      "target": "",
+      "time": 1605500750000
+    },
+    {
+      "relPath": "AnimalHusbandryMod\\data\\animals.json",
+      "source": "AnimalHusbandryMod-v2.4.2-beta6-1538-2-4-2-beta6-1578378946",
+      "target": "",
+      "time": 1605500750000
+    },
+    {
+      "relPath": "AnimalHusbandryMod\\data\\cooking.json",
+      "source": "AnimalHusbandryMod-v2.4.2-beta6-1538-2-4-2-beta6-1578378946",
+      "target": "",
+      "time": 1605500750000
+    },
+    {
+      "relPath": "[CP] Better Resources\\config.json",
+      "source": "Better Resources-6942-1-1-3-1601352581",
+      "target": "",
+      "time": 1605500756000
+    },
+    {
+      "relPath": "CustomCaskMod\\data\\CaskData.json",
+      "source": "CustomCaskMod-v1.2.1-2642-1-2-1-1574830411",
+      "target": "",
+      "time": 1605500751000
+    },
+    {
+      "relPath": "AnimalHusbandryMod\\data\\animalBuilding.json",
+      "source": "AnimalHusbandryMod-v2.4.2-beta6-1538-2-4-2-beta6-1578378946",
+      "target": "",
+      "time": 1605500750000
+    },
+    {
+      "relPath": "[CP] Better Gems and Minerals\\config.json",
+      "source": "Better Gems and Minerals-5443-1-0-1-1582280178",
+      "target": "",
+      "time": 1605500755000
+    },
+    {
+      "relPath": "[CP] Industrial Furniture Set\\config.json",
+      "source": "Industrial Furniture Set-5444-1-7-1590696307",
+      "target": "",
+      "time": 1605500757000
+    },
+    {
+      "relPath": "[CP] Seasonal Fences\\config.json",
+      "source": "Seasonal Fences-4870-1-2-1582627803",
+      "target": "",
+      "time": 1605500759000
+    },
+    {
+      "relPath": "[CP] Seasonal Floorings\\config.json",
+      "source": "Seasonal Floorings-4852-1-2-1587925773",
+      "target": "",
+      "time": 1605500759000
+    },
+    {
+      "relPath": "[CP] Seasonal Cute Characters\\config.json",
+      "source": "Seasonal Cute Characters-5450-1-4-1-1595619723",
+      "target": "",
+      "time": 1605500758000
+    },
+    {
+      "relPath": "[CP] Stardew Foliage Redone - original\\config.json",
+      "source": "Stardew Foliage Redone original-4705-2-1-1582157604",
+      "target": "",
+      "time": 1605500761000
+    },
+    {
+      "relPath": "[CP] Industrial Kitchen and Interior\\config.json",
+      "source": "Industrial Kitchen and Interior-5351-1-5-1592061020",
+      "target": "",
+      "time": 1605500758000
+    },
+    {
+      "relPath": "[CP] Better Fishing and Beach Foraging\\config.json",
+      "source": "WIP1 BFaBF-6915-0-9-0-1600904828",
+      "target": "",
+      "time": 1605500755000
+    },
+    {
+      "relPath": "[CP] Fishing Made Easy Suite\\config.json",
+      "source": "Fishing Made Easy Suite-3623-2-0-7-1601684690",
+      "target": "",
+      "time": 1605500756000
+    },
+    {
+      "relPath": "[CP]LinusTreehouse\\config.json",
+      "source": "LinusTreehouseCP-5567-1-1-3-1587046887",
+      "target": "",
+      "time": 1605500766000
+    },
+    {
+      "relPath": "Fizzy Drinks 2.1.0\\[FTM] Fizzy Drinks\\content.json",
+      "source": "Fizzy Drinks 2.1.0-5342-2-1-0-1605233938",
+      "target": "",
+      "time": 1605505576000
+    },
+    {
       "relPath": "Magic\\config.json",
       "source": "Magic 0.3.1",
       "target": "",
-      "time": 1605417036000
+      "time": 1605500740000
     },
     {
       "relPath": "ClimatesOfFerngill\\config.json",
       "source": "Climates of Ferngill-604-1-5-12-1598294961",
       "target": "",
-      "time": 1605417035000
-    },
-    {
-      "relPath": "Swim\\config.json",
-      "source": "Swim Mod-6326-1-4-0-1601253908",
-      "target": "",
-      "time": 1605417036000
+      "time": 1605500739000
     },
     {
       "relPath": "StardewNotification\\config.json",
       "source": "Stardew Notifications-4713-1-8-1-1574792559",
       "target": "",
-      "time": 1605417039000
+      "time": 1605500744000
     },
     {
-      "relPath": "QuestFramework\\config.json",
-      "source": "Quest Framework 1.1.1-6414-1-1-1-1604914610",
+      "relPath": "Swim\\config.json",
+      "source": "Swim Mod-6326-1-4-0-1601253908",
       "target": "",
-      "time": 1605417036000
+      "time": 1605504155000
     },
     {
       "relPath": "Paritee's Better Farm Animal Variety\\config.json",
       "source": "Paritees_Better_Farm_Animal_Variety_3.0.6-unofficial",
       "target": "",
-      "time": 1605417030000
+      "time": 1605500734000
     },
     {
       "relPath": "Paritee's Better Farm Animal Variety\\cache\\farm-animals.json",
       "source": "Paritees_Better_Farm_Animal_Variety_3.0.6-unofficial",
       "target": "",
-      "time": 1605417030000
+      "time": 1605500750000
+    },
+    {
+      "relPath": "QuestFramework\\config.json",
+      "source": "Quest Framework 1.1.1-6414-1-1-1-1604914610",
+      "target": "",
+      "time": 1605500741000
     },
     {
       "relPath": "TMXLoader\\config.json",
       "source": "TMXL Map Toolkit-1820-1-20-1-1601037266",
       "target": "",
-      "time": 1605417035000
+      "time": 1605500740000
     },
     {
       "relPath": "GetGlam\\config.json",
       "source": "Get Glam 1.1.0-5044-1-1-0-1581324179",
       "target": "",
-      "time": 1605417036000
+      "time": 1605500740000
     }
   ]
 }

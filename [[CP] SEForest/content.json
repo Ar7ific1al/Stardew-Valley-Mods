@@ -1,0 +1,32 @@
+{
+   "Format": "1.10.0",
+   //CONFIG
+   "ConfigSchema": {
+
+   },
+   "Changes": [
+ 	{
+	"Action": "EditData",
+	"Target": "Strings/StringsFromMaps",
+	"Entries": {
+		"SEForest.1": "The door shuts by itself every time you open it more than a few inches.",
+	},
+	},
+    {
+         "Action": "EditMap",
+         "Target": "Maps/Forest",
+		 "MapProperties": {
+            "DayTiles": "AlwaysFront 3 23 995 AlwaysFront 8 42 517 AlwaysFront 12 32 351 AlwaysFront 4 30 490",
+			"NightTiles": "AlwaysFront 3 23 131 AlwaysFront 8 42 131 AlwaysFront 12 32 131 AlwaysFront 4 30 131",
+            "Light": "3 23 5 8 42 5 12 32 5 4 30 5",
+         }
+	},
+	{
+        "Action": "EditMap",
+        "Target": "Maps/Forest",
+        "FromFile": "assets/ForestTest.tbin",
+        "FromArea": { "X": 0, "Y": 15, "Width": 14, "Height": 35 },
+        "ToArea": { "X": 0, "Y": 15, "Width": 14, "Height":35 },
+    },
+   ]
+}

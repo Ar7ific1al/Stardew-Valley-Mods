@@ -1,0 +1,13 @@
+{
+  "Name": "Stardew Enhanced - Wizard's Tower",
+  "Author": "XCube",
+  "Version": "2.0.0",
+  "Description": "Redecorates the area around wizard's Tower.",
+  "UniqueID": "SEnhanced.Forest",
+  "MinimumApiVersion": "2.11.0",
+  "UpdateKeys": [ "Nexus:5224" ],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher", // the ID of required mod
+    "MinimumVersion": "1.10.0" // optional
+  }
+}
