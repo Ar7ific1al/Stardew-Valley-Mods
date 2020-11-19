@@ -1,5 +1,43 @@
 {
   "PregnancyData": [],
-  "AnimalData": [],
-  "AnimalContestData": []
+  "AnimalData": [
+    {
+      "Id": -10,
+      "_lastDayFeedTreat": null,
+      "FeedTreatsQuantity": {},
+      "_dayParticipatedContest": "26 spring Y1",
+      "HasWon": false
+    },
+    {
+      "Id": -510212281195732219,
+      "_lastDayFeedTreat": null,
+      "FeedTreatsQuantity": {},
+      "_dayParticipatedContest": null,
+      "HasWon": null
+    },
+    {
+      "Id": -510211224801549562,
+      "_lastDayFeedTreat": null,
+      "FeedTreatsQuantity": {},
+      "_dayParticipatedContest": null,
+      "HasWon": null
+    }
+  ],
+  "AnimalContestData": [
+    {
+      "EventId": 657201026,
+      "_date": "26 spring Y1",
+      "Contenders": [
+        "Marnie",
+        "Jas",
+        "Jodi"
+      ],
+      "VincentAnimal": "Frog",
+      "MarnieAnimal": "Goat",
+      "PlayerAnimal": "Cat",
+      "Winner": "Marnie",
+      "ParticipantId": -10,
+      "FarmAnimalScore": null
+    }
+  ]
 }
